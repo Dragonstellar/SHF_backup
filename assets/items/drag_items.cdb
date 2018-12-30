@@ -1,0 +1,1645 @@
+{
+	"sheets": [
+		{
+			"name": "item_modes",
+			"columns": [
+				{
+					"typeStr": "6:items",
+					"name": "item"
+				},
+				{
+					"typeStr": "5:NONE,PONY",
+					"name": "rig"
+				},
+				{
+					"typeStr": "5:NONE,PUSSY_WHOLE,PUSSY_INSIDE,PUSSY_OUTSIDE,CLIT,VAGINA_URETHRA,ASS_WHOLE,ASS_INSIDE,ASS_OUTSIDE,PERINEUM,BALLS_BOTH,BALL_RIGHT,BALL_LEFT,PENIS_WHOLE,PENIS_BASE,PENIS_MID,PENIS_TIP,PENIS_URETHRA,TITS_BOTH,TIT_RIGHT,TIT_LEFT,NIPPLES_BOTH,NIPPLE_RIGHT,NIPPLE_LEFT,MOUTH,TONGUE,EYES,HEAD,NECK,HOOVES",
+					"name": "part"
+				},
+				{
+					"typeStr": "1",
+					"name": "bone_name",
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "anims",
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "models"
+				},
+				{
+					"typeStr": "2",
+					"name": "blocks",
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "touch_move",
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "move_ratios",
+					"opt": true
+				},
+				{
+					"typeStr": "8",
+					"name": "start_times",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "attach",
+					"opt": true
+				},
+				{
+					"typeStr": "8",
+					"name": "can_push",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "2",
+					"name": "falls_out",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "2",
+					"name": "sfx_squish"
+				}
+			],
+			"lines": [
+				{
+					"part": 2,
+					"anims": [
+						{
+							"v": "dragon_drag_pussy",
+							"v_end": "dragon_drag_pussy_end",
+							"h": "dragon_drag_pussy_h",
+							"h_end": "dragon_drag_pussy_h_end",
+							"models_v_end": "model_pussy_v_end",
+							"models_h_end": "model_pussy_h_end"
+						}
+					],
+					"blocks": true,
+					"bone_name": "item_p_megadragon",
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 50,
+									"h": 45
+								}
+							]
+						}
+					],
+					"item": "dragon_dildo",
+					"rig": 1,
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"leave_h": 0.5,
+							"attach_v_min": -1
+						}
+					],
+					"start_times": [
+						{
+							"v": 0,
+							"h": 0.5
+						}
+					],
+					"can_push": [
+						{
+							"v_start": false,
+							"v_end": true,
+							"h_start": true,
+							"h_end": true
+						}
+					],
+					"sfx_squish": true,
+					"models": [
+						{
+							"name": "default",
+							"attachment": "item_dildo_megadragon",
+							"sprite": "",
+							"none_anim": "",
+							"h_anim": "",
+							"v_anim": ""
+						}
+					]
+				},
+				{
+					"item": "dragon_dildo",
+					"rig": 1,
+					"part": 7,
+					"bone_name": "item_a_megadragon",
+					"anims": [
+						{
+							"v": "dragon_drag_ass_v",
+							"v_end": "dragon_drag_ass_v_end",
+							"h": "dragon_drag_ass_h",
+							"h_end": "dragon_drag_ass_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 50,
+									"h": 45
+								}
+							],
+							"pain": [
+								{
+									"v": 5,
+									"h": 5
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": -1,
+							"leave_h": 0.5
+						}
+					],
+					"sfx_squish": true,
+					"models": [
+						{
+							"name": "default",
+							"attachment": "",
+							"sprite": "",
+							"v_anim": "",
+							"h_anim": "",
+							"none_anim": ""
+						}
+					]
+				},
+				{
+					"item": "smalldragon_dildo",
+					"rig": 1,
+					"part": 2,
+					"bone_name": "item_p_smalldragon",
+					"anims": [
+						{
+							"v": "smalldragon_drag_pussy",
+							"v_end": "smalldragon_drag_pussy_end",
+							"h": "smalldragon_drag_pussy_h",
+							"h_end": "smalldragon_drag_pussy_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 30,
+									"h": 15
+								}
+							],
+							"pain": [
+								{
+									"v": 2,
+									"h": 2
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": 0,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": -1,
+							"leave_v": -1,
+							"leave_h": 0.5
+						}
+					],
+					"sfx_squish": true,
+					"models": [
+						{
+							"name": "default",
+							"attachment": "base2/item_dildo_dragon",
+							"sprite": "",
+							"v_anim": "",
+							"h_anim": "",
+							"none_anim": ""
+						}
+					]
+				},
+				{
+					"item": "smalldragon_dildo",
+					"rig": 1,
+					"part": 7,
+					"bone_name": "item_a_smalldragon",
+					"anims": [
+						{
+							"v": "smalldragon_drag_ass_v",
+							"v_end": "smalldragon_drag_ass_v_end",
+							"h": "smalldragon_drag_ass_h",
+							"h_end": "smalldragon_drag_ass_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 30,
+									"h": 15
+								}
+							],
+							"pain": [
+								{
+									"v": 2
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": -1,
+							"leave_v": -1,
+							"leave_h": 0.5
+						}
+					],
+					"sfx_squish": true,
+					"models": []
+				},
+				{
+					"item": "horse_dildo",
+					"rig": 1,
+					"part": 2,
+					"bone_name": "item_p_dildo",
+					"anims": [
+						{
+							"v": "dildo_drag_pussy_v",
+							"v_end": "dildo_drag_pussy_v_end",
+							"h": "dildo_drag_pussy_h",
+							"h_end": "dildo_drag_pussy_h_end",
+							"models_h_end": "horse_drag_pussy_h_end",
+							"models_v_end": "horse_drag_pussy_v_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 30,
+									"h": 15
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": 0,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": -1,
+							"leave_v": -1,
+							"leave_h": 0.5
+						}
+					],
+					"sfx_squish": true,
+					"models": [
+						{
+							"name": "default",
+							"attachment": "base2/item_dildo_horse",
+							"sprite": "",
+							"v_anim": "horse_drag_pussy_v",
+							"h_anim": "horse_drag_pussy_h",
+							"none_anim": ""
+						},
+						{
+							"name": "red",
+							"attachment": "base2/item_dildo_test",
+							"sprite": "",
+							"v_anim": "horse_drag_pussy_v",
+							"h_anim": "horse_drag_pussy_h",
+							"none_anim": ""
+						},
+						{
+							"name": "big",
+							"attachment": "base2/item_dildo_test2",
+							"sprite": "",
+							"v_anim": "horse_drag_pussy_v",
+							"h_anim": "horse_drag_pussy_h",
+							"none_anim": ""
+						}
+					]
+				},
+				{
+					"item": "horse_dildo",
+					"rig": 1,
+					"part": 7,
+					"bone_name": "item_a_horse",
+					"anims": [
+						{
+							"v": "horse_drag_ass_v",
+							"v_end": "horse_drag_ass_v_end",
+							"h": "horse_drag_ass_h",
+							"h_end": "horse_drag_ass_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 30,
+									"h": 15
+								}
+							],
+							"pain": [
+								{
+									"v": 5,
+									"h": 5
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": -1,
+							"leave_v": -1,
+							"leave_h": 0.5
+						}
+					],
+					"sfx_squish": true,
+					"models": []
+				},
+				{
+					"item": "beads_dildo",
+					"rig": 1,
+					"part": 2,
+					"bone_name": "item_p_beads2",
+					"anims": [
+						{
+							"v": "bead2_drag_pussy",
+							"v_end": "bead2_drag_pussy_end",
+							"h": "bead2_drag_pussy_h",
+							"h_end": "bead2_drag_pussy_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 40,
+									"h": 20
+								}
+							],
+							"pain": [
+								{
+									"v": 5
+								}
+							],
+							"overstim": [
+								{
+									"v": 1
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": 0,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": -1,
+							"leave_v": -1,
+							"leave_h": 0.5
+						}
+					],
+					"sfx_squish": true,
+					"models": [
+						{
+							"name": "default",
+							"attachment": "base2/item_beads2",
+							"sprite": "",
+							"v_anim": "",
+							"h_anim": "",
+							"none_anim": ""
+						}
+					]
+				},
+				{
+					"item": "beads_dildo",
+					"rig": 1,
+					"part": 7,
+					"bone_name": "item_a_beads",
+					"anims": [
+						{
+							"v": "bead2_drag_ass_v",
+							"v_end": "bead2_drag_ass_v_end",
+							"h": "bead2_drag_ass_h",
+							"h_end": "bead2_drag_ass_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 40,
+									"h": 20
+								}
+							],
+							"pain": [
+								{
+									"v": 5
+								}
+							],
+							"overstim": [
+								{
+									"v": 1
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": 0,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"leave_v": -1,
+							"leave_h": 0.5,
+							"attach_v_min": -1
+						}
+					],
+					"sfx_squish": true,
+					"models": []
+				},
+				{
+					"item": "shock_dildo",
+					"rig": 1,
+					"part": 2,
+					"bone_name": "item_p_shockdildo",
+					"anims": [
+						{
+							"none": "shockdildo_drag_all_none",
+							"none_end": "shockdildo_drag_all_none_end",
+							"v": "shockdildo_drag_pussy_v",
+							"v_end": "shockdildo_drag_pussy_v_end",
+							"h": "shockdildo_drag_pussy_h",
+							"h_end": "shockdildo_drag_pussy_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 15,
+									"h": 10
+								}
+							],
+							"pain": [
+								{
+									"base": 55,
+									"v": 30,
+									"h": 20
+								}
+							],
+							"overstim": [
+								{
+									"v": 1,
+									"h": 1
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": -1,
+							"leave_v": -1,
+							"leave_h": 0.5
+						}
+					],
+					"sfx_squish": true,
+					"models": []
+				},
+				{
+					"item": "shock_dildo",
+					"rig": 1,
+					"part": 7,
+					"bone_name": "item_a_shockdildo",
+					"anims": [
+						{
+							"none": "shockdildo_drag_ass_none",
+							"none_end": "shockdildo_drag_ass_none_end",
+							"v": "shockdildo_drag_ass_v",
+							"v_end": "shockdildo_drag_ass_v_end",
+							"h": "shockdildo_drag_ass_h",
+							"h_end": "shockdildo_drag_ass_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 15,
+									"h": 10
+								}
+							],
+							"pain": [
+								{
+									"base": 55,
+									"v": 30,
+									"h": 20
+								}
+							],
+							"overstim": [
+								{
+									"v": 1,
+									"h": 1
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"leave_v": -1,
+							"leave_h": 0.5,
+							"attach_v_min": -1
+						}
+					],
+					"sfx_squish": true,
+					"models": []
+				},
+				{
+					"item": "shock_dildo",
+					"rig": 1,
+					"part": 4,
+					"bone_name": "item_c_shockdildo",
+					"anims": [
+						{
+							"v": "shockdildo_drag_clit_v",
+							"v_end": "shockdildo_drag_clit_v_end",
+							"none": "shockdildo_drag_clit_none",
+							"none_end": "shockdildo_drag_clit_none_end",
+							"h": "shockdildo_drag_clit_h",
+							"h_end": "shockdildo_drag_clit_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pain": [
+								{
+									"base": 70,
+									"v": 40,
+									"h": 30
+								}
+							],
+							"pleasure": [
+								{
+									"v": 10,
+									"h": 10
+								}
+							],
+							"overstim": [
+								{
+									"v": 1
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": false
+						}
+					],
+					"can_push": [
+						{
+							"v_start": false,
+							"v_end": false,
+							"h_start": false,
+							"h_end": false
+						}
+					],
+					"sfx_squish": false,
+					"models": []
+				},
+				{
+					"item": "plug_canine",
+					"rig": 1,
+					"part": 2,
+					"bone_name": "item_p_plug_vibe",
+					"anims": [
+						{
+							"none": "analvibe_drag_pussy_none",
+							"none_end": "analvibe_drag_pussy_none_end",
+							"v": "analvibe_drag_pussy_v",
+							"v_end": "analvibe_drag_pussy_v_end",
+							"h": "analvibe_drag_pussy_h",
+							"h_end": "analvibe_drag_pussy_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pain": [
+								{
+									"base": 4,
+									"v": 35,
+									"h": 20
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": -1,
+							"leave_h": 0.5,
+							"leave_v": -1
+						}
+					],
+					"sfx_squish": true,
+					"models": []
+				},
+				{
+					"item": "plug_canine",
+					"rig": 1,
+					"part": 7,
+					"bone_name": "item_a_plug_vibe",
+					"anims": [
+						{
+							"none": "analvibe_drag_all",
+							"none_end": "analvibe_drag_all_end",
+							"v": "analvibe_drag_ass_v",
+							"v_end": "analvibe_drag_ass_v_end",
+							"h": "analvibe_drag_ass_h",
+							"h_end": "analvibe_drag_ass_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"base": 2,
+									"v": 15,
+									"h": 10
+								}
+							],
+							"pain": []
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": -1,
+							"leave_v": -1,
+							"leave_h": 0.5
+						}
+					],
+					"sfx_squish": true,
+					"models": []
+				},
+				{
+					"item": "plug_canine",
+					"rig": 1,
+					"part": 4,
+					"bone_name": "item_a_plug_vibe",
+					"anims": [
+						{
+							"none_end": "analvibe_drag_all_end",
+							"v": "analvibe_drag_clit_v",
+							"v_end": "analvibe_drag_clit_v_end",
+							"h": "analvibe_drag_clit_h",
+							"h_end": "analvibe_drag_clit_h_end",
+							"none": "analvibe_drag_all"
+						}
+					],
+					"blocks": false,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"base": 6,
+									"v": 75,
+									"h": 75
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": false
+						}
+					],
+					"can_push": [
+						{
+							"v_start": false,
+							"v_end": false,
+							"h_start": false,
+							"h_end": false
+						}
+					],
+					"sfx_squish": false,
+					"models": []
+				},
+				{
+					"item": "plug_shock",
+					"rig": 1,
+					"part": 7,
+					"bone_name": "item_a_plug_shock",
+					"anims": [
+						{
+							"none": "analshock_drag_all_none",
+							"none_end": "analshock_drag_all_none_end",
+							"v": "analshock_drag_ass_v",
+							"v_end": "analshock_drag_ass_v_end",
+							"h": "analshock_drag_ass_h",
+							"h_end": "analshock_drag_ass_h_end"
+						}
+					],
+					"blocks": true,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 2,
+									"h": 2
+								}
+							],
+							"pain": [
+								{
+									"base": 55,
+									"v": 30,
+									"h": 20
+								}
+							],
+							"overstim": [
+								{
+									"v": 1,
+									"h": 1
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": -1,
+							"leave_v": -1,
+							"leave_h": 0.5
+						}
+					],
+					"sfx_squish": true,
+					"models": []
+				},
+				{
+					"item": "sheath",
+					"rig": 1,
+					"part": 13,
+					"bone_name": "item_d_sheath",
+					"anims": [
+						{
+							"v": "sheath_drag_penis_v",
+							"v_end": "sheath_drag_penis_v_end",
+							"h": "sheath_drag_penis_h",
+							"h_end": "sheath_drag_penis_h_end"
+						}
+					],
+					"blocks": false,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"v": 70,
+									"h": 6
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"leave_h": 0.5,
+							"leave_v": -1,
+							"attach_v_min": -1
+						}
+					],
+					"can_push": [
+						{
+							"v_start": false,
+							"v_end": true,
+							"h_start": false,
+							"h_end": false
+						}
+					],
+					"move_ratios": [
+						{
+							"v": -1.5
+						}
+					],
+					"sfx_squish": true,
+					"models": []
+				},
+				{
+					"item": "bullet_vibe",
+					"rig": 1,
+					"part": 4,
+					"bone_name": "item_c_bullet",
+					"anims": [
+						{
+							"none": "bulletvibe_drag_clit_none",
+							"none_end": "bulletvibe_drag_clit_none_end",
+							"v": "bulletvibe_drag_clit_v",
+							"v_end": "bulletvibe_drag_clit_v_end",
+							"h": "bulletvibe_drag_clit_h",
+							"h_end": "bulletvibe_drag_clit_h_end"
+						}
+					],
+					"blocks": false,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"base": 4,
+									"v": 10,
+									"h": 10
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": -1,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": -1,
+							"attach_v_max": 1,
+							"attach_h_min": -1,
+							"attach_h_max": -1,
+							"leave_v": -1,
+							"leave_h": -1
+						}
+					],
+					"can_push": [
+						{
+							"v_start": false,
+							"v_end": false,
+							"h_start": false,
+							"h_end": false
+						}
+					],
+					"sfx_squish": false,
+					"models": []
+				},
+				{
+					"item": "bullet_vibe",
+					"rig": 1,
+					"part": 16,
+					"bone_name": "item_d_bullet",
+					"anims": [
+						{
+							"none": "bulletvibe_drag_penis_none",
+							"none_end": "bulletvibe_drag_penis_none_end",
+							"v": "bulletvibe_drag_penis_v",
+							"v_end": "bulletvibe_drag_penis_v_end",
+							"h": "bulletvibe_drag_penis_h",
+							"h_end": "bulletvibe_drag_penis_h_end"
+						}
+					],
+					"blocks": false,
+					"touch_move": [
+						{
+							"pleasure": [
+								{
+									"base": 4,
+									"v": 10,
+									"h": 10
+								}
+							]
+						}
+					],
+					"start_times": [
+						{
+							"v": 0.5,
+							"h": 0.5
+						}
+					],
+					"attach": [
+						{
+							"can_leave_attached": true,
+							"attach_v_min": 0,
+							"attach_v_max": -1,
+							"attach_h_min": -1,
+							"attach_h_max": -1,
+							"leave_v": -1,
+							"leave_h": -1
+						}
+					],
+					"can_push": [
+						{
+							"v_start": false,
+							"v_end": false,
+							"h_start": false,
+							"h_end": false
+						}
+					],
+					"sfx_squish": false,
+					"models": []
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "item_modes@anims",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "1",
+					"name": "v",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "v_end",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "h",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "h_end",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "none",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "none_end",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "models_v_end",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "models_h_end",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "models_none_end",
+					"opt": true,
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "item_modes@start_times",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "4",
+					"name": "v",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "h",
+					"opt": true
+				}
+			]
+		},
+		{
+			"name": "item_modes@move_ratios",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "4",
+					"name": "v",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "h",
+					"opt": true
+				}
+			]
+		},
+		{
+			"name": "item_modes@attach",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "2",
+					"name": "can_leave_attached",
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "attach_v_min",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "attach_v_max",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "attach_h_min",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "attach_h_max",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "leave_v",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "leave_h",
+					"opt": true
+				}
+			]
+		},
+		{
+			"name": "item_modes@can_push",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "2",
+					"name": "v_start",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "2",
+					"name": "v_end",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "2",
+					"name": "h_start",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "2",
+					"name": "h_end",
+					"opt": true,
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "item_modes@touch_move",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "8",
+					"name": "pleasure",
+					"opt": true
+				},
+				{
+					"typeStr": "8",
+					"name": "pain",
+					"opt": true
+				},
+				{
+					"typeStr": "8",
+					"name": "overstim",
+					"opt": true
+				}
+			]
+		},
+		{
+			"name": "item_modes@touch_move@pleasure",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "3",
+					"name": "base",
+					"opt": true
+				},
+				{
+					"typeStr": "3",
+					"name": "v",
+					"opt": true
+				},
+				{
+					"typeStr": "3",
+					"name": "h",
+					"opt": true
+				}
+			]
+		},
+		{
+			"name": "item_modes@touch_move@overstim",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "3",
+					"name": "base",
+					"opt": true
+				},
+				{
+					"typeStr": "3",
+					"name": "v",
+					"opt": true
+				},
+				{
+					"typeStr": "3",
+					"name": "h",
+					"opt": true
+				}
+			]
+		},
+		{
+			"name": "item_modes@touch_move@pain",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "3",
+					"name": "base",
+					"opt": true
+				},
+				{
+					"typeStr": "3",
+					"name": "v",
+					"opt": true
+				},
+				{
+					"typeStr": "3",
+					"name": "h",
+					"opt": true
+				}
+			]
+		},
+		{
+			"name": "items",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "name"
+				},
+				{
+					"typeStr": "1",
+					"name": "texture_name"
+				},
+				{
+					"typeStr": "3",
+					"name": "table_x"
+				},
+				{
+					"typeStr": "3",
+					"name": "table_y"
+				},
+				{
+					"typeStr": "1",
+					"name": "icon_name",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "icon_scale",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "table_scale",
+					"opt": true
+				}
+			],
+			"lines": [
+				{
+					"name": "dragon_dildo",
+					"texture_name": "item_dildo_megadragon",
+					"table_x": 70,
+					"table_y": 16,
+					"icon_scale": 1
+				},
+				{
+					"name": "smalldragon_dildo",
+					"texture_name": "item_dildo_dragon",
+					"table_x": 195,
+					"table_y": 32,
+					"icon_scale": 0.6
+				},
+				{
+					"name": "horse_dildo",
+					"texture_name": "item_dildo_horse",
+					"table_x": 265,
+					"table_y": 32,
+					"icon_scale": 0.6
+				},
+				{
+					"name": "beads_dildo",
+					"texture_name": "item_beads2",
+					"table_x": 345,
+					"table_y": 16,
+					"icon_scale": 0.6
+				},
+				{
+					"name": "shock_dildo",
+					"texture_name": "item_dildo_shock",
+					"table_x": 410,
+					"table_y": 16,
+					"icon_scale": 0.6
+				},
+				{
+					"name": "plug_canine",
+					"texture_name": "item_plug_canine",
+					"table_x": 12,
+					"table_y": 16,
+					"icon_scale": 0.4
+				},
+				{
+					"name": "plug_shock",
+					"texture_name": "item_plug_shock",
+					"table_x": 22,
+					"table_y": 150,
+					"icon_scale": 0.4
+				},
+				{
+					"name": "sheath",
+					"texture_name": "item_sheath",
+					"table_x": 490,
+					"table_y": 90,
+					"icon_scale": 0.6
+				},
+				{
+					"name": "bullet_vibe",
+					"texture_name": "item_bullet_vibe",
+					"table_x": 480,
+					"table_y": 20,
+					"table_scale": 1.6,
+					"icon_scale": 0.4
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "item_modes@models",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "1",
+					"name": "name",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "attachment",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "sprite",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "v_anim"
+				},
+				{
+					"typeStr": "1",
+					"name": "h_anim"
+				},
+				{
+					"typeStr": "1",
+					"name": "none_anim"
+				}
+			]
+		}
+	],
+	"customTypes": [
+		{
+			"name": "TouchData",
+			"cases": [
+				{
+					"name": "VERTICAL",
+					"args": []
+				},
+				{
+					"name": "HORIZONTAL",
+					"args": []
+				},
+				{
+					"name": "HAS_EVENT",
+					"args": []
+				},
+				{
+					"name": "NONE",
+					"args": []
+				}
+			]
+		},
+		{
+			"name": "BodyParts",
+			"cases": [
+				{
+					"name": "NONE",
+					"args": []
+				},
+				{
+					"name": "PUSSY_WHOLE",
+					"args": []
+				},
+				{
+					"name": "PUSSY_INSIDE",
+					"args": []
+				},
+				{
+					"name": "PUSSY_OUTSIDE",
+					"args": []
+				},
+				{
+					"name": "CLIT",
+					"args": []
+				},
+				{
+					"name": "VAGINA_URETHRA",
+					"args": []
+				},
+				{
+					"name": "ASS_WHOLE",
+					"args": []
+				},
+				{
+					"name": "ASS_INSIDE",
+					"args": []
+				},
+				{
+					"name": "ASS_OUTSIDE",
+					"args": []
+				},
+				{
+					"name": "PERINEUM",
+					"args": []
+				},
+				{
+					"name": "BALLS_BOTH",
+					"args": []
+				},
+				{
+					"name": "BALL_RIGHT",
+					"args": []
+				},
+				{
+					"name": "BALL_LEFT",
+					"args": []
+				},
+				{
+					"name": "PENIS_WHOLE",
+					"args": []
+				},
+				{
+					"name": "PENIS_BASE",
+					"args": []
+				},
+				{
+					"name": "PENIS_MID",
+					"args": []
+				},
+				{
+					"name": "PENIS_TIP",
+					"args": []
+				},
+				{
+					"name": "PENIS_URETHRA",
+					"args": []
+				},
+				{
+					"name": "TITS_BOTH",
+					"args": []
+				},
+				{
+					"name": "TIT_RIGHT",
+					"args": []
+				},
+				{
+					"name": "TIT_LEFT",
+					"args": []
+				},
+				{
+					"name": "NIPPLES_BOTH",
+					"args": []
+				},
+				{
+					"name": "NIPPLE_RIGHT",
+					"args": []
+				},
+				{
+					"name": "NIPPLE_LEFT",
+					"args": []
+				},
+				{
+					"name": "MOUTH",
+					"args": []
+				},
+				{
+					"name": "TONGUE",
+					"args": []
+				},
+				{
+					"name": "EYES",
+					"args": []
+				},
+				{
+					"name": "HEAD",
+					"args": []
+				},
+				{
+					"name": "NECK",
+					"args": []
+				},
+				{
+					"name": "HOOVES",
+					"args": []
+				}
+			]
+		},
+		{
+			"name": "RigTypes",
+			"cases": [
+				{
+					"name": "NONE",
+					"args": []
+				},
+				{
+					"name": "PONY",
+					"args": []
+				}
+			]
+		},
+		{
+			"name": "Point",
+			"cases": []
+		}
+	],
+	"compress": false
+}

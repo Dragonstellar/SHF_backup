@@ -1,0 +1,167 @@
+
+wallbutt.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+characters/base/anus_closed
+  rotate: false
+  xy: 915, 212
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+characters/base/anus_open
+  rotate: false
+  xy: 867, 198
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+characters/base/anus_open_b
+  rotate: false
+  xy: 781, 2
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+characters/base/anus_open_t
+  rotate: true
+  xy: 839, 196
+  size: 73, 26
+  orig: 73, 26
+  offset: 0, 0
+  index: -1
+characters/base/balls
+  rotate: false
+  xy: 734, 266
+  size: 102, 78
+  orig: 102, 78
+  offset: 0, 0
+  index: -1
+characters/base/calf
+  rotate: false
+  xy: 531, 204
+  size: 201, 306
+  orig: 201, 306
+  offset: 0, 0
+  index: -1
+characters/base/cheeks_inner
+  rotate: true
+  xy: 680, 90
+  size: 112, 51
+  orig: 112, 51
+  offset: 0, 0
+  index: -1
+characters/base/dark_patch
+  rotate: true
+  xy: 856, 8
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+characters/base/dark_patch2
+  rotate: true
+  xy: 954, 210
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+characters/base/dick
+  rotate: false
+  xy: 880, 305
+  size: 88, 205
+  orig: 88, 205
+  offset: 0, 0
+  index: -1
+characters/base/dildo_1
+  rotate: true
+  xy: 869, 249
+  size: 54, 95
+  orig: 54, 95
+  offset: 0, 0
+  index: -1
+characters/base/frame base
+  rotate: true
+  xy: 2, 10
+  size: 500, 527
+  orig: 500, 527
+  offset: 0, 0
+  index: -1
+characters/base/hip
+  rotate: false
+  xy: 734, 346
+  size: 144, 164
+  orig: 144, 164
+  offset: 0, 0
+  index: -1
+characters/base/item_stroker
+  rotate: true
+  xy: 970, 392
+  size: 118, 44
+  orig: 118, 44
+  offset: 0, 0
+  index: -1
+characters/base/perineum
+  rotate: false
+  xy: 733, 94
+  size: 68, 99
+  orig: 68, 99
+  offset: 0, 0
+  index: -1
+characters/base/pussy_closed
+  rotate: false
+  xy: 803, 94
+  size: 68, 99
+  orig: 68, 99
+  offset: 0, 0
+  index: -1
+characters/base/pussy_open
+  rotate: true
+  xy: 680, 20
+  size: 68, 99
+  orig: 68, 99
+  offset: 0, 0
+  index: -1
+characters/base/pussy_open_b
+  rotate: true
+  xy: 873, 115
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+characters/base/pussy_open_t
+  rotate: true
+  xy: 970, 308
+  size: 82, 39
+  orig: 82, 39
+  offset: 0, 0
+  index: -1
+characters/base/tail
+  rotate: true
+  xy: 781, 34
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+characters/base/thigh
+  rotate: false
+  xy: 531, 21
+  size: 147, 181
+  orig: 147, 181
+  offset: 0, 0
+  index: -1
+characters/base/tits_lg
+  rotate: false
+  xy: 734, 195
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+characters/base/tits_sm
+  rotate: true
+  xy: 838, 271
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1

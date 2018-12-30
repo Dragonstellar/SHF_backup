@@ -1,0 +1,7656 @@
+{
+	"sheets": [
+		{
+			"name": "rigs_data",
+			"columns": [
+				{
+					"typeStr": "6:profile_sets",
+					"name": "profile",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "spine_atlas",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "spine_filename",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "skin",
+					"display": null
+				},
+				{
+					"typeStr": "5:NONE,PONY",
+					"name": "rig_type"
+				},
+				{
+					"typeStr": "2",
+					"name": "horn",
+					"display": null
+				},
+				{
+					"typeStr": "5:NONE,PONY,BAT,CHANGELING",
+					"name": "wings"
+				},
+				{
+					"typeStr": "8",
+					"name": "tints",
+					"opt": true
+				},
+				{
+					"typeStr": "11",
+					"name": "tint",
+					"display": null
+				},
+				{
+					"typeStr": "6:tint_sets",
+					"name": "tint_set",
+					"display": null
+				},
+				{
+					"typeStr": "11",
+					"name": "tint2",
+					"opt": true
+				},
+				{
+					"typeStr": "6:tint_sets",
+					"name": "tint_set2",
+					"opt": true
+				},
+				{
+					"typeStr": "11",
+					"name": "tint_eye0"
+				},
+				{
+					"typeStr": "11",
+					"name": "tint_eye1",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "11",
+					"name": "tint_blush"
+				},
+				{
+					"typeStr": "6:expression_sets",
+					"name": "expressions"
+				},
+				{
+					"typeStr": "1",
+					"name": "lashes",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "slots"
+				},
+				{
+					"typeStr": "6:bone_sets",
+					"name": "bone_tf"
+				},
+				{
+					"typeStr": "6:mess_sets",
+					"name": "mess_set",
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "sizes",
+					"opt": true,
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "applejack",
+					"horn": false,
+					"tint": 16432734,
+					"rig_type": 1,
+					"tint_set": "pony",
+					"bone_tf": "pony_female_base",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"wings": 0,
+					"profile": "applejack",
+					"mess_set": "pony_base",
+					"tint_blush": 13981807,
+					"expressions": "base",
+					"tint_eye0": 2652438,
+					"tint_eye1": 6404686,
+					"lashes": "female0",
+					"tints": [
+						{
+							"tint": 16432734,
+							"tint_set": "pony",
+							"tint_eye0": 2652438,
+							"tint_blush": 13981807,
+							"tint_eye1": 6404686
+						}
+					],
+					"sizes": [
+						{
+							"p_wetness_multiplier": 0.5,
+							"p_elastic_rate": 1.5,
+							"a_elastic_rate": 1.5,
+							"a_force_max": 1.5,
+							"a_default": 1.2,
+							"a_elastic_max": 5
+						}
+					]
+				},
+				{
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "dash",
+					"horn": false,
+					"tint": 10345209,
+					"rig_type": 1,
+					"tint_set": "pony",
+					"bone_tf": "pony_female_slim",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_female_slim"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						},
+						{
+							"slot_ref": "wing_feather"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"wings": 1,
+					"profile": "dash",
+					"mess_set": "pony_base",
+					"tint_blush": 13981807,
+					"expressions": "smirky",
+					"tint_eye0": 5770550,
+					"tint_eye1": 12328309,
+					"lashes": "female0",
+					"sizes": [
+						{
+							"p_elastic_max": 3.5,
+							"p_default": 0.8,
+							"p_force_max": 0.8,
+							"p_wetness_multiplier": 1.2,
+							"a_elastic_max": 3.5,
+							"p_elastic_rate": 1.1,
+							"a_elastic_rate": 1.1,
+							"a_force_max": 0.8
+						}
+					]
+				},
+				{
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "fluttershy",
+					"horn": false,
+					"tint": 16775064,
+					"rig_type": 1,
+					"tint_set": "pony",
+					"bone_tf": "pony_female_base",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						},
+						{
+							"slot_ref": "wing_feather"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"wings": 1,
+					"profile": "fluttershy",
+					"mess_set": "pony_base",
+					"tint_blush": 13981807,
+					"expressions": "base",
+					"tint_eye0": 1672849,
+					"tint_eye1": 8705190,
+					"lashes": "female0",
+					"sizes": [
+						{
+							"p_default": 0.8,
+							"p_wetness_multiplier": 1.3,
+							"p_elastic_rate": 1.3,
+							"a_elastic_rate": 1.3,
+							"p_elastic_max": 4.5,
+							"a_elastic_max": 4.5,
+							"a_default": 0.8
+						}
+					]
+				},
+				{
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "pinkie",
+					"horn": false,
+					"tint": 16300751,
+					"rig_type": 1,
+					"tint_set": "pony",
+					"bone_tf": "pony_female_chunky",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"wings": 0,
+					"profile": "pinkie",
+					"mess_set": "pony_base",
+					"tint_blush": 13981807,
+					"expressions": "base",
+					"tint_eye0": 1666705,
+					"tint_eye1": 8245489,
+					"lashes": "female0",
+					"sizes": [
+						{
+							"p_default": 2,
+							"p_elastic_max": 5,
+							"p_elastic_rate": 2,
+							"p_force_max": 1.5,
+							"a_default": 1.8,
+							"a_elastic_max": 5,
+							"a_elastic_rate": 1.5,
+							"a_force_max": 1.5
+						}
+					]
+				},
+				{
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "rarity",
+					"rig_type": 1,
+					"horn": true,
+					"tint": 15396592,
+					"tint_set": "pony",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_female_slim2"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"bone_tf": "pony_female_base",
+					"wings": 0,
+					"profile": "rarity",
+					"mess_set": "pony_base",
+					"tint_blush": 13981807,
+					"expressions": "base",
+					"tint_eye0": 2115435,
+					"tint_eye1": 3766200,
+					"lashes": "female0",
+					"sizes": [
+						{
+							"p_default": 1.2,
+							"p_elastic_max": 3.5,
+							"p_wetness_multiplier": 1.6,
+							"p_force_max": 0.8,
+							"a_default": 0.8,
+							"a_elastic_max": 3.5,
+							"a_force_max": 0.8
+						}
+					]
+				},
+				{
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "twilight",
+					"rig_type": 1,
+					"horn": true,
+					"tint": 13409503,
+					"tint_set": "pony",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						},
+						{
+							"slot_ref": "wing_feather"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"bone_tf": "pony_female_base",
+					"wings": 1,
+					"profile": "twilight",
+					"mess_set": "pony_base",
+					"tint_blush": 13981818,
+					"expressions": "base",
+					"tint_eye0": 3412581,
+					"tint_eye1": 6696841,
+					"lashes": "female0",
+					"sizes": [
+						{}
+					]
+				},
+				{
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "big_mac",
+					"rig_type": 1,
+					"horn": false,
+					"tint": 15354714,
+					"tint_set": "pony",
+					"bone_tf": "pony_male_big",
+					"slots": [
+						{
+							"slot_ref": "pony_male_base"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"wings": 0,
+					"profile": "big_mac",
+					"mess_set": "pony_base",
+					"tint_blush": 15964608,
+					"expressions": "base",
+					"tint_eye0": 2521620,
+					"tint_eye1": 6273867,
+					"sizes": [
+						{
+							"p_default": 1.5,
+							"a_default": 1,
+							"p_elastic_rate": 1.5,
+							"a_force_max": 1.5,
+							"a_elastic_max": 5
+						}
+					]
+				},
+				{
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "braeburn",
+					"rig_type": 1,
+					"horn": false,
+					"tint": 15590798,
+					"tint_set": "pony",
+					"bone_tf": "pony_male_girly",
+					"slots": [
+						{
+							"slot_ref": "pony_male_base"
+						},
+						{
+							"slot_ref": "pony_male_girly"
+						},
+						{
+							"slot_ref": "pony_piece_ear_l"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"wings": 0,
+					"profile": "braeburn",
+					"mess_set": "pony_base",
+					"tint_blush": 13981807,
+					"expressions": "smirky",
+					"tint_eye0": 2579456,
+					"tint_eye1": 9168462,
+					"sizes": [
+						{
+							"a_default": 1.8,
+							"a_elastic_rate": 1.5,
+							"a_force_max": 1.5
+						}
+					]
+				},
+				{
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "double_diamond",
+					"rig_type": 1,
+					"horn": false,
+					"tint": 16777215,
+					"tint_set": "pony",
+					"bone_tf": "pony_male_base",
+					"slots": [
+						{
+							"slot_ref": "pony_male_base"
+						},
+						{
+							"slot_ref": "pony_piece_ear_l"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"wings": 0,
+					"profile": "double_diamond",
+					"mess_set": "pony_base",
+					"tint_blush": 13981807,
+					"expressions": "base",
+					"tint_eye0": 1522565,
+					"tint_eye1": 11068927,
+					"sizes": [
+						{
+							"a_default": 1.5,
+							"a_elastic_rate": 1.3
+						}
+					]
+				},
+				{
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "changeling",
+					"rig_type": 1,
+					"horn": true,
+					"wings": 3,
+					"tint": 3750201,
+					"tint_set": "pony",
+					"slots": [
+						{
+							"slot_ref": "changeling_base"
+						},
+						{
+							"slot_ref": "wing_changeling"
+						},
+						{
+							"slot_ref": "piece_eye_changeling"
+						}
+					],
+					"bone_tf": "pony_changeling",
+					"tint2": 3801087,
+					"tint_set2": "changeling_secondary",
+					"profile": "changeling",
+					"mess_set": "pony_base",
+					"tint_blush": 3002497,
+					"expressions": "base",
+					"tint_eye0": 8650751,
+					"lashes": "female0",
+					"tint_eye1": 4055039
+				},
+				{
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "flutterbat",
+					"rig_type": 1,
+					"horn": false,
+					"wings": 2,
+					"tint": 16775064,
+					"tint_set": "pony",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_bat"
+						},
+						{
+							"slot_ref": "pony_bat_piece_ear_l"
+						},
+						{
+							"slot_ref": "wing_bat"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"bone_tf": "pony_female_base",
+					"profile": "flutterbat",
+					"mess_set": "pony_base",
+					"tint_blush": 13981807,
+					"expressions": "angry",
+					"tint_eye0": 12273480,
+					"tint_eye1": 16605281,
+					"lashes": "female0",
+					"sizes": [
+						{
+							"p_wetness_multiplier": 1.6,
+							"a_elastic_max": 4.5,
+							"a_elastic_rate": 1.3,
+							"p_elastic_rate": 1.3,
+							"p_elastic_max": 4.5,
+							"p_default": 1.2,
+							"a_default": 1.2
+						}
+					]
+				},
+				{
+					"profile": "trixie",
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "trixie",
+					"rig_type": 1,
+					"horn": true,
+					"wings": 0,
+					"tint": 7452911,
+					"tint_set": "pony",
+					"tint_eye0": 3810126,
+					"tint_blush": 13981807,
+					"expressions": "smirky",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"bone_tf": "pony_female_base",
+					"mess_set": "pony_base",
+					"tint_eye1": 13534918,
+					"lashes": "female0",
+					"sizes": [
+						{
+							"p_default": 1.4,
+							"p_elastic_rate": 1.4,
+							"p_wetness_multiplier": 1.5,
+							"a_elastic_rate": 1.4,
+							"a_default": 1.3,
+							"p_force_max": 1.4,
+							"a_force_max": 1.4
+						}
+					]
+				},
+				{
+					"profile": "celestia",
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "celestia",
+					"rig_type": 1,
+					"horn": true,
+					"wings": 1,
+					"tint": 15725814,
+					"tint_set": "pony",
+					"tint_eye0": 16771446,
+					"tint_blush": 13981807,
+					"expressions": "base",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_princess"
+						},
+						{
+							"slot_ref": "pony_piece_ear_r_only"
+						},
+						{
+							"slot_ref": "wing_feather"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"bone_tf": "pony_princess",
+					"mess_set": "pony_base",
+					"tint_eye1": 16154143,
+					"lashes": "female0",
+					"sizes": [
+						{
+							"p_default": 2,
+							"a_default": 1.8,
+							"p_elastic_max": 5.5,
+							"a_elastic_max": 5.5,
+							"a_elastic_rate": 1.6,
+							"p_elastic_rate": 1.6,
+							"a_force_max": 1.8,
+							"p_force_max": 1.8,
+							"p_wetness_multiplier": 0.4
+						}
+					]
+				},
+				{
+					"profile": "luna",
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "luna",
+					"rig_type": 1,
+					"horn": true,
+					"wings": 1,
+					"tint": 6383036,
+					"tint_set": "pony",
+					"tint_eye0": 12841727,
+					"tint_blush": 13981807,
+					"expressions": "base",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_female_slim2"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						},
+						{
+							"slot_ref": "wing_feather"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						}
+					],
+					"bone_tf": "pony_princess_short",
+					"mess_set": "pony_base",
+					"tint_eye1": 9949172,
+					"lashes": "female0",
+					"sizes": [
+						{
+							"p_default": 1.5,
+							"p_elastic_max": 5,
+							"p_elastic_rate": 1.3,
+							"p_wetness_multiplier": 0.6,
+							"a_default": 1.5,
+							"a_elastic_max": 5.5,
+							"a_elastic_rate": 1.4,
+							"a_force_max": 1.5
+						}
+					]
+				},
+				{
+					"profile": "chrysalis",
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "chrysalis",
+					"rig_type": 1,
+					"horn": true,
+					"wings": 3,
+					"tint": 3750201,
+					"tint_set": "pony",
+					"tint_eye0": 12641385,
+					"tint_blush": 3657773,
+					"expressions": "angry",
+					"slots": [
+						{
+							"slot_ref": "changeling_base"
+						},
+						{
+							"slot_ref": "changeling_chrysalis"
+						},
+						{
+							"slot_ref": "wing_changeling"
+						},
+						{
+							"slot_ref": "piece_eye_changeling"
+						}
+					],
+					"bone_tf": "pony_changeling_big",
+					"mess_set": "pony_base",
+					"tint_set2": "changeling_secondary",
+					"tint2": 9961384,
+					"tint_eye1": 3254616,
+					"sizes": [
+						{
+							"p_default": 2,
+							"a_default": 2,
+							"p_elastic_max": 5.5,
+							"p_elastic_rate": 2.5,
+							"p_force_max": 2,
+							"p_wetness_multiplier": 2,
+							"a_elastic_max": 5.5,
+							"a_elastic_rate": 2.5,
+							"a_force_max": 2
+						}
+					]
+				},
+				{
+					"profile": "scootaloo",
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "scootaloo",
+					"rig_type": 1,
+					"horn": false,
+					"wings": 3,
+					"tint": 16103269,
+					"tint_set": "pony",
+					"tint_eye0": 4463708,
+					"tint_blush": 13981807,
+					"expressions": "smirky",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_teen"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						},
+						{
+							"slot_ref": "wing_feather_sm"
+						}
+					],
+					"bone_tf": "pony_teen",
+					"mess_set": "pony_base",
+					"tint_eye1": 14863585,
+					"sizes": [
+						{
+							"p_default": 0.4,
+							"a_default": 0.4,
+							"p_elastic_max": 2.8,
+							"a_elastic_max": 2.8,
+							"p_elastic_rate": 1.2,
+							"p_force_max": 0.8,
+							"p_wetness_multiplier": 1.1,
+							"a_elastic_rate": 1.2,
+							"a_force_max": 0.4
+						}
+					]
+				},
+				{
+					"profile": "sweetie_belle",
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "sweetie_belle",
+					"rig_type": 1,
+					"horn": true,
+					"wings": 0,
+					"tint": 15789806,
+					"tint_set": "pony",
+					"tint_eye0": 7448416,
+					"tint_blush": 13981807,
+					"expressions": "base",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_teen"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						}
+					],
+					"bone_tf": "pony_teen",
+					"mess_set": "pony_base",
+					"tint_eye1": 13494974,
+					"lashes": "female0",
+					"sizes": [
+						{
+							"p_default": 0.6,
+							"a_default": 0.4,
+							"p_elastic_max": 3,
+							"a_elastic_max": 2.8,
+							"a_force_max": 0.4,
+							"a_elastic_rate": 0.8,
+							"p_force_max": 0.4,
+							"p_wetness_multiplier": 1.6
+						}
+					]
+				},
+				{
+					"profile": "apple_bloom",
+					"spine_atlas": "pony_adult_female2",
+					"spine_filename": "pony_adult_female2",
+					"skin": "apple_bloom",
+					"rig_type": 1,
+					"horn": false,
+					"wings": 0,
+					"tint": 15987864,
+					"tint_set": "pony",
+					"tint_eye0": 15749979,
+					"tint_blush": 13981807,
+					"expressions": "base",
+					"slots": [
+						{
+							"slot_ref": "pony_female_base"
+						},
+						{
+							"slot_ref": "pony_teen"
+						},
+						{
+							"slot_ref": "piece_eye_pony"
+						},
+						{
+							"slot_ref": "pony_piece_ear_none"
+						}
+					],
+					"bone_tf": "pony_teen",
+					"mess_set": "pony_base",
+					"tint_eye1": 16704373,
+					"lashes": "female0",
+					"sizes": [
+						{
+							"p_default": 0.4,
+							"a_default": 0.8,
+							"p_elastic_max": 2.8,
+							"a_elastic_max": 4,
+							"p_elastic_rate": 1.5,
+							"p_wetness_multiplier": 0.5,
+							"a_elastic_rate": 1.5,
+							"a_force_max": 1.5,
+							"p_force_max": 0.6
+						}
+					]
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "slot_sets",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "name",
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "slots",
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"name": "pony_female_base",
+					"slots": [
+						{
+							"slot": "head",
+							"attachment": "base3/head2"
+						},
+						{
+							"slot": "body",
+							"attachment": "base3/body_female"
+						},
+						{
+							"slot": "arm_l",
+							"attachment": "base3/arm_l"
+						},
+						{
+							"slot": "arm_r",
+							"attachment": "base3/arm_r"
+						},
+						{
+							"slot": "calf_l",
+							"attachment": "base3/calf3_l"
+						},
+						{
+							"slot": "calf_r",
+							"attachment": "base3/calf3_r"
+						},
+						{
+							"slot": "nose",
+							"attachment": "base3/nose"
+						},
+						{
+							"slot": "horn",
+							"attachment": "base3/horn2"
+						},
+						{
+							"slot": "ear_l",
+							"attachment": "base3/ear_l"
+						},
+						{
+							"slot": "ear_r",
+							"attachment": "base3/ear_r"
+						},
+						{
+							"slot": "cheek_r",
+							"attachment": "base3/cheek2_r"
+						},
+						{
+							"slot": "cheek_l",
+							"attachment": "base3/cheek2_l"
+						},
+						{
+							"slot": "thigh_l",
+							"attachment": "base3/thigh3_l"
+						},
+						{
+							"slot": "thigh_r",
+							"attachment": "base3/thigh3_r"
+						},
+						{
+							"slot": "calf_shackle_l",
+							"attachment": "base3/restraints/leg_shackle_l"
+						},
+						{
+							"slot": "calf_shackle_r",
+							"attachment": "base3/restraints/leg_shackle_r"
+						},
+						{
+							"slot": "hand_shackle_l",
+							"attachment": "base3/restraints/hand_shackle_l"
+						},
+						{
+							"slot": "hand_shackle_r",
+							"attachment": "base3/restraints/hand_shackle_r"
+						},
+						{
+							"slot": "tail_base",
+							"attachment": "base3/dock"
+						}
+					]
+				},
+				{
+					"name": "pony_female_slim",
+					"slots": [
+						{
+							"slot": "body",
+							"attachment": "base3/body_female2"
+						},
+						{
+							"slot": "nose",
+							"attachment": "base3/nose2"
+						}
+					]
+				},
+				{
+					"name": "pony_female_slim2",
+					"slots": [
+						{
+							"slot": "body",
+							"attachment": "base3/body_female3"
+						},
+						{
+							"slot": "nose",
+							"attachment": "base3/nose2"
+						}
+					]
+				},
+				{
+					"name": "pony_princess",
+					"slots": [
+						{
+							"slot": "head",
+							"attachment": "base3/head4"
+						},
+						{
+							"slot": "body",
+							"attachment": "base3/body_princess2"
+						},
+						{
+							"slot": "cheek_r",
+							"attachment": "changeling/cheek_r"
+						},
+						{
+							"slot": "cheek_l",
+							"attachment": "changeling/cheek_l"
+						},
+						{
+							"slot": "thigh_l",
+							"attachment": "changeling/thigh_l"
+						},
+						{
+							"slot": "thigh_r",
+							"attachment": "changeling/thigh_r"
+						},
+						{
+							"slot": "horn",
+							"attachment": "base3/horn_long"
+						}
+					]
+				},
+				{
+					"name": "pony_bat",
+					"slots": [
+						{
+							"slot": "body",
+							"attachment": "bat/body_female"
+						},
+						{
+							"slot": "arm_l",
+							"attachment": "bat/arm_l"
+						},
+						{
+							"slot": "arm_r",
+							"attachment": "bat/arm_r"
+						},
+						{
+							"slot": "calf_l",
+							"attachment": "bat/calf3_l"
+						},
+						{
+							"slot": "calf_r",
+							"attachment": "bat/calf3_r"
+						},
+						{
+							"slot": "thigh_l",
+							"attachment": "bat/thigh3_l"
+						},
+						{
+							"slot": "thigh_r",
+							"attachment": "bat/thigh3_r"
+						},
+						{
+							"slot": "cheek_l",
+							"attachment": "bat/cheek2_l"
+						},
+						{
+							"slot": "cheek_r",
+							"attachment": "bat/cheek2_r"
+						}
+					]
+				},
+				{
+					"name": "pony_male_base",
+					"slots": [
+						{
+							"slot": "head",
+							"attachment": "base3/head3"
+						},
+						{
+							"slot": "body",
+							"attachment": "base3/body_male"
+						},
+						{
+							"slot": "arm_l",
+							"attachment": "base3/arm_male_l"
+						},
+						{
+							"slot": "arm_r",
+							"attachment": "base3/arm_male_r"
+						},
+						{
+							"slot": "calf_l",
+							"attachment": "base3/calf3_male_l"
+						},
+						{
+							"slot": "calf_r",
+							"attachment": "base3/calf3_male_r"
+						},
+						{
+							"slot": "nose",
+							"attachment": "base3/nose_big"
+						},
+						{
+							"slot": "cheek_r",
+							"attachment": "base3/cheek2_r"
+						},
+						{
+							"slot": "cheek_l",
+							"attachment": "base3/cheek2_l"
+						},
+						{
+							"slot": "thigh_l",
+							"attachment": "base3/thigh3_l"
+						},
+						{
+							"slot": "thigh_r",
+							"attachment": "base3/thigh3_r"
+						},
+						{
+							"slot": "calf_shackle_l",
+							"attachment": "base3/restraints/leg_shackle_l"
+						},
+						{
+							"slot": "calf_shackle_r",
+							"attachment": "base3/restraints/leg_shackle_r"
+						},
+						{
+							"slot": "hand_shackle_l",
+							"attachment": "base3/restraints/hand_shackle_l"
+						},
+						{
+							"slot": "hand_shackle_r",
+							"attachment": "base3/restraints/hand_shackle_r"
+						},
+						{
+							"slot": "tail_base",
+							"attachment": "base3/dock"
+						}
+					]
+				},
+				{
+					"name": "pony_male_girly",
+					"slots": [
+						{
+							"slot": "head",
+							"attachment": "base3/head2"
+						},
+						{
+							"slot": "body",
+							"attachment": "base3/body_female"
+						}
+					]
+				},
+				{
+					"name": "pony_teen",
+					"slots": [
+						{
+							"slot": "body",
+							"attachment": "teen/body_female"
+						},
+						{
+							"slot": "head",
+							"attachment": "teen/head3"
+						},
+						{
+							"slot": "arm_l",
+							"attachment": "base3/arm_l2"
+						},
+						{
+							"slot": "arm_r",
+							"attachment": "base3/arm_r2"
+						},
+						{
+							"slot": "calf_l",
+							"attachment": "teen/calf3_l"
+						},
+						{
+							"slot": "calf_r",
+							"attachment": "teen/calf3_r"
+						},
+						{
+							"slot": "thigh_l",
+							"attachment": "teen/thigh3_l"
+						},
+						{
+							"slot": "thigh_r",
+							"attachment": "teen/thigh3_r"
+						},
+						{
+							"slot": "cheek_r",
+							"attachment": "teen/cheek2_r"
+						},
+						{
+							"slot": "cheek_l",
+							"attachment": "teen/cheek2_l"
+						},
+						{
+							"slot": "calf_shackle_l",
+							"attachment": "teen/leg_shackle_l"
+						},
+						{
+							"slot": "calf_shackle_r",
+							"attachment": "teen/leg_shackle_r"
+						},
+						{
+							"slot": "hand_shackle_l",
+							"attachment": "teen/hand_shackle_l"
+						},
+						{
+							"slot": "hand_shackle_r",
+							"attachment": "teen/hand_shackle_r"
+						},
+						{
+							"slot": "tail_base",
+							"attachment": "teen/dock"
+						},
+						{
+							"slot": "horn",
+							"attachment": "teen/horn"
+						}
+					]
+				},
+				{
+					"name": "changeling_base",
+					"slots": [
+						{
+							"slot": "horn",
+							"attachment": "changeling/horn"
+						},
+						{
+							"slot": "head",
+							"attachment": "changeling/head"
+						},
+						{
+							"slot": "nose",
+							"attachment": "base3/nose_big"
+						},
+						{
+							"slot": "eye_hl_l"
+						},
+						{
+							"slot": "eye_hl_r"
+						},
+						{
+							"slot": "ear_l",
+							"attachment": "changeling/ear_l"
+						},
+						{
+							"slot": "ear_l2"
+						},
+						{
+							"slot": "ear_r",
+							"attachment": "changeling/ear_r"
+						},
+						{
+							"slot": "ear_r2"
+						},
+						{
+							"slot": "body",
+							"attachment": "changeling/body"
+						},
+						{
+							"slot": "tail_base",
+							"attachment": "changeling/dock"
+						},
+						{
+							"slot": "cheek_l",
+							"attachment": "changeling/cheek_l"
+						},
+						{
+							"slot": "cheek_r",
+							"attachment": "changeling/cheek_r"
+						},
+						{
+							"slot": "thigh_l",
+							"attachment": "changeling/thigh_l"
+						},
+						{
+							"slot": "thigh_r",
+							"attachment": "changeling/thigh_r"
+						},
+						{
+							"slot": "calf_l",
+							"attachment": "changeling/calf_l"
+						},
+						{
+							"slot": "calf_r",
+							"attachment": "changeling/calf_r"
+						},
+						{
+							"slot": "calf_shackle_l",
+							"attachment": "changeling/hand_shackle_l"
+						},
+						{
+							"slot": "calf_shackle_r",
+							"attachment": "changeling/hand_shackle_r"
+						},
+						{
+							"slot": "arm_l",
+							"attachment": "changeling/arm_l"
+						},
+						{
+							"slot": "arm_r",
+							"attachment": "changeling/arm_r"
+						},
+						{
+							"slot": "hand_shackle_l",
+							"attachment": "changeling/hand_shackle_l"
+						},
+						{
+							"slot": "hand_shackle_r",
+							"attachment": "changeling/hand_shackle_r"
+						}
+					]
+				},
+				{
+					"name": "changeling_chrysalis",
+					"slots": [
+						{
+							"slot": "head",
+							"attachment": "base3/head4"
+						},
+						{
+							"slot": "body",
+							"attachment": "base3/body_princess2"
+						},
+						{
+							"slot": "horn",
+							"attachment": "changeling/horn_chryssi"
+						}
+					]
+				},
+				{
+					"name": "changeling_teen",
+					"slots": [
+						{
+							"slot": "body",
+							"attachment": "teen/body_changeling"
+						},
+						{
+							"slot": "head",
+							"attachment": "teen/head3"
+						},
+						{
+							"slot": "arm_l",
+							"attachment": "base3/arm_l2"
+						},
+						{
+							"slot": "arm_r",
+							"attachment": "base3/arm_r2"
+						},
+						{
+							"slot": "calf_l",
+							"attachment": "teen/calf4_l"
+						},
+						{
+							"slot": "calf_r",
+							"attachment": "teen/calf4_r"
+						},
+						{
+							"slot": "thigh_l",
+							"attachment": "teen/thigh3_l"
+						},
+						{
+							"slot": "thigh_r",
+							"attachment": "teen/thigh3_r"
+						},
+						{
+							"slot": "cheek_r",
+							"attachment": "teen/cheek2_r"
+						},
+						{
+							"slot": "cheek_l",
+							"attachment": "teen/cheek2_l"
+						},
+						{
+							"slot": "calf_shackle_l",
+							"attachment": "teen/leg_shackle_l"
+						},
+						{
+							"slot": "calf_shackle_r",
+							"attachment": "teen/leg_shackle_r"
+						},
+						{
+							"slot": "hand_shackle_l",
+							"attachment": "teen/hand_shackle_l"
+						},
+						{
+							"slot": "hand_shackle_r",
+							"attachment": "teen/hand_shackle_r"
+						},
+						{
+							"slot": "tail_base",
+							"attachment": "teen/dock"
+						},
+						{
+							"slot": "nose",
+							"attachment": "base3/nose2"
+						}
+					]
+				},
+				{
+					"name": "pony_piece_ear_l",
+					"slots": [
+						{
+							"slot": "ear_l"
+						},
+						{
+							"slot": "ear_l2",
+							"attachment": "base3/ear_l"
+						},
+						{
+							"slot": "ear_r",
+							"attachment": "base3/ear_r"
+						},
+						{
+							"slot": "ear_r2"
+						}
+					]
+				},
+				{
+					"name": "pony_piece_ear_r",
+					"slots": [
+						{
+							"slot": "ear_l",
+							"attachment": "base3/ear_l"
+						},
+						{
+							"slot": "ear_l2"
+						},
+						{
+							"slot": "ear_r"
+						},
+						{
+							"slot": "ear_r2",
+							"attachment": "base3/ear_r"
+						}
+					]
+				},
+				{
+					"name": "pony_piece_ear_none",
+					"slots": [
+						{
+							"slot": "ear_l",
+							"attachment": "base3/ear_l"
+						},
+						{
+							"slot": "ear_l2"
+						},
+						{
+							"slot": "ear_r",
+							"attachment": "base3/ear_r"
+						},
+						{
+							"slot": "ear_r2"
+						}
+					]
+				},
+				{
+					"name": "pony_piece_ear_r_only",
+					"slots": [
+						{
+							"slot": "ear_l"
+						},
+						{
+							"slot": "ear_l2"
+						}
+					]
+				},
+				{
+					"name": "pony_bat_piece_ear_l",
+					"slots": [
+						{
+							"slot": "ear_l",
+							"attachment": "bat/ear_l"
+						},
+						{
+							"slot": "ear_l2"
+						},
+						{
+							"slot": "ear_r",
+							"attachment": "bat/ear_r"
+						},
+						{
+							"slot": "ear_r2"
+						}
+					]
+				},
+				{
+					"name": "piece_eye_pony",
+					"slots": [
+						{
+							"slot": "iris_l0",
+							"attachment": "base3/iris_top"
+						},
+						{
+							"slot": "iris_l1",
+							"attachment": "base3/iris_bottom"
+						},
+						{
+							"slot": "iris_r0",
+							"attachment": "base3/iris_top"
+						},
+						{
+							"slot": "iris_r1",
+							"attachment": "base3/iris_bottom"
+						},
+						{
+							"slot": "pupil_l",
+							"attachment": "base3/pupil"
+						},
+						{
+							"slot": "pupil_r",
+							"attachment": "base3/pupil"
+						}
+					]
+				},
+				{
+					"name": "piece_eye_changeling",
+					"slots": [
+						{
+							"slot": "iris_l0",
+							"attachment": "changeling/pupil"
+						},
+						{
+							"slot": "iris_l1",
+							"attachment": "changeling/eye_white_l"
+						},
+						{
+							"slot": "pupil_l"
+						},
+						{
+							"slot": "iris_r0",
+							"attachment": "changeling/pupil"
+						},
+						{
+							"slot": "iris_r1",
+							"attachment": "changeling/eye_white_r"
+						},
+						{
+							"slot": "pupil_r"
+						}
+					]
+				},
+				{
+					"name": "wing_feather",
+					"slots": [
+						{
+							"slot": "wing_out_l_tip0"
+						},
+						{
+							"slot": "wing_out_l_tip1"
+						},
+						{
+							"slot": "wing_out_l_tip2"
+						},
+						{
+							"slot": "wing_out_l_tip3"
+						},
+						{
+							"slot": "wing_half_l_top0",
+							"attachment": "base3/wings/wing_half_l_top"
+						},
+						{
+							"slot": "wing_half_l_tip0",
+							"attachment": "base3/wings/wing_half_l_tip0"
+						},
+						{
+							"slot": "wing_half_l_tip1",
+							"attachment": "base3/wings/wing_half_l_tip1"
+						},
+						{
+							"slot": "wing_half_l_tip2",
+							"attachment": "base3/wings/wing_half_l_tip2"
+						},
+						{
+							"slot": "wing_half_l_tip3",
+							"attachment": "base3/wings/wing_half_l_tip3"
+						},
+						{
+							"slot": "wing_out_r_tip0"
+						},
+						{
+							"slot": "wing_out_r_tip1"
+						},
+						{
+							"slot": "wing_out_r_tip2"
+						},
+						{
+							"slot": "wing_out_r_tip3"
+						},
+						{
+							"slot": "wing_half_r_top0",
+							"attachment": "base3/wings/wing_half_r_top"
+						},
+						{
+							"slot": "wing_half_r_tip0",
+							"attachment": "base3/wings/wing_half_r_tip0"
+						},
+						{
+							"slot": "wing_half_r_tip1",
+							"attachment": "base3/wings/wing_half_r_tip1"
+						},
+						{
+							"slot": "wing_half_r_tip2",
+							"attachment": "base3/wings/wing_half_r_tip2"
+						},
+						{
+							"slot": "wing_half_r_tip3",
+							"attachment": "base3/wings/wing_half_r_tip3"
+						}
+					]
+				},
+				{
+					"name": "wing_feather_sm",
+					"slots": [
+						{
+							"slot": "wing_whole_l",
+							"attachment": "teen/wing_l"
+						},
+						{
+							"slot": "wing_whole_r",
+							"attachment": "teen/wing_r"
+						}
+					]
+				},
+				{
+					"name": "wing_bat",
+					"slots": [
+						{
+							"slot": "wing_whole_r",
+							"attachment": "base3/wings/wingbat_half_r"
+						},
+						{
+							"slot": "wing_whole_l",
+							"attachment": "base3/wings/wingbat_half_l"
+						}
+					]
+				},
+				{
+					"name": "wing_changeling",
+					"slots": [
+						{
+							"slot": "wing_whole_l",
+							"attachment": "changeling/wing_l"
+						},
+						{
+							"slot": "wing_whole_r",
+							"attachment": "changeling/wing_r"
+						}
+					]
+				},
+				{
+					"name": "wing_changeling_sm",
+					"slots": [
+						{
+							"slot": "wing_whole_l",
+							"attachment": "changeling/wing_l2"
+						},
+						{
+							"slot": "wing_whole_r",
+							"attachment": "changeling/wing_r2"
+						}
+					]
+				},
+				{
+					"name": "dick0",
+					"slots": [
+						{
+							"slot": "penis",
+							"attachment": "base2/dick"
+						}
+					]
+				},
+				{
+					"name": "dick1",
+					"slots": [
+						{
+							"slot": "penis",
+							"attachment": "base3/dick2"
+						}
+					]
+				},
+				{
+					"name": "dick2",
+					"slots": [
+						{
+							"slot": "penis",
+							"attachment": "base3/dick3"
+						}
+					]
+				},
+				{
+					"name": "bulgetest",
+					"slots": [
+						{
+							"slot": "bulge_pussy",
+							"attachment": "base3/bulge"
+						}
+					]
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "slot_sets@slots",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "1",
+					"name": "slot",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "attachment",
+					"opt": true,
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "tint_sets",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "name"
+				},
+				{
+					"typeStr": "8",
+					"name": "sets",
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"name": "pony",
+					"sets": [
+						{
+							"slot": "horn"
+						},
+						{
+							"slot": "head"
+						},
+						{
+							"slot": "ear_l"
+						},
+						{
+							"slot": "ear_l2"
+						},
+						{
+							"slot": "ear_r"
+						},
+						{
+							"slot": "ear_r2"
+						},
+						{
+							"slot": "lids"
+						},
+						{
+							"slot": "nose"
+						},
+						{
+							"slot": "body"
+						},
+						{
+							"slot": "upperarm_l"
+						},
+						{
+							"slot": "upperarm_r"
+						},
+						{
+							"slot": "hand_l"
+						},
+						{
+							"slot": "hand_r"
+						},
+						{
+							"slot": "wing_in_l"
+						},
+						{
+							"slot": "wing_in_r"
+						},
+						{
+							"slot": "pussy"
+						},
+						{
+							"slot": "thigh_l"
+						},
+						{
+							"slot": "thigh_r"
+						},
+						{
+							"slot": "calf_l"
+						},
+						{
+							"slot": "calf_r"
+						},
+						{
+							"slot": "tit_l"
+						},
+						{
+							"slot": "tit_r"
+						},
+						{
+							"slot": "penis"
+						},
+						{
+							"slot": "balls"
+						},
+						{
+							"slot": "cheek_l"
+						},
+						{
+							"slot": "cheek_r"
+						},
+						{
+							"slot": "labia_l"
+						},
+						{
+							"slot": "labia_r"
+						},
+						{
+							"slot": "pussy_top"
+						},
+						{
+							"slot": "tail_base"
+						},
+						{
+							"slot": "anus_whiteblock"
+						},
+						{
+							"slot": "anus"
+						},
+						{
+							"slot": "anus_open"
+						},
+						{
+							"slot": "arm_l"
+						},
+						{
+							"slot": "arm_r"
+						},
+						{
+							"slot": "pussy_cover"
+						},
+						{
+							"slot": "wing_whole_l"
+						},
+						{
+							"slot": "wing_whole_r"
+						},
+						{
+							"slot": "wing_out_l_tip0"
+						},
+						{
+							"slot": "wing_out_l_tip1"
+						},
+						{
+							"slot": "wing_out_l_tip2"
+						},
+						{
+							"slot": "wing_out_l_tip3"
+						},
+						{
+							"slot": "wing_out_r_tip0"
+						},
+						{
+							"slot": "wing_out_r_tip1"
+						},
+						{
+							"slot": "wing_out_r_tip2"
+						},
+						{
+							"slot": "wing_out_r_tip3"
+						},
+						{
+							"slot": "wing_half_l_top0"
+						},
+						{
+							"slot": "wing_half_l_top1"
+						},
+						{
+							"slot": "wing_half_l_tip0"
+						},
+						{
+							"slot": "wing_half_l_tip1"
+						},
+						{
+							"slot": "wing_half_l_tip2"
+						},
+						{
+							"slot": "wing_half_l_tip3"
+						},
+						{
+							"slot": "wing_l_smear"
+						},
+						{
+							"slot": "wing_half_r_top0"
+						},
+						{
+							"slot": "wing_half_r_top1"
+						},
+						{
+							"slot": "wing_half_r_tip0"
+						},
+						{
+							"slot": "wing_half_r_tip1"
+						},
+						{
+							"slot": "wing_half_r_tip2"
+						},
+						{
+							"slot": "wing_half_r_tip3"
+						},
+						{
+							"slot": "wing_r_smear"
+						},
+						{
+							"slot": "bulge_pussy"
+						}
+					]
+				},
+				{
+					"name": "changeling_secondary",
+					"sets": [
+						{
+							"slot": "chest_accessory_front"
+						},
+						{
+							"slot": "wing_whole_l"
+						},
+						{
+							"slot": "wing_whole_r"
+						}
+					]
+				},
+				{
+					"name": "changedling_secondary",
+					"sets": [
+						{
+							"slot": "hair_mid"
+						},
+						{
+							"slot": "tail_bottom"
+						},
+						{
+							"slot": "wing_whole_l"
+						},
+						{
+							"slot": "wing_whole_r"
+						}
+					]
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "tint_sets@sets",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "1",
+					"name": "slot",
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "bone_sets",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "name"
+				},
+				{
+					"typeStr": "8",
+					"name": "sets"
+				}
+			],
+			"lines": [
+				{
+					"name": "pony_female_base",
+					"sets": [
+						{
+							"bone": "penis",
+							"scale_x": 1,
+							"scale_y": 1
+						},
+						{
+							"bone": "balls",
+							"scale_x": 1,
+							"scale_y": 1
+						},
+						{
+							"bone": "thigh_l_tc",
+							"rotate": 0
+						},
+						{
+							"bone": "thigh_r_tc",
+							"rotate": 0
+						},
+						{
+							"bone": "head_tc",
+							"translate_y": 0,
+							"translate_x": 0
+						}
+					]
+				},
+				{
+					"name": "pony_princess",
+					"sets": [
+						{
+							"bone": "root",
+							"scale_x": 1.01,
+							"scale_y": 1.01
+						},
+						{
+							"bone": "penis_tc",
+							"scale_x": 1.25,
+							"scale_y": 1.3
+						},
+						{
+							"bone": "balls",
+							"scale_x": 1.1,
+							"scale_y": 1.1
+						},
+						{
+							"bone": "thigh_l_tc",
+							"scale_x": 1.05,
+							"scale_y": 1.3,
+							"rotate": -4
+						},
+						{
+							"bone": "thigh_r_tc",
+							"scale_x": 1.1,
+							"scale_y": 1.3,
+							"rotate": 4
+						},
+						{
+							"bone": "head_tc",
+							"translate_x": 8
+						},
+						{
+							"bone": "chest_tc",
+							"translate_y": 35
+						},
+						{
+							"bone": "calf_l_tc",
+							"scale_x": 0.9,
+							"scale_y": 0.87,
+							"rotate": 20
+						},
+						{
+							"bone": "calf_r_tc",
+							"scale_x": 0.9,
+							"scale_y": 0.87,
+							"rotate": -20
+						},
+						{
+							"bone": "calf_l_tc",
+							"rotate": -20
+						},
+						{
+							"bone": "calf_r_tc",
+							"rotate": 20
+						},
+						{
+							"bone": "upperarm_l_tc",
+							"scale_x": 0.8,
+							"rotate": 8
+						},
+						{
+							"bone": "upperarm_r_tc",
+							"scale_x": 0.8,
+							"rotate": -8
+						},
+						{
+							"bone": "hand_l_tc",
+							"scale_x": 0.8,
+							"translate_x": 16
+						},
+						{
+							"bone": "hand_r_tc",
+							"scale_x": 0.8,
+							"translate_x": -16
+						},
+						{
+							"bone": "wing_l_tc",
+							"scale_x": 1.05,
+							"scale_y": 1.05,
+							"translate_x": -80
+						},
+						{
+							"bone": "wing_r_tc",
+							"scale_x": 1.05,
+							"scale_y": 1.05,
+							"translate_x": -80
+						},
+						{
+							"bone": "leash_ring_l",
+							"translate_y": -85,
+							"translate_x": 35,
+							"rotate": 20
+						},
+						{
+							"bone": "leash_ring_r",
+							"translate_y": -85,
+							"translate_x": -35,
+							"rotate": -20
+						},
+						{
+							"bone": "leg_leash_l",
+							"translate_x": 0,
+							"translate_y": -10,
+							"rotate": 20
+						},
+						{
+							"bone": "leg_leash_r",
+							"translate_x": -32,
+							"translate_y": -12,
+							"rotate": -20
+						}
+					]
+				},
+				{
+					"name": "pony_princess_short",
+					"sets": [
+						{
+							"bone": "penis",
+							"scale_x": 1,
+							"scale_y": 1
+						},
+						{
+							"bone": "balls",
+							"scale_x": 1,
+							"scale_y": 1
+						},
+						{
+							"bone": "thigh_l_tc",
+							"scale_x": 1,
+							"scale_y": 1,
+							"rotate": -4
+						},
+						{
+							"bone": "thigh_r_tc",
+							"scale_x": 1,
+							"scale_y": 1,
+							"rotate": 4
+						},
+						{
+							"bone": "head_tc",
+							"translate_x": 0
+						},
+						{
+							"bone": "chest_tc",
+							"translate_y": 0
+						},
+						{
+							"bone": "calf_l_tc",
+							"scale_x": 1,
+							"scale_y": 1
+						},
+						{
+							"bone": "calf_r_tc",
+							"scale_x": 1,
+							"scale_y": 1
+						},
+						{
+							"bone": "upperarm_l_tc",
+							"scale_x": 0.8,
+							"rotate": 8
+						},
+						{
+							"bone": "upperarm_r_tc",
+							"scale_x": 0.8,
+							"rotate": -8
+						},
+						{
+							"bone": "hand_l_tc",
+							"scale_x": 0.8,
+							"translate_x": 16
+						},
+						{
+							"bone": "hand_r_tc",
+							"scale_x": 0.8,
+							"translate_x": -16
+						}
+					]
+				},
+				{
+					"name": "pony_female_slim",
+					"sets": [
+						{
+							"bone": "penis",
+							"scale_x": 0.97,
+							"scale_y": 0.97
+						},
+						{
+							"bone": "balls",
+							"scale_x": 0.97,
+							"scale_y": 0.97
+						},
+						{
+							"bone": "head_tc",
+							"scale_x": 1.07
+						},
+						{
+							"bone": "chest_tc",
+							"scale_x": 0.94
+						},
+						{
+							"bone": "hip_tc",
+							"scale_x": 0.94,
+							"scale_y": 0.94
+						}
+					]
+				},
+				{
+					"name": "pony_female_chunky",
+					"sets": [
+						{
+							"bone": "head_tc",
+							"scale_x": 0.89
+						},
+						{
+							"bone": "chest_tc",
+							"scale_x": 1.11
+						},
+						{
+							"bone": "hip_tc",
+							"scale_x": 1.07,
+							"scale_y": 1.07
+						}
+					]
+				},
+				{
+					"name": "pony_male_base",
+					"sets": [
+						{
+							"bone": "penis",
+							"scale_x": 1.1,
+							"scale_y": 1.1
+						},
+						{
+							"bone": "item_d_wand",
+							"scale_x": 0.9,
+							"scale_y": 0.9
+						},
+						{
+							"bone": "balls",
+							"scale_x": 1.1,
+							"scale_y": 1.1
+						},
+						{
+							"bone": "thigh_l_tc",
+							"rotate": 10
+						},
+						{
+							"bone": "thigh_r_tc",
+							"rotate": -10
+						},
+						{
+							"bone": "head_tc",
+							"translate_y": -0.1,
+							"translate_x": 8
+						},
+						{
+							"bone": "item_collar",
+							"scale_y": 1.2
+						},
+						{
+							"bone": "point_foot_l",
+							"translate_x": -50
+						},
+						{
+							"bone": "point_foot_r",
+							"translate_x": 50
+						}
+					]
+				},
+				{
+					"name": "pony_male_girly",
+					"sets": [
+						{
+							"bone": "head_tc",
+							"scale_x": 0.95
+						},
+						{
+							"bone": "chest_tc",
+							"scale_x": 1.05
+						}
+					]
+				},
+				{
+					"name": "pony_male_big",
+					"sets": [
+						{
+							"bone": "penis_tc",
+							"scale_x": 1.25,
+							"scale_y": 1.3
+						},
+						{
+							"bone": "item_d_wand",
+							"scale_x": 0.83,
+							"scale_y": 0.8
+						},
+						{
+							"bone": "balls",
+							"scale_x": 1.2,
+							"scale_y": 1.2
+						},
+						{
+							"bone": "thigh_l_tc",
+							"rotate": 10
+						},
+						{
+							"bone": "thigh_r_tc",
+							"rotate": -10
+						},
+						{
+							"bone": "head_tc",
+							"translate_x": 8,
+							"translate_y": -0.1,
+							"scale_x": 1.04,
+							"scale_y": 1.04
+						},
+						{
+							"bone": "hip_tc",
+							"scale_x": 1.1,
+							"translate_y": -20
+						},
+						{
+							"bone": "calf_l_tc",
+							"scale_x": 1.06,
+							"scale_y": 1.06
+						},
+						{
+							"bone": "calf_r_tc",
+							"scale_x": 1.06,
+							"scale_y": 1.06
+						},
+						{
+							"bone": "root",
+							"scale_x": 1.01,
+							"scale_y": 1.01
+						},
+						{
+							"bone": "hand_l_tc",
+							"translate_y": -20
+						},
+						{
+							"bone": "hand_r_tc"
+						},
+						{
+							"bone": "item_collar",
+							"scale_y": 1.25
+						},
+						{
+							"bone": "point_foot_l",
+							"translate_x": -50
+						},
+						{
+							"bone": "point_foot_r",
+							"translate_x": 50
+						}
+					]
+				},
+				{
+					"name": "pony_changeling",
+					"sets": [
+						{
+							"bone": "penis",
+							"scale_x": 1,
+							"scale_y": 1
+						},
+						{
+							"bone": "balls",
+							"scale_x": 1,
+							"scale_y": 1
+						},
+						{
+							"bone": "chest_tc",
+							"translate_y": -66,
+							"translate_x": 0
+						},
+						{
+							"bone": "point_foot_l",
+							"translate_x": -38
+						},
+						{
+							"bone": "point_foot_r",
+							"translate_x": 38
+						},
+						{
+							"bone": "foot_l_tc",
+							"translate_x": -10,
+							"translate_y": 30
+						},
+						{
+							"bone": "foot_r_tc",
+							"translate_x": -10,
+							"translate_y": -30,
+							"rotate": 10
+						},
+						{
+							"bone": "calf_r_runes",
+							"translate_x": -35,
+							"rotate": -8
+						},
+						{
+							"bone": "calf_l_runes",
+							"translate_x": -30,
+							"rotate": 10
+						},
+						{
+							"bone": "leg_leash_l",
+							"translate_x": -16,
+							"translate_y": -20
+						},
+						{
+							"bone": "leg_leash_r",
+							"translate_x": -30,
+							"translate_y": -20
+						}
+					]
+				},
+				{
+					"name": "pony_changeling_big",
+					"sets": [
+						{
+							"bone": "root",
+							"scale_x": 1.01,
+							"scale_y": 1.01
+						},
+						{
+							"bone": "penis_tc",
+							"scale_x": 1.25,
+							"scale_y": 1.3
+						},
+						{
+							"bone": "balls",
+							"scale_x": 1.1,
+							"scale_y": 1.1
+						},
+						{
+							"bone": "thigh_l_tc",
+							"rotate": -4,
+							"scale_x": 1.05,
+							"scale_y": 1.3
+						},
+						{
+							"bone": "thigh_r_tc",
+							"rotate": 4,
+							"scale_x": 1.1,
+							"scale_y": 1.3
+						},
+						{
+							"bone": "head_tc",
+							"translate_x": 8
+						},
+						{
+							"bone": "chest_tc",
+							"translate_y": 35
+						},
+						{
+							"bone": "calf_l_tc",
+							"rotate": 20,
+							"scale_x": 0.9,
+							"scale_y": 0.87
+						},
+						{
+							"bone": "calf_r_tc",
+							"rotate": -20,
+							"scale_x": 0.9,
+							"scale_y": 0.87
+						},
+						{
+							"bone": "calf_l_tc",
+							"rotate": -20
+						},
+						{
+							"bone": "calf_r_tc",
+							"rotate": 20
+						},
+						{
+							"bone": "upperarm_l_tc",
+							"rotate": 8,
+							"scale_x": 0.8
+						},
+						{
+							"bone": "upperarm_r_tc",
+							"rotate": -8,
+							"scale_x": 0.8
+						},
+						{
+							"bone": "hand_l_tc",
+							"translate_x": 16,
+							"scale_x": 0.8
+						},
+						{
+							"bone": "hand_r_tc",
+							"translate_x": -16,
+							"scale_x": 0.8
+						},
+						{
+							"bone": "wing_l_tc",
+							"translate_x": -80,
+							"scale_x": 1.05,
+							"scale_y": 1.05
+						},
+						{
+							"bone": "wing_r_tc",
+							"translate_x": -80,
+							"scale_x": 1.05,
+							"scale_y": 1.05
+						},
+						{
+							"bone": "calf_r_runes",
+							"translate_x": -40
+						},
+						{
+							"bone": "calf_l_runes",
+							"translate_x": -32
+						},
+						{
+							"bone": "leg_leash_l",
+							"translate_x": -16,
+							"translate_y": -20
+						},
+						{
+							"bone": "leg_leash_r",
+							"translate_x": -30,
+							"translate_y": -20
+						}
+					]
+				},
+				{
+					"name": "pony_teen",
+					"sets": [
+						{
+							"bone": "head_tc",
+							"scale_x": 0.9,
+							"translate_x": -80,
+							"scale_y": 0.9
+						},
+						{
+							"bone": "wing_r_tc",
+							"translate_x": -74,
+							"scale_x": 0.84,
+							"scale_y": 0.84
+						},
+						{
+							"bone": "wing_l_tc",
+							"translate_x": -74,
+							"scale_y": 0.84,
+							"scale_x": 0.84
+						},
+						{
+							"bone": "calf_l_tc",
+							"translate_x": 40
+						},
+						{
+							"bone": "calf_r_tc",
+							"translate_x": 40
+						},
+						{
+							"bone": "calf_r_runes",
+							"translate_y": 20
+						},
+						{
+							"bone": "calf_l_runes",
+							"translate_y": -22
+						},
+						{
+							"bone": "penis",
+							"scale_x": 0.93,
+							"scale_y": 0.93
+						},
+						{
+							"bone": "balls",
+							"scale_x": 0.93,
+							"scale_y": 0.93
+						},
+						{
+							"bone": "item_collar",
+							"translate_x": -84,
+							"scale_x": 0.74,
+							"scale_y": 0.67
+						},
+						{
+							"bone": "point_foot_l",
+							"translate_y": -70,
+							"translate_x": 35
+						},
+						{
+							"bone": "point_foot_r",
+							"translate_x": -40,
+							"translate_y": -100
+						}
+					]
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "bone_sets@sets",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "1",
+					"name": "bone",
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "rotate",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "translate_x",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "translate_y",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "scale_x",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "scale_y",
+					"opt": true
+				}
+			]
+		},
+		{
+			"name": "rigs_data@slots",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "6:slot_sets",
+					"name": "slot_ref"
+				}
+			]
+		},
+		{
+			"name": "mess_sets",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "id"
+				},
+				{
+					"typeStr": "8",
+					"name": "cum",
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"id": "pony_base",
+					"cum": [
+						{
+							"region": 1,
+							"values": [
+								{
+									"attachment": "base3/fx/mess/stain_torso_m_1",
+									"min": 0.01
+								},
+								{
+									"min": 0.15,
+									"attachment": "base3/fx/mess/stain_torso_m_2"
+								},
+								{
+									"min": 0.3,
+									"attachment": "base3/fx/mess/stain_torso_m_3"
+								},
+								{
+									"min": 0.5,
+									"attachment": "base3/fx/mess/stain_torso_m_4"
+								},
+								{
+									"min": 0.7,
+									"attachment": "base3/fx/mess/stain_torso_m_5"
+								},
+								{
+									"min": 0.9,
+									"attachment": "base3/fx/mess/stain_torso_m_6"
+								}
+							],
+							"slot": "mess_torso_cum",
+							"fluid": 0
+						},
+						{
+							"region": 3,
+							"slot": "squirt_floor",
+							"values": [
+								{
+									"min": 0.01,
+									"attachment": "base3/fx/mess/squirt_floor_1"
+								},
+								{
+									"min": 0.15,
+									"attachment": "base3/fx/mess/squirt_floor_2"
+								},
+								{
+									"min": 0.3,
+									"attachment": "base3/fx/mess/squirt_floor_3"
+								},
+								{
+									"min": 0.5,
+									"attachment": "base3/fx/mess/squirt_floor_4"
+								},
+								{
+									"min": 0.7,
+									"attachment": "base3/fx/mess/squirt_floor_5"
+								},
+								{
+									"min": 0.9,
+									"attachment": "base3/fx/mess/squirt_floor_6"
+								}
+							],
+							"fluid": 1
+						}
+					]
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "mess_sets@cum",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "5:TORSO_LEFT,TORSO_MID,TORSO_RIGHT,FLOOR_BELOW",
+					"name": "region"
+				},
+				{
+					"typeStr": "5:CUM,SQUIRT,CUM_SQUIRT,LUBE",
+					"name": "fluid",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "slot",
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "values",
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "mess_sets@cum@values",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "4",
+					"name": "min",
+					"display": 1
+				},
+				{
+					"typeStr": "1",
+					"name": "attachment",
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "profile_sets",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "id"
+				},
+				{
+					"typeStr": "1",
+					"name": "name",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "icon",
+					"display": null
+				},
+				{
+					"typeStr": "5:female,male,futa",
+					"name": "gender",
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"id": "applejack",
+					"name": "AJ",
+					"icon": "aj",
+					"gender": 0
+				},
+				{
+					"id": "dash",
+					"name": "Dash",
+					"icon": "dash",
+					"gender": 0
+				},
+				{
+					"id": "fluttershy",
+					"name": "Fluttershy",
+					"icon": "fluttershy",
+					"gender": 0
+				},
+				{
+					"id": "pinkie",
+					"name": "Pinkie Pie",
+					"icon": "pinkie",
+					"gender": 0
+				},
+				{
+					"id": "rarity",
+					"name": "Rarity",
+					"icon": "rarity",
+					"gender": 0
+				},
+				{
+					"id": "twilight",
+					"name": "Twilight",
+					"icon": "twilight",
+					"gender": 0
+				},
+				{
+					"id": "big_mac",
+					"name": "Big Mac",
+					"icon": "big_mac",
+					"gender": 1
+				},
+				{
+					"id": "braeburn",
+					"name": "Braeburn",
+					"icon": "braeburn",
+					"gender": 1
+				},
+				{
+					"id": "double_diamond",
+					"name": "Double Diamond",
+					"icon": "double_diamond",
+					"gender": 1
+				},
+				{
+					"id": "changeling",
+					"name": "Changeling",
+					"icon": "bug",
+					"gender": 0
+				},
+				{
+					"id": "flutterbat",
+					"name": "Flutterbat",
+					"icon": "flutterbat",
+					"gender": 0
+				},
+				{
+					"id": "trixie",
+					"name": "Trixie",
+					"icon": "trixie",
+					"gender": 0
+				},
+				{
+					"id": "celestia",
+					"name": "Celestia",
+					"icon": "celestia",
+					"gender": 0
+				},
+				{
+					"id": "luna",
+					"name": "Luna",
+					"icon": "luna",
+					"gender": 0
+				},
+				{
+					"id": "chrysalis",
+					"name": "Chrysalis",
+					"icon": "chrysalis",
+					"gender": 2
+				},
+				{
+					"id": "scootaloo",
+					"name": "Scootaloo",
+					"icon": "scootaloo",
+					"gender": 0
+				},
+				{
+					"id": "sweetie_belle",
+					"name": "Sweetie Belle",
+					"icon": "sb",
+					"gender": 0
+				},
+				{
+					"id": "apple_bloom",
+					"name": "Apple Bloom",
+					"icon": "ab",
+					"gender": 0
+				},
+				{
+					"id": "ocellus",
+					"name": "Ocellus",
+					"icon": "bug",
+					"gender": 0
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "expression_sets",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "id"
+				},
+				{
+					"typeStr": "8",
+					"name": "sets",
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"id": "base",
+					"sets": [
+						{
+							"face": 0,
+							"attachment_sets": [
+								{
+									"lids": "half_up2",
+									"mouth": "mouth_smile1",
+									"brows": "up",
+									"flags": 0
+								},
+								{
+									"lids": "open",
+									"brows": "up",
+									"mouth": "mouth_smile1",
+									"flags": 0
+								},
+								{
+									"lids": "open_low",
+									"brows": "up",
+									"mouth": "mouth_smile1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 1,
+							"attachment_sets": [
+								{
+									"lids": "closed-down",
+									"mouth": "mouth_wavy1",
+									"brows": "up",
+									"flags": 1
+								},
+								{
+									"lids": "closed-up",
+									"brows": "up",
+									"mouth": "mouth_wavy4",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 2,
+							"attachment_sets": [
+								{
+									"lids": "lidded_one",
+									"mouth": "mouth_wavy3",
+									"brows": "out",
+									"flags": 0
+								},
+								{
+									"lids": "lidded",
+									"brows": "out",
+									"mouth": "mouth_wavy3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 3,
+							"attachment_sets": [
+								{
+									"lids": "half-down_low",
+									"mouth": "mouth_smile1",
+									"brows": "up2",
+									"flags": 0
+								},
+								{
+									"lids": "half-in",
+									"brows": "up2",
+									"mouth": "mouth_smile1b",
+									"flags": 0
+								},
+								{
+									"lids": "open_up-one",
+									"brows": "up",
+									"mouth": "mouth_smile1e",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_low",
+									"brows": "up2",
+									"mouth": "mouth_smile1c",
+									"flags": 0
+								},
+								{
+									"lids": "closed-up9",
+									"brows": "out",
+									"mouth": "mouth_smile1d",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 4,
+							"attachment_sets": [
+								{
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_smile4",
+									"flags": 0
+								},
+								{
+									"lids": "half_up3",
+									"brows": "up3",
+									"mouth": "mouth_smile5",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_up",
+									"brows": "out",
+									"mouth": "mouth_smile4",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_up",
+									"brows": "up3",
+									"mouth": "mouth_smile5",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 5,
+							"attachment_sets": [
+								{
+									"lids": "open_up-one",
+									"mouth": "mouth_ah1",
+									"brows": "down-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down_squint",
+									"brows": "down-in3",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"brows": "down-in3",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeeze2",
+									"brows": "down-in2",
+									"mouth": "mouth_ah3",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 6,
+							"attachment_sets": [
+								{
+									"lids": "half-down2_squint2",
+									"mouth": "mouth_ah7",
+									"brows": "down-in4",
+									"flags": 0
+								},
+								{
+									"lids": "closed-up3",
+									"brows": "down-in4",
+									"mouth": "mouth_ah7",
+									"flags": 1
+								},
+								{
+									"lids": "half-down-in_low",
+									"brows": "down-in4",
+									"mouth": "mouth_ah7",
+									"flags": 0
+								},
+								{
+									"brows": "down-in4",
+									"lids": "closed-squeezeb",
+									"mouth": "mouth_ah7",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 7,
+							"attachment_sets": [
+								{
+									"lids": "half_up2",
+									"brows": "out",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "half_up3",
+									"brows": "out",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "closed-up",
+									"brows": "out",
+									"mouth": "mouth_ah1",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 8,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up",
+									"mouth": "mouth_clench3",
+									"brows": "up3",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_low",
+									"brows": "down-in",
+									"mouth": "mouth_clench3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 9,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up2",
+									"mouth": "mouth_clench1",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_clench1",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-out_inner",
+									"brows": "up-in1",
+									"mouth": "mouth_clench1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 10,
+							"attachment_sets": [
+								{
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_bite0",
+									"flags": 0
+								},
+								{
+									"brows": "out",
+									"lids": "half_up3",
+									"mouth": "mouth_bite0",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_up",
+									"brows": "down-in2",
+									"mouth": "mouth_bite0",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_up",
+									"brows": "down-in3",
+									"mouth": "mouth_bite0",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 11,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up2",
+									"brows": "down-in3",
+									"mouth": "mouth_bite2",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_bite2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-out_straight",
+									"brows": "out",
+									"mouth": "mouth_bite2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 12,
+							"attachment_sets": [
+								{
+									"lids": "half-down_squint",
+									"mouth": "mouth_bite1",
+									"brows": "down-in3",
+									"flags": 0
+								},
+								{
+									"brows": "down-in3",
+									"lids": "half-straight-in_up3",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								},
+								{
+									"brows": "up-in3",
+									"lids": "closed-up3",
+									"mouth": "mouth_bite1",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 13,
+							"attachment_sets": [
+								{
+									"lids": "open_low",
+									"mouth": "mouth_wavy3",
+									"brows": "out",
+									"flags": 0
+								},
+								{
+									"lids": "open_up-one",
+									"brows": "out",
+									"mouth": "mouth_wavy4",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 14,
+							"attachment_sets": [
+								{
+									"lids": "half_up3",
+									"mouth": "mouth_wavy3",
+									"brows": "down-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_low",
+									"brows": "down-in2",
+									"mouth": "mouth_wavy3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 15,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up",
+									"mouth": "mouth_clench2",
+									"brows": "down-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-out_straight",
+									"brows": "down-in2",
+									"mouth": "mouth_clench2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 16,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_low",
+									"mouth": "mouth_bite1",
+									"brows": "out2",
+									"flags": 0
+								},
+								{
+									"lids": "open_up-one",
+									"brows": "out",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 17,
+							"attachment_sets": [
+								{
+									"lids": "half-straight-in_up3",
+									"mouth": "mouth_scream1",
+									"brows": "down-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down_squint",
+									"mouth": "mouth_scream1",
+									"brows": "down-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_up2",
+									"mouth": "mouth_scream1",
+									"brows": "down-in2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 18,
+							"attachment_sets": [
+								{
+									"lids": "lidded",
+									"mouth": "mouth_clench3",
+									"brows": "down-in",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_up",
+									"mouth": "mouth_clench3",
+									"brows": "down-in",
+									"flags": 0
+								},
+								{
+									"lids": "lidded_one",
+									"mouth": "mouth_clench3",
+									"brows": "down-in",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 19,
+							"attachment_sets": [
+								{
+									"lids": "half-down-out_squint",
+									"mouth": "mouth_scream2",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-out_inner",
+									"mouth": "mouth_scream2",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeezeb",
+									"mouth": "mouth_scream2",
+									"brows": "up-in1",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 20,
+							"attachment_sets": [
+								{
+									"lids": "half-down2-out_squint2",
+									"mouth": "mouth_scream2",
+									"brows": "up-in3",
+									"flags": 0
+								},
+								{
+									"lids": "half-down2_squint2",
+									"mouth": "mouth_scream2",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeeze2",
+									"mouth": "mouth_scream2",
+									"brows": "up-in3",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 21,
+							"attachment_sets": [
+								{
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_clench2",
+									"flags": 0
+								},
+								{
+									"lids": "open_low",
+									"mouth": "mouth_clench2",
+									"brows": "down-in2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 22,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up",
+									"mouth": "mouth_scream2",
+									"brows": "down-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-out_straight",
+									"mouth": "mouth_scream2",
+									"brows": "down-in2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 23,
+							"attachment_sets": [
+								{
+									"lids": "half-down_squint",
+									"mouth": "mouth_scream2",
+									"brows": "down-in3",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"mouth": "mouth_scream2",
+									"brows": "down-in3",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeeze2",
+									"mouth": "mouth_scream2",
+									"brows": "down-in3",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 24,
+							"attachment_sets": [
+								{
+									"lids": "closed-squeezeb",
+									"mouth": "mouth_clench1",
+									"brows": "down-in4",
+									"flags": 1
+								},
+								{
+									"lids": "closed-squeeze2",
+									"mouth": "mouth_clench1",
+									"brows": "down-in4",
+									"flags": 1
+								},
+								{
+									"lids": "half-down2_squint2",
+									"mouth": "mouth_clench1",
+									"brows": "down-in4",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 25,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "down-in",
+									"mouth": "mouth_frown4"
+								},
+								{
+									"flags": 0,
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_frown0"
+								}
+							]
+						},
+						{
+							"face": 26,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "up3",
+									"mouth": "mouth_smile1d"
+								}
+							]
+						},
+						{
+							"face": 27,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "half-down_low",
+									"brows": "up3",
+									"mouth": "mouth_smile1c"
+								},
+								{
+									"flags": 0,
+									"lids": "half_up2",
+									"brows": "up",
+									"mouth": "mouth_smile1"
+								},
+								{
+									"flags": 0,
+									"lids": "open",
+									"brows": "up",
+									"mouth": "mouth_smile1"
+								},
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "up",
+									"mouth": "mouth_smile1"
+								}
+							]
+						},
+						{
+							"face": 28,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "half-down_low",
+									"brows": "down-in2",
+									"mouth": "mouth_ah3"
+								}
+							]
+						},
+						{
+							"face": 29,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_frown4",
+									"brows": "up-in0",
+									"lids": "half-down-in_low"
+								}
+							]
+						},
+						{
+							"face": 30,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_bite0",
+									"lids": "open-down-out_straight"
+								}
+							]
+						},
+						{
+							"face": 31,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_ah3",
+									"brows": "down-in2",
+									"lids": "half-down-in_up"
+								},
+								{
+									"flags": 0,
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_frown4"
+								}
+							]
+						},
+						{
+							"face": 32,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "down-in2",
+									"mouth": "mouth_smile5"
+								}
+							]
+						},
+						{
+							"face": 33,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "half-in",
+									"brows": "down-in3",
+									"mouth": "mouth_frown4"
+								}
+							]
+						},
+						{
+							"face": 34,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_ah3",
+									"brows": "down-in4",
+									"lids": "half-down_squint"
+								}
+							]
+						},
+						{
+							"face": 35,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_smile5",
+									"brows": "down-in4",
+									"lids": "half-up-flat_low"
+								},
+								{
+									"flags": 0,
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_smile4"
+								},
+								{
+									"flags": 0,
+									"lids": "half_up3",
+									"brows": "up3",
+									"mouth": "mouth_smile5"
+								},
+								{
+									"flags": 0,
+									"lids": "half-down-in_up",
+									"brows": "out",
+									"mouth": "mouth_smile4"
+								},
+								{
+									"flags": 0,
+									"lids": "half-up-flat_up",
+									"brows": "up3",
+									"mouth": "mouth_smile5"
+								}
+							]
+						},
+						{
+							"face": 36,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"brows": "down-in2",
+									"mouth": "mouth_ah3",
+									"lids": "half-down_squint"
+								}
+							]
+						},
+						{
+							"face": 37,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "down-in2",
+									"mouth": "mouth_ah3"
+								}
+							]
+						},
+						{
+							"face": 38,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "down-in2",
+									"mouth": "mouth_bite1"
+								},
+								{
+									"flags": 0,
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_clench2"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "smirky",
+					"sets": [
+						{
+							"face": 0,
+							"attachment_sets": [
+								{
+									"lids": "open_up-one",
+									"brows": "up-in0",
+									"mouth": "mouth_smirk1",
+									"flags": 0
+								},
+								{
+									"lids": "open",
+									"brows": "up-in0",
+									"mouth": "mouth_smirk1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 1,
+							"attachment_sets": [
+								{
+									"lids": "closed-down",
+									"mouth": "mouth_wavy1",
+									"brows": "up",
+									"flags": 1
+								},
+								{
+									"lids": "closed-up",
+									"brows": "up",
+									"mouth": "mouth_wavy1",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 2,
+							"attachment_sets": [
+								{
+									"lids": "lidded_one",
+									"mouth": "mouth_wavy3",
+									"brows": "out",
+									"flags": 0
+								},
+								{
+									"lids": "lidded",
+									"brows": "out",
+									"mouth": "mouth_wavy3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 3,
+							"attachment_sets": [
+								{
+									"lids": "half-down_low",
+									"mouth": "mouth_smirk1",
+									"brows": "up2",
+									"flags": 0
+								},
+								{
+									"lids": "half-in",
+									"brows": "up2",
+									"mouth": "mouth_smirk1",
+									"flags": 0
+								},
+								{
+									"lids": "open_up-one",
+									"brows": "up",
+									"mouth": "mouth_smirk1",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_low",
+									"brows": "up2",
+									"mouth": "mouth_smirk1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 4,
+							"attachment_sets": [
+								{
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_smile2",
+									"flags": 0
+								},
+								{
+									"lids": "half_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_smile2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_up",
+									"brows": "out",
+									"mouth": "mouth_smile2",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_up",
+									"brows": "up3",
+									"mouth": "mouth_smile2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 5,
+							"attachment_sets": [
+								{
+									"lids": "open_up-one",
+									"mouth": "mouth_ah1",
+									"brows": "down-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down_squint",
+									"brows": "down-in3",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"brows": "down-in3",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeeze2",
+									"brows": "down-in2",
+									"mouth": "mouth_ah1",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 6,
+							"attachment_sets": [
+								{
+									"lids": "half-down2_squint2",
+									"mouth": "mouth_ah7",
+									"brows": "down-in4",
+									"flags": 0
+								},
+								{
+									"lids": "closed-up3",
+									"brows": "down-in4",
+									"mouth": "mouth_ah7",
+									"flags": 1
+								},
+								{
+									"lids": "half-down-in_low",
+									"brows": "down-in4",
+									"mouth": "mouth_ah7",
+									"flags": 0
+								},
+								{
+									"brows": "down-in4",
+									"lids": "closed-squeezeb",
+									"mouth": "mouth_ah7",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 7,
+							"attachment_sets": [
+								{
+									"lids": "half_up2",
+									"brows": "out",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "half_up3",
+									"brows": "out",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "closed-up",
+									"brows": "out",
+									"mouth": "mouth_ah1",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 8,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up",
+									"mouth": "mouth_clench3",
+									"brows": "up-in0",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_low",
+									"brows": "up-in0",
+									"mouth": "mouth_clench3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 9,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up2",
+									"mouth": "mouth_clench1",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_clench1",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-out_inner",
+									"brows": "up-in1",
+									"mouth": "mouth_clench1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 10,
+							"attachment_sets": [
+								{
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_smile3",
+									"flags": 0
+								},
+								{
+									"brows": "out",
+									"lids": "half_up3",
+									"mouth": "mouth_smile3",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_up",
+									"brows": "down-in2",
+									"mouth": "mouth_smile3",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_up",
+									"brows": "down-in3",
+									"mouth": "mouth_smile3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 11,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up2",
+									"brows": "down-in3",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-out_straight",
+									"brows": "up-in0",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 12,
+							"attachment_sets": [
+								{
+									"lids": "half-down_squint",
+									"mouth": "mouth_bite1",
+									"brows": "down-in3",
+									"flags": 0
+								},
+								{
+									"brows": "down-in3",
+									"lids": "half-straight-in_up3",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								},
+								{
+									"brows": "up-in3",
+									"lids": "closed-up3",
+									"mouth": "mouth_bite1",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 13,
+							"attachment_sets": [
+								{
+									"lids": "open_low",
+									"mouth": "mouth_wavy3",
+									"brows": "up-in0",
+									"flags": 0
+								},
+								{
+									"lids": "open_up-one",
+									"brows": "up-in0",
+									"mouth": "mouth_wavy3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 14,
+							"attachment_sets": [
+								{
+									"lids": "half_up3",
+									"mouth": "mouth_wavy3",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_low",
+									"brows": "up-in1",
+									"mouth": "mouth_wavy3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 15,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up",
+									"mouth": "mouth_clench2",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-out_straight",
+									"brows": "up-in1",
+									"mouth": "mouth_clench2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 16,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_low",
+									"mouth": "mouth_bite1",
+									"brows": "out2",
+									"flags": 0
+								},
+								{
+									"lids": "open_up-one",
+									"brows": "out",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 17,
+							"attachment_sets": [
+								{
+									"lids": "half-straight-in_up3",
+									"mouth": "mouth_scream1",
+									"brows": "up-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down_squint",
+									"mouth": "mouth_scream1",
+									"brows": "up-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_up2",
+									"mouth": "mouth_scream1",
+									"brows": "up-in2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 18,
+							"attachment_sets": [
+								{
+									"lids": "lidded",
+									"mouth": "mouth_clench3",
+									"brows": "down-in",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_up",
+									"mouth": "mouth_clench3",
+									"brows": "down-in",
+									"flags": 0
+								},
+								{
+									"lids": "lidded_one",
+									"mouth": "mouth_clench3",
+									"brows": "down-in",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 19,
+							"attachment_sets": [
+								{
+									"lids": "half-down-out_squint",
+									"mouth": "mouth_scream2",
+									"brows": "up-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-out_inner",
+									"mouth": "mouth_scream2",
+									"brows": "up-in2",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeezeb",
+									"mouth": "mouth_scream2",
+									"brows": "up-in2",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 20,
+							"attachment_sets": [
+								{
+									"lids": "half-down2-out_squint2",
+									"mouth": "mouth_scream2",
+									"brows": "up-in3",
+									"flags": 0
+								},
+								{
+									"lids": "half-down2_squint2",
+									"mouth": "mouth_scream2",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeeze2",
+									"mouth": "mouth_scream2",
+									"brows": "up-in3",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 21,
+							"attachment_sets": [
+								{
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_clench2",
+									"flags": 0
+								},
+								{
+									"lids": "open_low",
+									"mouth": "mouth_clench2",
+									"brows": "down-in2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 22,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up",
+									"mouth": "mouth_scream2",
+									"brows": "down-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-out_straight",
+									"mouth": "mouth_scream2",
+									"brows": "down-in2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 23,
+							"attachment_sets": [
+								{
+									"lids": "half-down_squint",
+									"mouth": "mouth_scream2",
+									"brows": "down-in3",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"mouth": "mouth_scream2",
+									"brows": "down-in3",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeeze2",
+									"mouth": "mouth_scream2",
+									"brows": "down-in3",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 24,
+							"attachment_sets": [
+								{
+									"lids": "closed-squeezeb",
+									"mouth": "mouth_clench1",
+									"brows": "down-in4",
+									"flags": 1
+								},
+								{
+									"lids": "closed-squeeze2",
+									"mouth": "mouth_clench1",
+									"brows": "down-in4",
+									"flags": 1
+								},
+								{
+									"lids": "half-down2_squint2",
+									"mouth": "mouth_clench1",
+									"brows": "down-in4",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 25,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "down-in",
+									"mouth": "mouth_frown4"
+								},
+								{
+									"flags": 0,
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_frown0"
+								}
+							]
+						},
+						{
+							"face": 26,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "up-in0",
+									"mouth": "mouth_smile1d"
+								},
+								{
+									"flags": 0,
+									"lids": "open_up-one",
+									"brows": "up-in0",
+									"mouth": "mouth_smirk1"
+								},
+								{
+									"flags": 0,
+									"lids": "open",
+									"brows": "up-in0",
+									"mouth": "mouth_smirk1"
+								}
+							]
+						},
+						{
+							"face": 27,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "half-down_low",
+									"brows": "up-in0",
+									"mouth": "mouth_smile1c"
+								}
+							]
+						},
+						{
+							"face": 28,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "half-down_low",
+									"brows": "down-in2",
+									"mouth": "mouth_ah3"
+								}
+							]
+						},
+						{
+							"face": 29,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_frown4",
+									"brows": "up-in0",
+									"lids": "half-down-in_low"
+								}
+							]
+						},
+						{
+							"face": 30,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_bite0",
+									"lids": "open-down-out_straight"
+								}
+							]
+						},
+						{
+							"face": 31,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_smile1c",
+									"brows": "down-in2",
+									"lids": "open_low"
+								}
+							]
+						},
+						{
+							"face": 32,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_up-one",
+									"brows": "down-in2",
+									"mouth": "mouth_smile5"
+								}
+							]
+						},
+						{
+							"face": 33,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "half-down-out_straight",
+									"brows": "up-in2",
+									"mouth": "mouth_frown4"
+								}
+							]
+						},
+						{
+							"face": 34,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_ah3",
+									"brows": "down-in4",
+									"lids": "half-down_squint"
+								}
+							]
+						},
+						{
+							"face": 35,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_smile5",
+									"brows": "down-in4",
+									"lids": "half-up-flat_low"
+								},
+								{
+									"flags": 0,
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_smile2"
+								},
+								{
+									"flags": 0,
+									"lids": "half_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_smile2"
+								},
+								{
+									"flags": 0,
+									"lids": "half-down-in_up",
+									"brows": "out",
+									"mouth": "mouth_smile2"
+								},
+								{
+									"flags": 0,
+									"lids": "half-up-flat_up",
+									"brows": "up3",
+									"mouth": "mouth_smile2"
+								}
+							]
+						},
+						{
+							"face": 36,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"brows": "down-in2",
+									"mouth": "mouth_ah3",
+									"lids": "half-down_squint"
+								}
+							]
+						},
+						{
+							"face": 37,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "down-in2",
+									"mouth": "mouth_ah3"
+								}
+							]
+						},
+						{
+							"face": 38,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "down-in2",
+									"mouth": "mouth_bite1"
+								},
+								{
+									"flags": 0,
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_clench2"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "angry",
+					"sets": [
+						{
+							"face": 0,
+							"attachment_sets": [
+								{
+									"lids": "open_up-one",
+									"brows": "up-in0",
+									"mouth": "mouth_frown0",
+									"flags": 0
+								},
+								{
+									"lids": "open",
+									"brows": "up-in0",
+									"mouth": "mouth_frown0",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 1,
+							"attachment_sets": [
+								{
+									"lids": "closed-down",
+									"mouth": "mouth_wavy1",
+									"brows": "up",
+									"flags": 1
+								},
+								{
+									"lids": "closed-up",
+									"brows": "up",
+									"mouth": "mouth_wavy1",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 2,
+							"attachment_sets": [
+								{
+									"lids": "lidded_one",
+									"mouth": "mouth_wavy3",
+									"brows": "out",
+									"flags": 0
+								},
+								{
+									"lids": "lidded",
+									"brows": "out",
+									"mouth": "mouth_wavy3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 3,
+							"attachment_sets": [
+								{
+									"lids": "half-down_low",
+									"mouth": "mouth_frown1",
+									"brows": "up-in0",
+									"flags": 0
+								},
+								{
+									"lids": "half-in",
+									"brows": "up-in0",
+									"mouth": "mouth_frown1",
+									"flags": 0
+								},
+								{
+									"lids": "open_up-one",
+									"brows": "up-in0",
+									"mouth": "mouth_frown1",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_low",
+									"brows": "up-in0",
+									"mouth": "mouth_frown1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 4,
+							"attachment_sets": [
+								{
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_frown3",
+									"flags": 0
+								},
+								{
+									"lids": "half_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_frown3",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_up",
+									"brows": "up-in1",
+									"mouth": "mouth_frown3",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_up",
+									"brows": "up-in1",
+									"mouth": "mouth_frown3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 5,
+							"attachment_sets": [
+								{
+									"lids": "open_up-one",
+									"mouth": "mouth_ah1",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "half-down_squint",
+									"brows": "up-in2",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"brows": "up-in2",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeeze2",
+									"brows": "up-in2",
+									"mouth": "mouth_ah1",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 6,
+							"attachment_sets": [
+								{
+									"lids": "half-down2_squint2",
+									"mouth": "mouth_ah7",
+									"brows": "down-in4",
+									"flags": 0
+								},
+								{
+									"lids": "closed-up3",
+									"brows": "down-in4",
+									"mouth": "mouth_ah7",
+									"flags": 1
+								},
+								{
+									"lids": "half-down-in_low",
+									"brows": "down-in4",
+									"mouth": "mouth_ah7",
+									"flags": 0
+								},
+								{
+									"brows": "down-in4",
+									"lids": "closed-squeezeb",
+									"mouth": "mouth_ah7",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 7,
+							"attachment_sets": [
+								{
+									"lids": "half_up2",
+									"brows": "up-in0",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "half_up3",
+									"brows": "up-in0",
+									"mouth": "mouth_ah1",
+									"flags": 0
+								},
+								{
+									"lids": "closed-up",
+									"brows": "up-in0",
+									"mouth": "mouth_ah1",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 8,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up",
+									"mouth": "mouth_clench3",
+									"brows": "up-in0",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_low",
+									"brows": "up-in0",
+									"mouth": "mouth_clench3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 9,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up2",
+									"mouth": "mouth_clench1",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_clench1",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-out_inner",
+									"brows": "up-in1",
+									"mouth": "mouth_clench1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 10,
+							"attachment_sets": [
+								{
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_smile3",
+									"flags": 0
+								},
+								{
+									"brows": "out",
+									"lids": "half_up3",
+									"mouth": "mouth_smile3",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_up",
+									"brows": "down-in2",
+									"mouth": "mouth_smile3",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_up",
+									"brows": "down-in3",
+									"mouth": "mouth_smile3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 11,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up2",
+									"brows": "down-in3",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-out_straight",
+									"brows": "up-in0",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 12,
+							"attachment_sets": [
+								{
+									"lids": "half-down_squint",
+									"mouth": "mouth_bite1",
+									"brows": "down-in3",
+									"flags": 0
+								},
+								{
+									"brows": "down-in3",
+									"lids": "half-straight-in_up3",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								},
+								{
+									"brows": "up-in3",
+									"lids": "closed-up3",
+									"mouth": "mouth_bite1",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 13,
+							"attachment_sets": [
+								{
+									"lids": "open_low",
+									"mouth": "mouth_wavy3",
+									"brows": "up-in0",
+									"flags": 0
+								},
+								{
+									"lids": "open_up-one",
+									"brows": "up-in0",
+									"mouth": "mouth_wavy3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 14,
+							"attachment_sets": [
+								{
+									"lids": "half_up3",
+									"mouth": "mouth_wavy3",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_low",
+									"brows": "up-in1",
+									"mouth": "mouth_wavy3",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 15,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up",
+									"mouth": "mouth_clench2",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-out_straight",
+									"brows": "up-in1",
+									"mouth": "mouth_clench2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 16,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_low",
+									"mouth": "mouth_bite1",
+									"brows": "out2",
+									"flags": 0
+								},
+								{
+									"lids": "open_up-one",
+									"brows": "out",
+									"mouth": "mouth_bite1",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 17,
+							"attachment_sets": [
+								{
+									"lids": "half-straight-in_up3",
+									"mouth": "mouth_scream1",
+									"brows": "up-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down_squint",
+									"mouth": "mouth_scream1",
+									"brows": "up-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-in_up2",
+									"mouth": "mouth_scream1",
+									"brows": "up-in2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 18,
+							"attachment_sets": [
+								{
+									"lids": "lidded",
+									"mouth": "mouth_clench3",
+									"brows": "down-in",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-flat_up",
+									"mouth": "mouth_clench3",
+									"brows": "down-in",
+									"flags": 0
+								},
+								{
+									"lids": "lidded_one",
+									"mouth": "mouth_clench3",
+									"brows": "down-in",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 19,
+							"attachment_sets": [
+								{
+									"lids": "half-down-out_squint",
+									"mouth": "mouth_scream2",
+									"brows": "up-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-up-out_inner",
+									"mouth": "mouth_scream2",
+									"brows": "up-in2",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeezeb",
+									"mouth": "mouth_scream2",
+									"brows": "up-in2",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 20,
+							"attachment_sets": [
+								{
+									"lids": "half-down2-out_squint2",
+									"mouth": "mouth_scream2",
+									"brows": "up-in3",
+									"flags": 0
+								},
+								{
+									"lids": "half-down2_squint2",
+									"mouth": "mouth_scream2",
+									"brows": "up-in1",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeeze2",
+									"mouth": "mouth_scream2",
+									"brows": "up-in3",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 21,
+							"attachment_sets": [
+								{
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_clench2",
+									"flags": 0
+								},
+								{
+									"lids": "open_low",
+									"mouth": "mouth_clench2",
+									"brows": "down-in2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 22,
+							"attachment_sets": [
+								{
+									"lids": "half-down-in_up",
+									"mouth": "mouth_scream2",
+									"brows": "down-in2",
+									"flags": 0
+								},
+								{
+									"lids": "half-down-out_straight",
+									"mouth": "mouth_scream2",
+									"brows": "down-in2",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 23,
+							"attachment_sets": [
+								{
+									"lids": "half-down_squint",
+									"mouth": "mouth_scream2",
+									"brows": "down-in3",
+									"flags": 0
+								},
+								{
+									"lids": "half-straight-in_up3",
+									"mouth": "mouth_scream2",
+									"brows": "down-in3",
+									"flags": 0
+								},
+								{
+									"lids": "closed-squeeze2",
+									"mouth": "mouth_scream2",
+									"brows": "down-in3",
+									"flags": 1
+								}
+							]
+						},
+						{
+							"face": 24,
+							"attachment_sets": [
+								{
+									"lids": "closed-squeezeb",
+									"mouth": "mouth_clench1",
+									"brows": "down-in4",
+									"flags": 1
+								},
+								{
+									"lids": "closed-squeeze2",
+									"mouth": "mouth_clench1",
+									"brows": "down-in4",
+									"flags": 1
+								},
+								{
+									"lids": "half-down2_squint2",
+									"mouth": "mouth_clench1",
+									"brows": "down-in4",
+									"flags": 0
+								}
+							]
+						},
+						{
+							"face": 25,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "half-down-in_up",
+									"brows": "up-in0",
+									"mouth": "mouth_frown0"
+								},
+								{
+									"flags": 0,
+									"lids": "half-down-in_low",
+									"mouth": "mouth_frown0",
+									"brows": "up-in0"
+								}
+							]
+						},
+						{
+							"face": 26,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "up-in0",
+									"mouth": "mouth_wavy4"
+								}
+							]
+						},
+						{
+							"face": 27,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "half-down_low",
+									"brows": "up-in0",
+									"mouth": "mouth_smile1b"
+								},
+								{
+									"flags": 0,
+									"lids": "open_up-one",
+									"brows": "up-in0",
+									"mouth": "mouth_frown0"
+								},
+								{
+									"flags": 0,
+									"lids": "open",
+									"brows": "up-in0",
+									"mouth": "mouth_frown0"
+								}
+							]
+						},
+						{
+							"face": 28,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "half-down_low",
+									"brows": "up-in2",
+									"mouth": "mouth_ah3"
+								},
+								{
+									"flags": 0,
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_frown3"
+								},
+								{
+									"flags": 0,
+									"lids": "half_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_frown3"
+								},
+								{
+									"flags": 0,
+									"lids": "half-down-in_up",
+									"brows": "up-in1",
+									"mouth": "mouth_frown3"
+								},
+								{
+									"flags": 0,
+									"lids": "half-up-flat_up",
+									"brows": "up-in1",
+									"mouth": "mouth_frown3"
+								}
+							]
+						},
+						{
+							"face": 29,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_frown4",
+									"brows": "up-in0",
+									"lids": "half-down-in_low"
+								}
+							]
+						},
+						{
+							"face": 30,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_smile3",
+									"lids": "open-down-out_straight"
+								},
+								{
+									"flags": 0,
+									"lids": "half_up3",
+									"brows": "out",
+									"mouth": "mouth_smile3"
+								},
+								{
+									"flags": 0,
+									"lids": "half-down-in_up",
+									"brows": "down-in2",
+									"mouth": "mouth_smile3"
+								},
+								{
+									"flags": 0,
+									"lids": "half-up-flat_up",
+									"brows": "down-in3",
+									"mouth": "mouth_smile3"
+								}
+							]
+						},
+						{
+							"face": 31,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_wavy4",
+									"brows": "down-in2",
+									"lids": "open_low"
+								},
+								{
+									"flags": 0,
+									"lids": "half-down-in_up2",
+									"brows": "down-in3",
+									"mouth": "mouth_wavy4"
+								},
+								{
+									"flags": 0,
+									"lids": "half-straight-in_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_wavy4"
+								},
+								{
+									"flags": 0,
+									"lids": "half-down-out_straight",
+									"brows": "up-in0",
+									"mouth": "mouth_wavy4"
+								}
+							]
+						},
+						{
+							"face": 32,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "half-down_low",
+									"brows": "up-in0",
+									"mouth": "mouth_frown1"
+								},
+								{
+									"flags": 0,
+									"lids": "half-in",
+									"brows": "up-in0",
+									"mouth": "mouth_frown1"
+								},
+								{
+									"flags": 0,
+									"lids": "open_up-one",
+									"brows": "up-in0",
+									"mouth": "mouth_frown1"
+								},
+								{
+									"flags": 0,
+									"lids": "half-up-flat_low",
+									"brows": "up-in0",
+									"mouth": "mouth_frown1"
+								}
+							]
+						},
+						{
+							"face": 33,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "half-down-in_up",
+									"brows": "up-in0",
+									"mouth": "mouth_clench3"
+								},
+								{
+									"flags": 0,
+									"lids": "half-down-in_low",
+									"brows": "up-in0",
+									"mouth": "mouth_clench3"
+								},
+								{
+									"flags": 0,
+									"lids": "half-down-in_up",
+									"brows": "up-in0",
+									"mouth": "mouth_frown4"
+								},
+								{
+									"flags": 0,
+									"lids": "half-down-in_low",
+									"brows": "up-in0",
+									"mouth": "mouth_frown0"
+								}
+							]
+						},
+						{
+							"face": 34,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_ah3",
+									"brows": "down-in4",
+									"lids": "half-down_squint"
+								}
+							]
+						},
+						{
+							"face": 35,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"mouth": "mouth_smile5",
+									"brows": "up-in1",
+									"lids": "half-up-flat_up"
+								},
+								{
+									"flags": 0,
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_frown3"
+								},
+								{
+									"flags": 0,
+									"lids": "half_up3",
+									"brows": "up-in1",
+									"mouth": "mouth_frown3"
+								},
+								{
+									"flags": 0,
+									"lids": "half-down-in_up",
+									"brows": "up-in1",
+									"mouth": "mouth_frown3"
+								},
+								{
+									"flags": 0,
+									"lids": "half-up-flat_up",
+									"brows": "up-in1",
+									"mouth": "mouth_frown3"
+								}
+							]
+						},
+						{
+							"face": 36,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"brows": "down-in2",
+									"mouth": "mouth_ah3",
+									"lids": "half-down_squint"
+								}
+							]
+						},
+						{
+							"face": 37,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "down-in2",
+									"mouth": "mouth_ah3"
+								}
+							]
+						},
+						{
+							"face": 38,
+							"attachment_sets": [
+								{
+									"flags": 0,
+									"lids": "open_low",
+									"brows": "down-in2",
+									"mouth": "mouth_bite1"
+								},
+								{
+									"flags": 0,
+									"lids": "open-down-out_straight",
+									"mouth": "mouth_clench2"
+								}
+							]
+						}
+					]
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "expression_conditions",
+			"columns": [
+				{
+					"typeStr": "3",
+					"name": "priority"
+				},
+				{
+					"typeStr": "5:NEUTRAL,SLEEPING,WAKING,PLEASURE0,PLEASURE1,ORGASM_NEAR,ORGASMING,POST_ORGASM,PAIN0,PAIN1,PLEASURE_PAIN0,PAIN_PLEASURE0,ORGASM_NEAR_PAIN,OVERSTIM0,OVERSTIM1,PAIN_OVERSTIM0,POST_ORGASM_OVERSTIM,OVERSTIM2,CONSCIOUS_NEAR,OVERSTIM3,OVERSTIM4,OVERSTIM_POST_ORGASM,OVERSTIM_ORGASM_NEAR,OVERSTIM_ORGASM_EDGE,OVERSTIM_ORGASMING,FEAR0,ANTICIPATION0,AROUSAL0,AROUSAL1,DISGUST0,AROUSAL_FEAR,FEAR_AROUSAL,PLEASURE_FEAR0,PAIN_FEAR0,OVERSTIM_FEAR0,PLEASURE_AROUSAL0,PAIN_AROUSAL0,OVERSTIM_AROUSAL0,FEAR1",
+					"name": "face"
+				},
+				{
+					"typeStr": "8",
+					"name": "consciousness_stages",
+					"opt": true
+				},
+				{
+					"typeStr": "8",
+					"name": "orgasm_stages",
+					"opt": true
+				},
+				{
+					"typeStr": "9:Range",
+					"name": "pleasure",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "9:Range",
+					"name": "pain",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "9:Range",
+					"name": "overstim",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "9:Range",
+					"name": "arousal",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "9:Range",
+					"name": "anticipation",
+					"opt": true
+				}
+			],
+			"lines": [
+				{
+					"priority": 0,
+					"face": 0,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 1
+						}
+					]
+				},
+				{
+					"priority": 1,
+					"face": 3,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"pleasure": [
+						0,
+						0.01,
+						0.2
+					]
+				},
+				{
+					"priority": 1,
+					"face": 26,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"anticipation": [
+						0,
+						0.05,
+						0.2
+					]
+				},
+				{
+					"priority": 1,
+					"face": 29,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"arousal": [
+						0,
+						-0.05,
+						-0.2
+					]
+				},
+				{
+					"priority": 1,
+					"face": 27,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"arousal": [
+						0,
+						0.05,
+						0.2
+					]
+				},
+				{
+					"priority": 1,
+					"face": 25,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"anticipation": [
+						0,
+						-0.05,
+						-0.2
+					]
+				},
+				{
+					"priority": 1,
+					"face": 8,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"pain": [
+						0,
+						0.01,
+						0.2
+					]
+				},
+				{
+					"priority": 1,
+					"face": 3,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"pleasure": [
+						0,
+						0.2,
+						0.4
+					]
+				},
+				{
+					"priority": 1,
+					"face": 26,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"anticipation": [
+						0,
+						0.2,
+						0.6
+					]
+				},
+				{
+					"priority": 1,
+					"face": 29,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"arousal": [
+						0,
+						-0.2,
+						-0.6
+					]
+				},
+				{
+					"priority": 1,
+					"face": 27,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"arousal": [
+						0,
+						0.2,
+						0.8
+					]
+				},
+				{
+					"priority": 1,
+					"face": 25,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"anticipation": [
+						0,
+						-0.2,
+						-0.6
+					]
+				},
+				{
+					"priority": 1,
+					"face": 8,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"pain": [
+						0,
+						0.2,
+						0.6
+					]
+				},
+				{
+					"priority": 1,
+					"face": 4,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"pleasure": [
+						0,
+						0.4,
+						0.8
+					]
+				},
+				{
+					"priority": 2,
+					"face": 13,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 1
+						}
+					],
+					"overstim": [
+						0,
+						0.01,
+						0.25
+					]
+				},
+				{
+					"priority": 2,
+					"face": 28,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"arousal": [
+						0,
+						0.8,
+						1
+					]
+				},
+				{
+					"priority": 2,
+					"face": 30,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 4
+						},
+						{
+							"stage": 1
+						}
+					],
+					"arousal": [
+						0,
+						0.6,
+						0.8
+					],
+					"anticipation": [
+						0,
+						-0.2,
+						-0.5
+					]
+				},
+				{
+					"priority": 2,
+					"face": 31,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 4
+						},
+						{
+							"stage": 1
+						}
+					],
+					"arousal": [
+						0,
+						0.4,
+						0.6
+					],
+					"anticipation": [
+						0,
+						-0.4,
+						-0.8
+					]
+				},
+				{
+					"priority": 2,
+					"face": 38,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"anticipation": [
+						0,
+						-0.6,
+						-1
+					]
+				},
+				{
+					"priority": 2,
+					"face": 32,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 4
+						},
+						{
+							"stage": 1
+						}
+					],
+					"anticipation": [
+						0,
+						-0.2,
+						-0.6
+					],
+					"pleasure": [
+						0,
+						0.2,
+						0.8
+					]
+				},
+				{
+					"priority": 2,
+					"face": 33,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 4
+						},
+						{
+							"stage": 1
+						}
+					],
+					"anticipation": [
+						0,
+						-0.2,
+						-0.6
+					],
+					"pain": [
+						0,
+						0.2,
+						0.8
+					]
+				},
+				{
+					"priority": 2,
+					"face": 34,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 4
+						},
+						{
+							"stage": 1
+						}
+					],
+					"anticipation": [
+						0,
+						-0.2,
+						-0.6
+					],
+					"overstim": [
+						0,
+						0.1,
+						0.5
+					]
+				},
+				{
+					"priority": 2,
+					"face": 11,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 4
+						},
+						{
+							"stage": 1
+						}
+					],
+					"pleasure": [
+						0,
+						0.2,
+						0.5
+					],
+					"pain": [
+						0,
+						0.2,
+						0.8
+					]
+				},
+				{
+					"priority": 2,
+					"face": 10,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 4
+						},
+						{
+							"stage": 1
+						}
+					],
+					"pleasure": [
+						0,
+						0.2,
+						0.8
+					],
+					"pain": [
+						0,
+						0.2,
+						0.5
+					]
+				},
+				{
+					"priority": 2,
+					"face": 35,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"pleasure": [
+						0,
+						0.2,
+						0.8
+					],
+					"arousal": [
+						0,
+						0.8,
+						1
+					]
+				},
+				{
+					"priority": 2,
+					"face": 36,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"arousal": [
+						0,
+						0.8,
+						1
+					],
+					"pain": [
+						0,
+						0.2,
+						0.8
+					]
+				},
+				{
+					"priority": 2,
+					"face": 9,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 1
+						}
+					],
+					"pain": [
+						0,
+						0.6,
+						1
+					]
+				},
+				{
+					"priority": 2,
+					"face": 14,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 1
+						}
+					],
+					"overstim": [
+						0,
+						0.25,
+						0.5
+					]
+				},
+				{
+					"priority": 2,
+					"face": 14,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 1
+						}
+					],
+					"overstim": [
+						0,
+						0.25,
+						0.5
+					]
+				},
+				{
+					"priority": 2,
+					"face": 37,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 4
+						},
+						{
+							"stage": 1
+						}
+					],
+					"overstim": [
+						0,
+						0.1,
+						0.5
+					],
+					"arousal": [
+						0,
+						0.8,
+						1
+					]
+				},
+				{
+					"priority": 2,
+					"face": 15,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 1
+						}
+					],
+					"pain": [
+						0,
+						0.2,
+						1
+					],
+					"overstim": [
+						0,
+						0.01,
+						0.5
+					]
+				},
+				{
+					"priority": 3,
+					"face": 5,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 1
+						}
+					],
+					"orgasm_stages": [
+						{
+							"stage": 1
+						},
+						{
+							"stage": 2
+						}
+					]
+				},
+				{
+					"priority": 3,
+					"face": 12,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 1
+						}
+					],
+					"orgasm_stages": [
+						{
+							"stage": 1
+						},
+						{
+							"stage": 2
+						}
+					],
+					"pain": [
+						0,
+						0.2,
+						1
+					]
+				},
+				{
+					"priority": 3,
+					"face": 12,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 1
+						}
+					],
+					"orgasm_stages": [
+						{
+							"stage": 1
+						},
+						{
+							"stage": 2
+						}
+					],
+					"overstim": [
+						0,
+						0.01,
+						0.5
+					]
+				},
+				{
+					"priority": 3,
+					"face": 7,
+					"orgasm_stages": [
+						{
+							"stage": 4
+						}
+					]
+				},
+				{
+					"priority": 3,
+					"face": 16,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 1
+						}
+					],
+					"orgasm_stages": [
+						{
+							"stage": 4
+						}
+					],
+					"overstim": [
+						0,
+						0.01,
+						0.5
+					]
+				},
+				{
+					"priority": 4,
+					"face": 17,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						},
+						{
+							"stage": 1
+						}
+					],
+					"overstim": [
+						0,
+						0.5,
+						0.8
+					]
+				},
+				{
+					"priority": 4,
+					"face": 19,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						}
+					],
+					"overstim": [
+						0,
+						0.75,
+						0.95
+					]
+				},
+				{
+					"priority": 4,
+					"face": 20,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						}
+					],
+					"orgasm_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 5
+						}
+					],
+					"overstim": [
+						0,
+						0.95,
+						1
+					]
+				},
+				{
+					"priority": 4,
+					"face": 21,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						}
+					],
+					"orgasm_stages": [
+						{
+							"stage": 4
+						}
+					],
+					"overstim": [
+						0,
+						0.95,
+						1
+					]
+				},
+				{
+					"priority": 4,
+					"face": 22,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						}
+					],
+					"orgasm_stages": [
+						{
+							"stage": 1
+						}
+					],
+					"overstim": [
+						0,
+						0.75,
+						1
+					]
+				},
+				{
+					"priority": 4,
+					"face": 23,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						}
+					],
+					"orgasm_stages": [
+						{
+							"stage": 2
+						}
+					],
+					"overstim": [
+						0,
+						0.75,
+						1
+					]
+				},
+				{
+					"priority": 5,
+					"face": 6,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						},
+						{
+							"stage": 1
+						},
+						{
+							"stage": 5
+						}
+					],
+					"orgasm_stages": [
+						{
+							"stage": 3
+						}
+					]
+				},
+				{
+					"priority": 5,
+					"face": 24,
+					"consciousness_stages": [
+						{
+							"stage": 0
+						}
+					],
+					"orgasm_stages": [
+						{
+							"stage": 3
+						}
+					],
+					"overstim": [
+						0,
+						0.95,
+						1
+					]
+				},
+				{
+					"priority": 6,
+					"face": 18,
+					"consciousness_stages": [
+						{
+							"stage": 1
+						},
+						{
+							"stage": 2
+						}
+					]
+				},
+				{
+					"priority": 6,
+					"face": 2,
+					"consciousness_stages": [
+						{
+							"stage": 4
+						}
+					]
+				},
+				{
+					"priority": 7,
+					"face": 1,
+					"consciousness_stages": [
+						{
+							"stage": 3
+						}
+					]
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "expression_conditions@consciousness_stages",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "5:CONSCIOUS,CONSCIOUS_NEAR,CONSCIOUS_EDGE,UNCONSCIOUS,CONSCIOUS_WAKING,CONSCIOUS_POST",
+					"name": "stage"
+				}
+			]
+		},
+		{
+			"name": "expression_conditions@orgasm_stages",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "5:ORGASM_PRE,ORGASM_NEAR,ORGASM_EDGE,ORGASMING,ORGASM_POST,ORGASM_REFRACTORY",
+					"name": "stage"
+				}
+			]
+		},
+		{
+			"name": "expression_sets@sets",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "5:NEUTRAL,SLEEPING,WAKING,PLEASURE0,PLEASURE1,ORGASM_NEAR,ORGASMING,POST_ORGASM,PAIN0,PAIN1,PLEASURE_PAIN0,PAIN_PLEASURE0,ORGASM_NEAR_PAIN,OVERSTIM0,OVERSTIM1,PAIN_OVERSTIM0,POST_ORGASM_OVERSTIM,OVERSTIM2,CONSCIOUS_NEAR,OVERSTIM3,OVERSTIM4,OVERSTIM_POST_ORGASM,OVERSTIM_ORGASM_NEAR,OVERSTIM_ORGASM_EDGE,OVERSTIM_ORGASMING,FEAR0,ANTICIPATION0,AROUSAL0,AROUSAL1,DISGUST0,AROUSAL_FEAR,FEAR_AROUSAL,PLEASURE_FEAR0,PAIN_FEAR0,OVERSTIM_FEAR0,PLEASURE_AROUSAL0,PAIN_AROUSAL0,OVERSTIM_AROUSAL0,FEAR1",
+					"name": "face"
+				},
+				{
+					"typeStr": "8",
+					"name": "attachment_sets",
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "expression_sets@sets@attachment_sets",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "1",
+					"name": "lids",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "brows",
+					"opt": true
+				},
+				{
+					"typeStr": "1",
+					"name": "mouth",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "10:EYES_CLOSED",
+					"name": "flags"
+				}
+			]
+		},
+		{
+			"name": "rigs_data@tints",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "11",
+					"name": "tint",
+					"display": null
+				},
+				{
+					"typeStr": "6:tint_sets",
+					"name": "tint_set",
+					"display": null
+				},
+				{
+					"typeStr": "11",
+					"name": "tint2",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "6:tint_sets",
+					"name": "tint_set2",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "11",
+					"name": "tint_eye0",
+					"display": null
+				},
+				{
+					"typeStr": "11",
+					"name": "tint_eye1",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "11",
+					"name": "tint_blush",
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "rigs_data@sizes",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "4",
+					"name": "p_default",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "p_max",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "p_elastic_max",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "p_elastic_rate",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "p_force_max",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "p_wetness_multiplier",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "a_default",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "a_max",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "a_elastic_max",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "a_elastic_rate",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "a_force_max",
+					"opt": true,
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "preferences",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "id",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "display_name"
+				},
+				{
+					"typeStr": "8",
+					"name": "set",
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"id": "base",
+					"display_name": "Normal",
+					"set": [
+						{
+							"thing": 0,
+							"arousal": [
+								{
+									"self": 0,
+									"neighbor": 0.001
+								}
+							],
+							"desire": [
+								{
+									"self": 0,
+									"neighbor": 0
+								}
+							]
+						},
+						{
+							"thing": 1
+						}
+					]
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "preferences@set",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "5:CHARACTER,CAP_VIBRATION,CAP_SHOCK,CAP_TICKLE,CAP_AUTO,CAPSTRENGTH_VIBE_MIN,CAPSTRENGTH_VIBE_MED,CAPSTRENGTH_VIBE_MAX,CAPSTRENGTH_VIBE_MAX2,CAPSTRENGTH_SHOCK_MIN,CAPSTRENGTH_SHOCK_MED,CAPSTRENGTH_SHOCK_MAX,CAPSTRENGTH_TICKLE_MIN,CAPSTRENGTH_TICKLE_MED,CAPSTRENGTH_TICKLE_MAX,ITEMSIZE_0,ITEMSIZE_1,ITEMSIZE_2,ITEMSIZE_3,ITEMSIZE_4,ITEMSIZE_5,ITEMSIZE_6,ITEM_HORSE_DILDO,ITEM_PLUG,ITEM_CANINE_DILDO,ITEM_SHEATH,ITEM_BULLET,ITEM_WAND,ITEM_BRUSH,ACT_TICKLING,TARGET_ASS,TARGET_PUSSY,TARGET_CLIT,TARGET_PENIS,TARGET_BALLS,TARGET_HOOF,BODYCONFIG_PENIS,BODYCONFIG_PUSSY,BPART_PUSSY_WHOLE,BPART_CLIT,BPART_ASS_WHOLE,BPART_BALLS_BOTH,BPART_PENIS_WHOLE,BPART_HOOF_LEFT,BPART_HOOF_RIGHT,OSTATE_ORGASM,OSTATE_EDGING,MSTATE_PLEASURE_INPUT_RATIO,MSTATE_PLEASURE_RATIO,MSTATE_PAIN_RATIO,MSTATE_OVERSTIM_RATIO,MSTATE_AROUSAL_RATIO",
+					"name": "thing"
+				},
+				{
+					"typeStr": "8",
+					"name": "arousal",
+					"opt": true
+				},
+				{
+					"typeStr": "8",
+					"name": "desire",
+					"opt": true,
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "preferences@set@arousal",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "4",
+					"name": "self",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "neighbor",
+					"opt": true,
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "preferences@set@desire",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "4",
+					"name": "self",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "neighbor",
+					"opt": true,
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "apparel_pieces",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "id",
+					"display": null
+				},
+				{
+					"typeStr": "5:EYES,MOUTH,LEGS_ALL",
+					"name": "region"
+				},
+				{
+					"typeStr": "1",
+					"name": "display_name"
+				},
+				{
+					"typeStr": "8",
+					"name": "sets"
+				},
+				{
+					"typeStr": "8",
+					"name": "color_sets",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "10:OVERRIDES_MOUTH,BLOCKS_EYES,TEST2",
+					"name": "flags"
+				}
+			],
+			"lines": [
+				{
+					"id": "socks_striped",
+					"display_name": "Socks",
+					"sets": [
+						{
+							"colored": [
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel0",
+											"attachment": "base3/apparel/calf3_l_sock_stripe0"
+										},
+										{
+											"slot": "calf_r_apparel0",
+											"attachment": "base3/apparel/calf3_r_sock_stripe0"
+										},
+										{
+											"slot": "arm_l_apparel0",
+											"attachment": "base3/apparel/arm_l_sock_stripe0"
+										},
+										{
+											"slot": "arm_r_apparel0",
+											"attachment": "base3/apparel/arm_r_sock_stripe0"
+										},
+										{
+											"slot": "thigh_l_apparel0",
+											"attachment": "base3/apparel/thigh3_l_sock_stripe0"
+										},
+										{
+											"slot": "thigh_r_apparel0",
+											"attachment": "base3/apparel/thigh3_r_sock_stripe0"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel1",
+											"attachment": "base3/apparel/calf3_l_sock_stripe1"
+										},
+										{
+											"slot": "calf_r_apparel1",
+											"attachment": "base3/apparel/calf3_r_sock_stripe1"
+										},
+										{
+											"slot": "arm_l_apparel1",
+											"attachment": "base3/apparel/arm_l_sock_stripe1"
+										},
+										{
+											"slot": "arm_r_apparel1",
+											"attachment": "base3/apparel/arm_r_sock_stripe1"
+										},
+										{
+											"slot": "thigh_l_apparel1",
+											"attachment": "base3/apparel/thigh3_l_sock_stripe1"
+										},
+										{
+											"slot": "thigh_r_apparel1",
+											"attachment": "base3/apparel/thigh3_r_sock_stripe1"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel2",
+											"attachment": "base3/apparel/calf3_l_sock_base"
+										},
+										{
+											"slot": "calf_r_apparel2",
+											"attachment": "base3/apparel/calf3_r_sock_base"
+										},
+										{
+											"slot": "arm_l_apparel2",
+											"attachment": "base3/apparel/arm_l_sock_base"
+										},
+										{
+											"slot": "arm_r_apparel2",
+											"attachment": "base3/apparel/arm_r_sock_base"
+										},
+										{
+											"slot": "thigh_l_apparel2",
+											"attachment": "base3/apparel/thigh3_l_sock_base"
+										},
+										{
+											"slot": "thigh_r_apparel2",
+											"attachment": "base3/apparel/thigh3_r_sock_base"
+										}
+									]
+								}
+							],
+							"slot_set": "pony_female_base"
+						},
+						{
+							"slot_set": "pony_princess",
+							"colored": [
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel0",
+											"attachment": "base3/apparel/calf3_l_sock_stripe0"
+										},
+										{
+											"slot": "calf_r_apparel0",
+											"attachment": "base3/apparel/calf3_r_sock_stripe0"
+										},
+										{
+											"slot": "arm_l_apparel0",
+											"attachment": "base3/apparel/arm_l_sock_stripe0"
+										},
+										{
+											"slot": "arm_r_apparel0",
+											"attachment": "base3/apparel/arm_r_sock_stripe0"
+										},
+										{
+											"slot": "thigh_l_apparel0",
+											"attachment": "changeling/apparel/thigh_l_sock_stripe0"
+										},
+										{
+											"slot": "thigh_r_apparel0",
+											"attachment": "changeling/apparel/thigh_r_sock_stripe0"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel1",
+											"attachment": "base3/apparel/calf3_l_sock_stripe1"
+										},
+										{
+											"slot": "calf_r_apparel1",
+											"attachment": "base3/apparel/calf3_r_sock_stripe1"
+										},
+										{
+											"slot": "arm_l_apparel1",
+											"attachment": "base3/apparel/arm_l_sock_stripe1"
+										},
+										{
+											"slot": "arm_r_apparel1",
+											"attachment": "base3/apparel/arm_r_sock_stripe1"
+										},
+										{
+											"slot": "thigh_l_apparel1",
+											"attachment": "changeling/apparel/thigh_l_sock_stripe1"
+										},
+										{
+											"slot": "thigh_r_apparel1",
+											"attachment": "changeling/apparel/thigh_r_sock_stripe1"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel2",
+											"attachment": "base3/apparel/calf3_l_sock_base"
+										},
+										{
+											"slot": "calf_r_apparel2",
+											"attachment": "base3/apparel/calf3_r_sock_base"
+										},
+										{
+											"slot": "arm_l_apparel2",
+											"attachment": "base3/apparel/arm_l_sock_base"
+										},
+										{
+											"slot": "arm_r_apparel2",
+											"attachment": "base3/apparel/arm_r_sock_base"
+										},
+										{
+											"slot": "thigh_l_apparel2",
+											"attachment": "changeling/apparel/thigh_l_sock_base"
+										},
+										{
+											"slot": "thigh_r_apparel2",
+											"attachment": "changeling/apparel/thigh_r_sock_base"
+										}
+									]
+								}
+							]
+						},
+						{
+							"slot_set": "changeling_base",
+							"colored": [
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel0",
+											"attachment": "changeling/apparel/calf_l_sock_stripe0"
+										},
+										{
+											"slot": "calf_r_apparel0",
+											"attachment": "changeling/apparel/calf_r_sock_stripe0"
+										},
+										{
+											"slot": "arm_l_apparel0",
+											"attachment": "changeling/apparel/arm_l_sock_stripe0"
+										},
+										{
+											"slot": "arm_r_apparel0",
+											"attachment": "changeling/apparel/arm_r_sock_stripe0"
+										},
+										{
+											"slot": "thigh_l_apparel0",
+											"attachment": "changeling/apparel/thigh_l_sock_stripe0"
+										},
+										{
+											"slot": "thigh_r_apparel0",
+											"attachment": "changeling/apparel/thigh_r_sock_stripe0"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel1",
+											"attachment": "changeling/apparel/calf_l_sock_stripe1"
+										},
+										{
+											"slot": "calf_r_apparel1",
+											"attachment": "changeling/apparel/calf_r_sock_stripe1"
+										},
+										{
+											"slot": "arm_l_apparel1",
+											"attachment": "changeling/apparel/arm_l_sock_stripe1"
+										},
+										{
+											"slot": "arm_r_apparel1",
+											"attachment": "changeling/apparel/arm_r_sock_stripe1"
+										},
+										{
+											"slot": "thigh_l_apparel1",
+											"attachment": "changeling/apparel/thigh_l_sock_stripe1"
+										},
+										{
+											"slot": "thigh_r_apparel1",
+											"attachment": "changeling/apparel/thigh_r_sock_stripe1"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel2",
+											"attachment": "changeling/apparel/calf_l_sock_base"
+										},
+										{
+											"slot": "calf_r_apparel2",
+											"attachment": "changeling/apparel/calf_r_sock_base"
+										},
+										{
+											"slot": "arm_l_apparel2",
+											"attachment": "changeling/apparel/arm_l_sock_base"
+										},
+										{
+											"slot": "arm_r_apparel2",
+											"attachment": "changeling/apparel/arm_r_sock_base"
+										},
+										{
+											"slot": "thigh_l_apparel2",
+											"attachment": "changeling/apparel/thigh_l_sock_base"
+										},
+										{
+											"slot": "thigh_r_apparel2",
+											"attachment": "changeling/apparel/thigh_r_sock_base"
+										}
+									]
+								}
+							]
+						},
+						{
+							"slot_set": "pony_bat",
+							"colored": [
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel0",
+											"attachment": "bat/apparel/calf3_l_sock_stripe0"
+										},
+										{
+											"slot": "calf_r_apparel0",
+											"attachment": "bat/apparel/calf3_r_sock_stripe0"
+										},
+										{
+											"slot": "arm_l_apparel0",
+											"attachment": "bat/apparel/arm_l_sock_stripe0"
+										},
+										{
+											"slot": "arm_r_apparel0",
+											"attachment": "bat/apparel/arm_r_sock_stripe0"
+										},
+										{
+											"slot": "thigh_l_apparel0",
+											"attachment": "base3/apparel/thigh3_l_sock_stripe0"
+										},
+										{
+											"slot": "thigh_r_apparel0",
+											"attachment": "base3/apparel/thigh3_r_sock_stripe0"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel1",
+											"attachment": "bat/apparel/calf3_l_sock_stripe1"
+										},
+										{
+											"slot": "calf_r_apparel1",
+											"attachment": "bat/apparel/calf3_r_sock_stripe1"
+										},
+										{
+											"slot": "arm_l_apparel1",
+											"attachment": "bat/apparel/arm_l_sock_stripe1"
+										},
+										{
+											"slot": "arm_r_apparel1",
+											"attachment": "bat/apparel/arm_r_sock_stripe1"
+										},
+										{
+											"slot": "thigh_l_apparel1",
+											"attachment": "base3/apparel/thigh3_l_sock_stripe1"
+										},
+										{
+											"slot": "thigh_r_apparel1",
+											"attachment": "base3/apparel/thigh3_r_sock_stripe1"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel2",
+											"attachment": "bat/apparel/calf3_l_sock_base"
+										},
+										{
+											"slot": "calf_r_apparel2",
+											"attachment": "bat/apparel/calf3_r_sock_base"
+										},
+										{
+											"slot": "arm_l_apparel2",
+											"attachment": "bat/apparel/arm_l_sock_base"
+										},
+										{
+											"slot": "arm_r_apparel2",
+											"attachment": "bat/apparel/arm_r_sock_base"
+										},
+										{
+											"slot": "thigh_l_apparel2",
+											"attachment": "base3/apparel/thigh3_l_sock_base"
+										},
+										{
+											"slot": "thigh_r_apparel2",
+											"attachment": "base3/apparel/thigh3_r_sock_base"
+										}
+									]
+								}
+							]
+						},
+						{
+							"slot_set": "pony_teen",
+							"colored": [
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel0",
+											"attachment": "teen/apparel/calf3_l_sock_stripe0"
+										},
+										{
+											"slot": "calf_r_apparel0",
+											"attachment": "teen/apparel/calf3_r_sock_stripe0"
+										},
+										{
+											"slot": "arm_l_apparel0",
+											"attachment": "base3/apparel/arm_l2_sock_stripe0"
+										},
+										{
+											"slot": "arm_r_apparel0",
+											"attachment": "base3/apparel/arm_r2_sock_stripe0"
+										},
+										{
+											"slot": "thigh_l_apparel0",
+											"attachment": "teen/apparel/thigh3_l_sock_stripe0"
+										},
+										{
+											"slot": "thigh_r_apparel0",
+											"attachment": "teen/apparel/thigh3_r_sock_stripe0"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel1",
+											"attachment": "teen/apparel/calf3_l_sock_stripe1"
+										},
+										{
+											"slot": "calf_r_apparel1",
+											"attachment": "teen/apparel/calf3_r_sock_stripe1"
+										},
+										{
+											"slot": "arm_l_apparel1",
+											"attachment": "base3/apparel/arm_l2_sock_stripe1"
+										},
+										{
+											"slot": "arm_r_apparel1",
+											"attachment": "base3/apparel/arm_r2_sock_stripe1"
+										},
+										{
+											"slot": "thigh_l_apparel1",
+											"attachment": "teen/apparel/thigh3_l_sock_stripe1"
+										},
+										{
+											"slot": "thigh_r_apparel1",
+											"attachment": "teen/apparel/thigh3_r_sock_stripe1"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel2",
+											"attachment": "teen/apparel/calf3_l_sock_base"
+										},
+										{
+											"slot": "calf_r_apparel2",
+											"attachment": "teen/apparel/calf3_r_sock_base"
+										},
+										{
+											"slot": "arm_l_apparel2",
+											"attachment": "base3/apparel/arm_l2_sock_base"
+										},
+										{
+											"slot": "arm_r_apparel2",
+											"attachment": "base3/apparel/arm_r2_sock_base"
+										},
+										{
+											"slot": "thigh_l_apparel2",
+											"attachment": "teen/apparel/thigh3_l_sock_base"
+										},
+										{
+											"slot": "thigh_r_apparel2",
+											"attachment": "teen/apparel/thigh3_r_sock_base"
+										}
+									]
+								}
+							]
+						},
+						{
+							"slot_set": "pony_male_base",
+							"colored": [
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel0",
+											"attachment": "base3/apparel/calf3_male_l_sock_stripe0"
+										},
+										{
+											"slot": "calf_r_apparel0",
+											"attachment": "base3/apparel/calf3_male_r_sock_stripe0"
+										},
+										{
+											"slot": "arm_l_apparel0",
+											"attachment": "base3/apparel/arm_male_l_sock_stripe0"
+										},
+										{
+											"slot": "arm_r_apparel0",
+											"attachment": "base3/apparel/arm_male_r_sock_stripe0"
+										},
+										{
+											"slot": "thigh_l_apparel0",
+											"attachment": "base3/apparel/thigh3_l2_sock_stripe0"
+										},
+										{
+											"slot": "thigh_r_apparel0",
+											"attachment": "base3/apparel/thigh3_r2_sock_stripe0"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel1",
+											"attachment": "base3/apparel/calf3_male_l_sock_stripe1"
+										},
+										{
+											"slot": "calf_r_apparel1",
+											"attachment": "base3/apparel/calf3_male_r_sock_stripe1"
+										},
+										{
+											"slot": "arm_l_apparel1",
+											"attachment": "base3/apparel/arm_male_l_sock_stripe1"
+										},
+										{
+											"slot": "arm_r_apparel1",
+											"attachment": "base3/apparel/arm_male_r_sock_stripe1"
+										},
+										{
+											"slot": "thigh_l_apparel1",
+											"attachment": "base3/apparel/thigh3_l2_sock_stripe1"
+										},
+										{
+											"slot": "thigh_r_apparel1",
+											"attachment": "base3/apparel/thigh3_r2_sock_stripe1"
+										}
+									]
+								},
+								{
+									"color_batch": [
+										{
+											"slot": "calf_l_apparel2",
+											"attachment": "base3/apparel/calf3_male_l_sock_base"
+										},
+										{
+											"slot": "calf_r_apparel2",
+											"attachment": "base3/apparel/calf3_male_r_sock_base"
+										},
+										{
+											"slot": "arm_l_apparel2",
+											"attachment": "base3/apparel/arm_male_l_sock_base"
+										},
+										{
+											"slot": "arm_r_apparel2",
+											"attachment": "base3/apparel/arm_male_r_sock_base"
+										},
+										{
+											"slot": "thigh_l_apparel2",
+											"attachment": "base3/apparel/thigh3_l2_sock_base"
+										},
+										{
+											"slot": "thigh_r_apparel2",
+											"attachment": "base3/apparel/thigh3_r2_sock_base"
+										}
+									]
+								}
+							]
+						}
+					],
+					"color_sets": [
+						{
+							"colors": [
+								{
+									"color": 15593712
+								},
+								{
+									"color": 3025458
+								},
+								{
+									"color": 3025458
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 3025458
+								},
+								{
+									"color": 15593712
+								},
+								{
+									"color": 15593712
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 2373744
+								},
+								{
+									"color": 6630791
+								},
+								{
+									"color": 15352459
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 13298884
+								},
+								{
+									"color": 6404686
+								},
+								{
+									"color": 6404686
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 15971791
+								},
+								{
+									"color": 6932675
+								},
+								{
+									"color": 6932675
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 8311026
+								},
+								{
+									"color": 16446891
+								},
+								{
+									"color": 16446891
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 10214389
+								},
+								{
+									"color": 16446891
+								},
+								{
+									"color": 15483201
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 15396592
+								},
+								{
+									"color": 7948439
+								},
+								{
+									"color": 7948439
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 12751046
+								},
+								{
+									"color": 14019501
+								},
+								{
+									"color": 5292886
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 15987867
+								},
+								{
+									"color": 16073055
+								},
+								{
+									"color": 16073055
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 12541331
+								},
+								{
+									"color": 16365412
+								},
+								{
+									"color": 16365412
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 11701697
+								},
+								{
+									"color": 16169170
+								},
+								{
+									"color": 15724013
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 16169170
+								},
+								{
+									"color": 12541331
+								},
+								{
+									"color": 16073055
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 16709627
+								},
+								{
+									"color": 16643511
+								},
+								{
+									"color": 16433546
+								}
+							]
+						},
+						{
+							"colors": [
+								{
+									"color": 11116025
+								},
+								{
+									"color": 3554938
+								},
+								{
+									"color": 3554938
+								}
+							]
+						}
+					],
+					"region": 2,
+					"flags": 0
+				},
+				{
+					"id": "blindfold0",
+					"region": 0,
+					"display_name": "Blindfold",
+					"sets": [
+						{
+							"slot_set": "pony_female_base",
+							"uncolored": [
+								{
+									"slot": "eyes_apparel",
+									"attachment": "base3/apparel/blindfold0"
+								}
+							]
+						},
+						{
+							"slot_set": "changeling_base",
+							"uncolored": [
+								{
+									"slot": "eyes_apparel",
+									"attachment": "base3/apparel/blindfold0"
+								}
+							]
+						},
+						{
+							"slot_set": "pony_male_base",
+							"uncolored": [
+								{
+									"slot": "eyes_apparel",
+									"attachment": "base3/apparel/blindfold0"
+								}
+							]
+						}
+					],
+					"flags": 2
+				},
+				{
+					"id": "blindfold1",
+					"region": 0,
+					"display_name": "Blindfold",
+					"sets": [
+						{
+							"slot_set": "pony_female_base",
+							"uncolored": [
+								{
+									"slot": "eyes_apparel",
+									"attachment": "base3/apparel/blindfold1"
+								}
+							]
+						},
+						{
+							"slot_set": "changeling_base",
+							"uncolored": [
+								{
+									"slot": "eyes_apparel",
+									"attachment": "base3/apparel/blindfold1"
+								}
+							]
+						},
+						{
+							"slot_set": "pony_male_base",
+							"uncolored": [
+								{
+									"slot": "eyes_apparel",
+									"attachment": "base3/apparel/blindfold1"
+								}
+							]
+						}
+					],
+					"flags": 2
+				},
+				{
+					"id": "gag",
+					"region": 1,
+					"display_name": "Gag",
+					"sets": [
+						{
+							"slot_set": "pony_female_base",
+							"uncolored": [
+								{
+									"slot": "mouth_apparel0",
+									"attachment": "base3/apparel/gag_ball"
+								},
+								{
+									"slot": "mouth_apparel1",
+									"attachment": "base3/apparel/gag_ball_straps"
+								},
+								{
+									"slot": "mouth"
+								}
+							]
+						},
+						{
+							"slot_set": "changeling_base",
+							"uncolored": [
+								{
+									"slot": "mouth_apparel0",
+									"attachment": "base3/apparel/gag_ball_changeling"
+								},
+								{
+									"slot": "mouth_apparel1",
+									"attachment": "base3/apparel/gag_ball_straps_changeling"
+								},
+								{
+									"slot": "mouth"
+								}
+							]
+						},
+						{
+							"slot_set": "pony_male_base",
+							"uncolored": [
+								{
+									"slot": "mouth_apparel0",
+									"attachment": "base3/apparel/gag_ball"
+								},
+								{
+									"slot": "mouth_apparel1",
+									"attachment": "base3/apparel/gag_ball_straps"
+								},
+								{
+									"slot": "mouth"
+								}
+							]
+						}
+					],
+					"flags": 1
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "apparel_pieces@sets",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "6:slot_sets",
+					"name": "slot_set",
+					"opt": true
+				},
+				{
+					"typeStr": "8",
+					"name": "uncolored",
+					"opt": true,
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "colored",
+					"opt": true,
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "apparel_pieces@sets@uncolored",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "1",
+					"name": "slot",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "attachment",
+					"opt": true
+				}
+			]
+		},
+		{
+			"name": "apparel_pieces@sets@colored",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "8",
+					"name": "color_batch"
+				}
+			]
+		},
+		{
+			"name": "apparel_pieces@sets@colored@color_batch",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "1",
+					"name": "slot",
+					"display": null
+				},
+				{
+					"typeStr": "1",
+					"name": "attachment",
+					"opt": true,
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "apparel_pieces@color_sets",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "8",
+					"name": "colors",
+					"display": null
+				}
+			]
+		},
+		{
+			"name": "apparel_pieces@color_sets@colors",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "11",
+					"name": "color",
+					"display": null
+				}
+			]
+		}
+	],
+	"customTypes": [
+		{
+			"name": "Range",
+			"cases": [
+				{
+					"name": "f",
+					"args": [
+						{
+							"name": "min",
+							"typeStr": "4"
+						},
+						{
+							"name": "max",
+							"typeStr": "4"
+						}
+					]
+				}
+			]
+		}
+	],
+	"compress": false
+}

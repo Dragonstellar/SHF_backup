@@ -1,0 +1,30 @@
+{"frames": [
+
+{
+	"filename": "bg_crete1.png",
+	"frame": {"x":1,"y":1,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "table.png",
+	"frame": {"x":1,"y":543,"w":266,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":139},
+	"sourceSize": {"w":266,"h":139},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "base.png",
+	"format": "RGBA8888",
+	"size": {"w":962,"h":683},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:10b4b8743583ad074d7f4f50a889a47c:db4dfbcd68f33f484d4b7c5a514b58d6:7232e5c4564c48ce7821741e80f218b0$"
+}
+}

@@ -1,0 +1,4257 @@
+
+pony_adult_female2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple_bloom/tail
+  rotate: true
+  xy: 749, 4
+  size: 493, 615
+  orig: 493, 615
+  offset: 0, 0
+  index: -1
+applejack/hair_back
+  rotate: true
+  xy: 1366, 176
+  size: 321, 678
+  orig: 321, 678
+  offset: 0, 0
+  index: -1
+base2/dick
+  rotate: true
+  xy: 1366, 3
+  size: 171, 302
+  orig: 171, 302
+  offset: 0, 0
+  index: -1
+base3/apparel/gag_ball
+  rotate: false
+  xy: 732, 1046
+  size: 316, 102
+  orig: 316, 102
+  offset: 0, 0
+  index: -1
+base3/dick2
+  rotate: true
+  xy: 1670, 3
+  size: 171, 302
+  orig: 171, 302
+  offset: 0, 0
+  index: -1
+base3/ear_l
+  rotate: false
+  xy: 749, 499
+  size: 111, 253
+  orig: 111, 253
+  offset: 0, 0
+  index: -1
+base3/ear_r
+  rotate: false
+  xy: 862, 499
+  size: 111, 253
+  orig: 111, 253
+  offset: 0, 0
+  index: -1
+base3/items/item_brush0
+  rotate: false
+  xy: 975, 558
+  size: 73, 194
+  orig: 73, 194
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_horse1
+  rotate: true
+  xy: 749, 900
+  size: 144, 295
+  orig: 144, 295
+  offset: 0, 0
+  index: -1
+base3/items/item_plug_standard1
+  rotate: false
+  xy: 2, 2
+  size: 81, 139
+  orig: 81, 139
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse1_cum0
+  rotate: true
+  xy: 749, 754
+  size: 144, 295
+  orig: 144, 295
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard1_cum0
+  rotate: false
+  xy: 85, 2
+  size: 81, 139
+  orig: 81, 139
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard1_cum1
+  rotate: false
+  xy: 168, 2
+  size: 81, 139
+  orig: 81, 139
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard1_cum2
+  rotate: false
+  xy: 251, 2
+  size: 81, 139
+  orig: 81, 139
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard1_cum3
+  rotate: false
+  xy: 334, 2
+  size: 81, 139
+  orig: 81, 139
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard1_squirt0
+  rotate: false
+  xy: 417, 2
+  size: 81, 139
+  orig: 81, 139
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard1_squirt1
+  rotate: false
+  xy: 500, 2
+  size: 81, 139
+  orig: 81, 139
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard1_squirt2
+  rotate: false
+  xy: 583, 2
+  size: 81, 139
+  orig: 81, 139
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard1_squirt3
+  rotate: false
+  xy: 666, 2
+  size: 81, 139
+  orig: 81, 139
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_ah2
+  rotate: true
+  xy: 975, 501
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_ah4
+  rotate: true
+  xy: 1974, 104
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_scream1
+  rotate: true
+  xy: 1974, 2
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+celestia/hair_bottom
+  rotate: true
+  xy: 732, 1150
+  size: 896, 887
+  orig: 896, 887
+  offset: 0, 0
+  index: -1
+changeling/apparel/arm_l_sock_base
+  rotate: false
+  xy: 1790, 515
+  size: 253, 378
+  orig: 253, 378
+  offset: 0, 0
+  index: -1
+changeling/tail2
+  rotate: false
+  xy: 1617, 499
+  size: 171, 394
+  orig: 171, 394
+  offset: 0, 0
+  index: -1
+chrysalis/hair_back
+  rotate: false
+  xy: 2, 1046
+  size: 728, 1000
+  orig: 728, 1000
+  offset: 0, 0
+  index: -1
+dash/tail
+  rotate: false
+  xy: 1621, 1247
+  size: 420, 541
+  orig: 420, 541
+  offset: 0, 0
+  index: -1
+fluttershy/hair_top_bat
+  rotate: false
+  xy: 1050, 499
+  size: 565, 649
+  orig: 565, 649
+  offset: 0, 0
+  index: -1
+luna/hair_back
+  rotate: false
+  xy: 2, 143
+  size: 745, 901
+  orig: 745, 901
+  offset: 0, 0
+  index: -1
+pinkie/hair_top
+  rotate: false
+  xy: 1621, 895
+  size: 420, 350
+  orig: 420, 350
+  offset: 0, 0
+  index: -1
+scootaloo/hair_top
+  rotate: false
+  xy: 1621, 1790
+  size: 425, 256
+  orig: 425, 256
+  offset: 0, 0
+  index: -1
+
+pony_adult_female22.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+applejack/hair_top
+  rotate: true
+  xy: 767, 1545
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+base2/bullet2
+  rotate: true
+  xy: 1635, 357
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+base2/clit
+  rotate: false
+  xy: 2005, 278
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+base2/item_dildo_shock
+  rotate: false
+  xy: 1435, 1222
+  size: 129, 320
+  orig: 129, 320
+  offset: 0, 0
+  index: -1
+base2/item_dildo_shock_on
+  rotate: false
+  xy: 1566, 1222
+  size: 129, 320
+  orig: 129, 320
+  offset: 0, 0
+  index: -1
+base2/splat1
+  rotate: true
+  xy: 2005, 6
+  size: 80, 36
+  orig: 80, 36
+  offset: 0, 0
+  index: -1
+base2/splat2
+  rotate: true
+  xy: 1536, 688
+  size: 111, 67
+  orig: 111, 67
+  offset: 0, 0
+  index: -1
+base2/z
+  rotate: true
+  xy: 1502, 1939
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+base3/anus
+  rotate: true
+  xy: 1635, 302
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+base3/anus_open
+  rotate: true
+  xy: 2013, 1225
+  size: 97, 32
+  orig: 97, 32
+  offset: 0, 0
+  index: -1
+base3/belly_bulge_0
+  rotate: true
+  xy: 1635, 198
+  size: 102, 16
+  orig: 102, 16
+  offset: 0, 0
+  index: -1
+base3/body_princess2
+  rotate: false
+  xy: 1663, 2
+  size: 340, 552
+  orig: 340, 552
+  offset: 0, 0
+  index: -1
+base3/clit2
+  rotate: true
+  xy: 1502, 1546
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+base3/fx/blush2
+  rotate: true
+  xy: 1919, 1223
+  size: 319, 92
+  orig: 319, 92
+  offset: 0, 0
+  index: -1
+base3/fx/cum_shadow
+  rotate: true
+  xy: 1635, 688
+  size: 257, 407
+  orig: 257, 407
+  offset: 0, 0
+  index: -1
+base3/fx/mess/squirt_butt_2l
+  rotate: true
+  xy: 1536, 857
+  size: 88, 94
+  orig: 88, 94
+  offset: 0, 0
+  index: -1
+base3/hair_back
+  rotate: false
+  xy: 2, 403
+  size: 728, 817
+  orig: 728, 817
+  offset: 0, 0
+  index: -1
+base3/head2
+  rotate: false
+  xy: 767, 1222
+  size: 332, 320
+  orig: 332, 320
+  offset: 0, 0
+  index: -1
+base3/head4
+  rotate: false
+  xy: 1101, 1222
+  size: 332, 320
+  orig: 332, 320
+  offset: 0, 0
+  index: -1
+base3/items/item_plug_standard0
+  rotate: true
+  xy: 1536, 801
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+base3/items/item_wand
+  rotate: true
+  xy: 1663, 556
+  size: 130, 381
+  orig: 130, 381
+  offset: 0, 0
+  index: -1
+base3/labia_l2
+  rotate: false
+  xy: 2013, 1378
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+base3/labia_r2
+  rotate: false
+  xy: 2013, 1324
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_bite0
+  rotate: true
+  xy: 1502, 1850
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_clench1
+  rotate: true
+  xy: 2005, 316
+  size: 139, 40
+  orig: 139, 40
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_clench3
+  rotate: true
+  xy: 1605, 693
+  size: 106, 28
+  orig: 106, 28
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_frown1
+  rotate: false
+  xy: 2005, 457
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_frown2
+  rotate: true
+  xy: 1502, 1961
+  size: 84, 32
+  orig: 84, 32
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_frown4
+  rotate: true
+  xy: 1502, 1761
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_smile1
+  rotate: true
+  xy: 1502, 1672
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_smile1b
+  rotate: true
+  xy: 1502, 1583
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_smile4
+  rotate: true
+  xy: 2013, 1432
+  size: 110, 33
+  orig: 110, 33
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_smirk1
+  rotate: true
+  xy: 2005, 476
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+base3/pussy_top2
+  rotate: true
+  xy: 2005, 88
+  size: 188, 39
+  orig: 188, 39
+  offset: 0, 0
+  index: -1
+base3/wings/wingbat_out_l
+  rotate: false
+  xy: 2, 3
+  size: 559, 398
+  orig: 559, 398
+  offset: 0, 0
+  index: -1
+base3/wings/wingbat_out_r
+  rotate: false
+  xy: 563, 3
+  size: 559, 398
+  orig: 559, 398
+  offset: 0, 0
+  index: -1
+celestia/tail
+  rotate: false
+  xy: 2, 1222
+  size: 763, 823
+  orig: 763, 823
+  offset: 0, 0
+  index: -1
+changeling/body
+  rotate: true
+  xy: 1536, 947
+  size: 273, 510
+  orig: 273, 510
+  offset: 0, 0
+  index: -1
+changeling/ear_l2
+  rotate: false
+  xy: 1536, 418
+  size: 125, 268
+  orig: 125, 268
+  offset: 0, 0
+  index: -1
+chrysalis/tail
+  rotate: true
+  xy: 1124, 2
+  size: 413, 509
+  orig: 413, 509
+  offset: 0, 0
+  index: -1
+fluttershy/tail
+  rotate: true
+  xy: 732, 417
+  size: 803, 802
+  orig: 803, 802
+  offset: 0, 0
+  index: -1
+luna/hair_front
+  rotate: true
+  xy: 1697, 1223
+  size: 319, 220
+  orig: 319, 220
+  offset: 0, 0
+  index: -1
+trixie/hair_front
+  rotate: true
+  xy: 1069, 1547
+  size: 498, 431
+  orig: 498, 431
+  offset: 0, 0
+  index: -1
+twilight/hair_back
+  rotate: true
+  xy: 1536, 1544
+  size: 501, 510
+  orig: 501, 510
+  offset: 0, 0
+  index: -1
+
+pony_adult_female23.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+applejack/tail
+  rotate: false
+  xy: 2, 435
+  size: 715, 793
+  orig: 715, 793
+  offset: 0, 0
+  index: -1
+base3/butt_cheeks
+  rotate: true
+  xy: 1184, 308
+  size: 232, 76
+  orig: 232, 76
+  offset: 0, 0
+  index: -1
+base3/fx/mess/squirt_floor_1
+  rotate: false
+  xy: 1612, 1230
+  size: 430, 281
+  orig: 430, 281
+  offset: 0, 0
+  index: -1
+base3/fx/mess/squirt_floor_2
+  rotate: true
+  xy: 2, 3
+  size: 430, 281
+  orig: 430, 281
+  offset: 0, 0
+  index: -1
+base3/fx/mess/squirt_floor_3
+  rotate: true
+  xy: 285, 3
+  size: 430, 281
+  orig: 430, 281
+  offset: 0, 0
+  index: -1
+base3/fx/mess/squirt_floor_4
+  rotate: true
+  xy: 568, 3
+  size: 430, 281
+  orig: 430, 281
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_beads3
+  rotate: true
+  xy: 1612, 1513
+  size: 189, 431
+  orig: 189, 431
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_dog1
+  rotate: false
+  xy: 851, 2
+  size: 211, 304
+  orig: 211, 304
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_dog3
+  rotate: true
+  xy: 1587, 912
+  size: 316, 456
+  orig: 316, 456
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog1_cum0
+  rotate: false
+  xy: 1064, 2
+  size: 211, 304
+  orig: 211, 304
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog1_cum1
+  rotate: false
+  xy: 1277, 2
+  size: 211, 304
+  orig: 211, 304
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog1_cum2
+  rotate: false
+  xy: 1490, 2
+  size: 211, 304
+  orig: 211, 304
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog1_cum3
+  rotate: false
+  xy: 1703, 2
+  size: 211, 304
+  orig: 211, 304
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_wand_cum0
+  rotate: false
+  xy: 719, 861
+  size: 130, 381
+  orig: 130, 381
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_wand_cum1
+  rotate: false
+  xy: 719, 478
+  size: 130, 381
+  orig: 130, 381
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_ah7
+  rotate: true
+  xy: 1262, 313
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_bite1
+  rotate: false
+  xy: 719, 442
+  size: 101, 34
+  orig: 101, 34
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_frown0
+  rotate: true
+  xy: 1362, 314
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_frown3
+  rotate: true
+  xy: 1394, 314
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_smile3
+  rotate: false
+  xy: 1426, 335
+  size: 152, 45
+  orig: 152, 45
+  offset: 0, 0
+  index: -1
+bat/ear_l
+  rotate: false
+  xy: 1916, 3
+  size: 111, 303
+  orig: 111, 303
+  offset: 0, 0
+  index: -1
+braeburn/hair_back
+  rotate: true
+  xy: 1262, 382
+  size: 158, 319
+  orig: 158, 319
+  offset: 0, 0
+  index: -1
+braeburn/hat
+  rotate: false
+  xy: 1612, 1704
+  size: 434, 342
+  orig: 434, 342
+  offset: 0, 0
+  index: -1
+fluttershy/tail_bat
+  rotate: false
+  xy: 2, 1244
+  size: 803, 802
+  orig: 803, 802
+  offset: 0, 0
+  index: -1
+scootaloo/hair_back
+  rotate: true
+  xy: 851, 308
+  size: 232, 331
+  orig: 232, 331
+  offset: 0, 0
+  index: -1
+teen/body_changeling
+  rotate: true
+  xy: 1587, 610
+  size: 300, 450
+  orig: 300, 450
+  offset: 0, 0
+  index: -1
+teen/body_female
+  rotate: true
+  xy: 1587, 308
+  size: 300, 450
+  orig: 300, 450
+  offset: 0, 0
+  index: -1
+trixie/cape
+  rotate: true
+  xy: 851, 542
+  size: 700, 734
+  orig: 700, 734
+  offset: 0, 0
+  index: -1
+trixie/tail
+  rotate: false
+  xy: 807, 1244
+  size: 803, 802
+  orig: 803, 802
+  offset: 0, 0
+  index: -1
+
+pony_adult_female24.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple_bloom/hair_back
+  rotate: false
+  xy: 358, 678
+  size: 586, 645
+  orig: 586, 645
+  offset: 0, 0
+  index: -1
+base/tail top
+  rotate: true
+  xy: 1430, 1188
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+base2/item_plug_shock
+  rotate: true
+  xy: 1006, 1326
+  size: 86, 155
+  orig: 86, 155
+  offset: 0, 0
+  index: -1
+base2/splat0
+  rotate: true
+  xy: 1384, 1532
+  size: 75, 44
+  orig: 75, 44
+  offset: 0, 0
+  index: -1
+base2/wing_shackle_l
+  rotate: false
+  xy: 1430, 1060
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+base2/wing_shackle_r
+  rotate: false
+  xy: 1430, 932
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+base3/butt_crease_l
+  rotate: true
+  xy: 931, 7
+  size: 29, 87
+  orig: 29, 87
+  offset: 0, 0
+  index: -1
+base3/hair_mid
+  rotate: false
+  xy: 1521, 932
+  size: 285, 78
+  orig: 285, 78
+  offset: 0, 0
+  index: -1
+base3/horn
+  rotate: false
+  xy: 1066, 1418
+  size: 80, 200
+  orig: 80, 200
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_ah1
+  rotate: true
+  xy: 1808, 935
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_ah3
+  rotate: true
+  xy: 818, 1325
+  size: 87, 45
+  orig: 87, 45
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_ah5
+  rotate: true
+  xy: 1202, 2
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_ah6
+  rotate: false
+  xy: 1065, 2
+  size: 135, 60
+  orig: 135, 60
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_bite2
+  rotate: true
+  xy: 865, 1325
+  size: 87, 45
+  orig: 87, 45
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_clench2
+  rotate: false
+  xy: 1934, 965
+  size: 111, 45
+  orig: 111, 45
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_curious
+  rotate: true
+  xy: 1020, 7
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_frown5
+  rotate: true
+  xy: 912, 1325
+  size: 87, 45
+  orig: 87, 45
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_scream2
+  rotate: false
+  xy: 1286, 15
+  size: 141, 47
+  orig: 141, 47
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_smile1c
+  rotate: false
+  xy: 575, 6
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_smile1d
+  rotate: false
+  xy: 664, 6
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_smile1e
+  rotate: false
+  xy: 753, 6
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_smile5
+  rotate: true
+  xy: 959, 1325
+  size: 87, 45
+  orig: 87, 45
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_wavy2
+  rotate: true
+  xy: 1384, 1428
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_wavy3
+  rotate: true
+  xy: 1384, 1325
+  size: 101, 42
+  orig: 101, 42
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_wavy4
+  rotate: false
+  xy: 842, 6
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+base3/nose
+  rotate: true
+  xy: 1889, 935
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+base3/pussy_inner3
+  rotate: true
+  xy: 1384, 1609
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+base3/runes/extend_orgasm
+  rotate: false
+  xy: 1428, 1327
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+base3/runes/keep_awake
+  rotate: false
+  xy: 1066, 1620
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+base3/tail
+  rotate: true
+  xy: 1430, 1420
+  size: 626, 612
+  orig: 626, 612
+  offset: 0, 0
+  index: -1
+base3/wing_out_l
+  rotate: true
+  xy: 582, 1414
+  size: 632, 482
+  orig: 632, 482
+  offset: 0, 0
+  index: -1
+base3/wing_out_r
+  rotate: true
+  xy: 946, 691
+  size: 632, 482
+  orig: 632, 482
+  offset: 0, 0
+  index: -1
+base3/wings/wing_out_l_tip0
+  rotate: false
+  xy: 1521, 1216
+  size: 522, 202
+  orig: 522, 202
+  offset: 0, 0
+  index: -1
+base3/wings/wing_out_l_tip2
+  rotate: true
+  xy: 1430, 2
+  size: 366, 132
+  orig: 366, 132
+  offset: 0, 0
+  index: -1
+base3/wings/wing_out_r_tip0
+  rotate: false
+  xy: 1521, 1012
+  size: 522, 202
+  orig: 522, 202
+  offset: 0, 0
+  index: -1
+base3/wings/wing_out_r_tip2
+  rotate: true
+  xy: 1564, 2
+  size: 366, 132
+  orig: 366, 132
+  offset: 0, 0
+  index: -1
+base3/wings/wingbat_half_l
+  rotate: true
+  xy: 1061, 304
+  size: 385, 367
+  orig: 385, 367
+  offset: 0, 0
+  index: -1
+bigmac/tail
+  rotate: true
+  xy: 1066, 1713
+  size: 333, 361
+  orig: 333, 361
+  offset: 0, 0
+  index: -1
+bigmac/yolk_back
+  rotate: false
+  xy: 582, 1325
+  size: 234, 87
+  orig: 234, 87
+  offset: 0, 0
+  index: -1
+changeling/head
+  rotate: false
+  xy: 1698, 33
+  size: 348, 335
+  orig: 348, 335
+  offset: 0, 0
+  index: -1
+derpy/hair_front
+  rotate: true
+  xy: 1163, 1325
+  size: 386, 219
+  orig: 386, 219
+  offset: 0, 0
+  index: -1
+derpy/tail
+  rotate: false
+  xy: 2, 648
+  size: 354, 675
+  orig: 354, 675
+  offset: 0, 0
+  index: -1
+double_diamond/hair_back
+  rotate: true
+  xy: 1061, 64
+  size: 238, 367
+  orig: 238, 367
+  offset: 0, 0
+  index: -1
+luna/tail
+  rotate: true
+  xy: 1430, 370
+  size: 560, 612
+  orig: 560, 612
+  offset: 0, 0
+  index: -1
+rarity/hair_back
+  rotate: false
+  xy: 2, 2
+  size: 571, 644
+  orig: 571, 644
+  offset: 0, 0
+  index: -1
+rarity/tail
+  rotate: false
+  xy: 2, 1325
+  size: 578, 721
+  orig: 578, 721
+  offset: 0, 0
+  index: -1
+trixie/hair_back
+  rotate: false
+  xy: 575, 38
+  size: 484, 638
+  orig: 484, 638
+  offset: 0, 0
+  index: -1
+
+pony_adult_female25.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base2/item_beads2
+  rotate: true
+  xy: 678, 160
+  size: 179, 490
+  orig: 179, 490
+  offset: 0, 0
+  index: -1
+base2/item_collar_shock
+  rotate: false
+  xy: 1815, 1485
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1
+base2/item_dildo_megadragon
+  rotate: true
+  xy: 1561, 66
+  size: 259, 481
+  orig: 259, 481
+  offset: 0, 0
+  index: -1
+base2/item_plug_shock_on
+  rotate: false
+  xy: 1040, 3
+  size: 86, 155
+  orig: 86, 155
+  offset: 0, 0
+  index: -1
+base2/splat4
+  rotate: false
+  xy: 1708, 1470
+  size: 105, 65
+  orig: 105, 65
+  offset: 0, 0
+  index: -1
+base2/tit_l
+  rotate: false
+  xy: 1830, 12
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+base2/tit_r
+  rotate: false
+  xy: 1897, 12
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+base3/apparel/gag_ball_straps
+  rotate: false
+  xy: 1730, 462
+  size: 316, 102
+  orig: 316, 102
+  offset: 0, 0
+  index: -1
+base3/dock
+  rotate: true
+  xy: 1993, 396
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+teen/dock
+  rotate: true
+  xy: 1993, 396
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+base3/head3
+  rotate: true
+  xy: 340, 6
+  size: 333, 336
+  orig: 333, 336
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_wavy1
+  rotate: false
+  xy: 1561, 5
+  size: 114, 59
+  orig: 114, 59
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_yell1
+  rotate: false
+  xy: 1677, 9
+  size: 151, 55
+  orig: 151, 55
+  offset: 0, 0
+  index: -1
+base3/nose2
+  rotate: false
+  xy: 1964, 21
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+base3/restraints/hand_shackle_l
+  rotate: true
+  xy: 678, 2
+  size: 156, 179
+  orig: 156, 179
+  offset: 0, 0
+  index: -1
+base3/restraints/hand_shackle_r
+  rotate: true
+  xy: 859, 2
+  size: 156, 179
+  orig: 156, 179
+  offset: 0, 0
+  index: -1
+base3/restraints/leash_ring
+  rotate: true
+  xy: 1943, 1490
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+base3/wings/wing_l_smear0
+  rotate: false
+  xy: 2, 1463
+  size: 559, 582
+  orig: 559, 582
+  offset: 0, 0
+  index: -1
+base3/wings/wing_l_smear1
+  rotate: true
+  xy: 2, 902
+  size: 559, 582
+  orig: 559, 582
+  offset: 0, 0
+  index: -1
+base3/wings/wing_l_smear_bat0
+  rotate: true
+  xy: 563, 1486
+  size: 559, 582
+  orig: 559, 582
+  offset: 0, 0
+  index: -1
+base3/wings/wing_l_smear_bat1
+  rotate: false
+  xy: 586, 902
+  size: 559, 582
+  orig: 559, 582
+  offset: 0, 0
+  index: -1
+base3/wings/wing_r_smear0
+  rotate: true
+  xy: 2, 341
+  size: 559, 582
+  orig: 559, 582
+  offset: 0, 0
+  index: -1
+base3/wings/wing_r_smear1
+  rotate: true
+  xy: 586, 341
+  size: 559, 582
+  orig: 559, 582
+  offset: 0, 0
+  index: -1
+base3/wings/wing_r_smear_bat0
+  rotate: false
+  xy: 1147, 1463
+  size: 559, 582
+  orig: 559, 582
+  offset: 0, 0
+  index: -1
+base3/wings/wing_r_smear_bat1
+  rotate: true
+  xy: 1147, 902
+  size: 559, 582
+  orig: 559, 582
+  offset: 0, 0
+  index: -1
+bigmac/hair
+  rotate: true
+  xy: 1731, 1138
+  size: 330, 306
+  orig: 330, 306
+  offset: 0, 0
+  index: -1
+bigmac/hair_back
+  rotate: true
+  xy: 1708, 1537
+  size: 168, 336
+  orig: 168, 336
+  offset: 0, 0
+  index: -1
+changeling/dock
+  rotate: true
+  xy: 1993, 330
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+changeling/ear_l
+  rotate: true
+  xy: 1730, 327
+  size: 133, 261
+  orig: 133, 261
+  offset: 0, 0
+  index: -1
+changeling/tail
+  rotate: false
+  xy: 1730, 566
+  size: 309, 334
+  orig: 309, 334
+  offset: 0, 0
+  index: -1
+chrysalis/hair_front
+  rotate: false
+  xy: 2, 5
+  size: 336, 334
+  orig: 336, 334
+  offset: 0, 0
+  index: -1
+double_diamond/tail
+  rotate: false
+  xy: 1170, 14
+  size: 389, 311
+  orig: 389, 311
+  offset: 0, 0
+  index: -1
+pinkie/tail
+  rotate: false
+  xy: 1170, 327
+  size: 558, 573
+  orig: 558, 573
+  offset: 0, 0
+  index: -1
+teen/head3
+  rotate: false
+  xy: 1708, 1707
+  size: 335, 338
+  orig: 335, 338
+  offset: 0, 0
+  index: -1
+trixie/cape_chest
+  rotate: false
+  xy: 1731, 922
+  size: 309, 214
+  orig: 309, 214
+  offset: 0, 0
+  index: -1
+
+pony_adult_female26.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base2/balls
+  rotate: false
+  xy: 1435, 278
+  size: 171, 106
+  orig: 171, 106
+  offset: 0, 0
+  index: -1
+base2/hand_l
+  rotate: false
+  xy: 1838, 548
+  size: 148, 211
+  orig: 148, 211
+  offset: 0, 0
+  index: -1
+base2/item_collar_belt
+  rotate: true
+  xy: 1482, 1389
+  size: 125, 48
+  orig: 125, 48
+  offset: 0, 0
+  index: -1
+base2/item_collar_heart
+  rotate: true
+  xy: 1482, 1263
+  size: 124, 48
+  orig: 124, 48
+  offset: 0, 0
+  index: -1
+base3/anus_whiteblock
+  rotate: true
+  xy: 1324, 171
+  size: 213, 109
+  orig: 213, 109
+  offset: 0, 0
+  index: -1
+base3/body
+  rotate: false
+  xy: 2, 385
+  size: 259, 552
+  orig: 259, 552
+  offset: 0, 0
+  index: -1
+base3/body_female
+  rotate: false
+  xy: 263, 385
+  size: 259, 552
+  orig: 259, 552
+  offset: 0, 0
+  index: -1
+base3/body_female2
+  rotate: false
+  xy: 278, 939
+  size: 259, 552
+  orig: 259, 552
+  offset: 0, 0
+  index: -1
+base3/body_female3
+  rotate: false
+  xy: 284, 1493
+  size: 259, 552
+  orig: 259, 552
+  offset: 0, 0
+  index: -1
+base3/body_male
+  rotate: false
+  xy: 2, 939
+  size: 274, 552
+  orig: 274, 552
+  offset: 0, 0
+  index: -1
+base3/body_princess
+  rotate: false
+  xy: 2, 1493
+  size: 280, 552
+  orig: 280, 552
+  offset: 0, 0
+  index: -1
+base3/fx/blush1
+  rotate: false
+  xy: 1307, 386
+  size: 300, 160
+  orig: 300, 160
+  offset: 0, 0
+  index: -1
+base3/fx/bolt_tesla/bolt_tesla_0001
+  rotate: false
+  xy: 1532, 761
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+base3/fx/mess/stain_torso_m_1
+  rotate: false
+  xy: 524, 385
+  size: 259, 552
+  orig: 259, 552
+  offset: 0, 0
+  index: -1
+base3/fx/mess/stain_torso_m_2
+  rotate: false
+  xy: 539, 939
+  size: 259, 552
+  orig: 259, 552
+  offset: 0, 0
+  index: -1
+base3/fx/mess/stain_torso_m_3
+  rotate: false
+  xy: 545, 1493
+  size: 259, 552
+  orig: 259, 552
+  offset: 0, 0
+  index: -1
+base3/fx/mess/stain_torso_m_4
+  rotate: false
+  xy: 785, 385
+  size: 259, 552
+  orig: 259, 552
+  offset: 0, 0
+  index: -1
+base3/fx/mess/stain_torso_m_5
+  rotate: false
+  xy: 800, 939
+  size: 259, 552
+  orig: 259, 552
+  offset: 0, 0
+  index: -1
+base3/fx/mess/stain_torso_m_6
+  rotate: false
+  xy: 806, 1493
+  size: 259, 552
+  orig: 259, 552
+  offset: 0, 0
+  index: -1
+base3/items/auto/magic0
+  rotate: true
+  xy: 1898, 3
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+base3/items/auto_item_base
+  rotate: false
+  xy: 1482, 1213
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_dog2
+  rotate: false
+  xy: 794, 3
+  size: 263, 380
+  orig: 263, 380
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog1_squirt0
+  rotate: true
+  xy: 1532, 548
+  size: 211, 304
+  orig: 211, 304
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog2_cum0
+  rotate: false
+  xy: 1059, 3
+  size: 263, 380
+  orig: 263, 380
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_wand_cum2
+  rotate: false
+  xy: 2, 2
+  size: 130, 381
+  orig: 130, 381
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_wand_cum3
+  rotate: false
+  xy: 134, 2
+  size: 130, 381
+  orig: 130, 381
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_wand_squirt0
+  rotate: false
+  xy: 266, 2
+  size: 130, 381
+  orig: 130, 381
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_wand_squirt1
+  rotate: false
+  xy: 398, 2
+  size: 130, 381
+  orig: 130, 381
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_wand_squirt2
+  rotate: false
+  xy: 530, 2
+  size: 130, 381
+  orig: 130, 381
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_wand_squirt3
+  rotate: false
+  xy: 662, 2
+  size: 130, 381
+  orig: 130, 381
+  offset: 0, 0
+  index: -1
+base3/mouths/mouth_smile2
+  rotate: true
+  xy: 1482, 1090
+  size: 121, 45
+  orig: 121, 45
+  offset: 0, 0
+  index: -1
+base3/restraints/leg_leash_line_l
+  rotate: true
+  xy: 1435, 174
+  size: 102, 169
+  orig: 102, 169
+  offset: 0, 0
+  index: -1
+base3/wing_half_l
+  rotate: true
+  xy: 1541, 1275
+  size: 419, 489
+  orig: 419, 489
+  offset: 0, 0
+  index: -1
+base3/wings/wing_out_l_tip3
+  rotate: false
+  xy: 1324, 3
+  size: 285, 165
+  orig: 285, 165
+  offset: 0, 0
+  index: -1
+base3/wings/wing_out_r_tip3
+  rotate: false
+  xy: 1611, 3
+  size: 285, 165
+  orig: 285, 165
+  offset: 0, 0
+  index: -1
+bat/body_female
+  rotate: false
+  xy: 1046, 385
+  size: 259, 552
+  orig: 259, 552
+  offset: 0, 0
+  index: -1
+braeburn/tail
+  rotate: false
+  xy: 1061, 941
+  size: 419, 550
+  orig: 419, 550
+  offset: 0, 0
+  index: -1
+changeling/horn
+  rotate: true
+  xy: 1898, 85
+  size: 83, 146
+  orig: 83, 146
+  offset: 0, 0
+  index: -1
+dash/hair_back
+  rotate: false
+  xy: 1609, 170
+  size: 437, 376
+  orig: 437, 376
+  offset: 0, 0
+  index: -1
+fluttershy/hair_back
+  rotate: false
+  xy: 1067, 1516
+  size: 472, 529
+  orig: 472, 529
+  offset: 0, 0
+  index: -1
+scootaloo/tail
+  rotate: true
+  xy: 1541, 1696
+  size: 349, 505
+  orig: 349, 505
+  offset: 0, 0
+  index: -1
+teen/body_female4
+  rotate: false
+  xy: 1307, 548
+  size: 223, 391
+  orig: 223, 391
+  offset: 0, 0
+  index: -1
+
+pony_adult_female27.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base2/hand_r
+  rotate: true
+  xy: 1834, 49
+  size: 148, 211
+  orig: 148, 211
+  offset: 0, 0
+  index: -1
+base3/fx/bolt_tesla/bolt_tesla_0002
+  rotate: false
+  xy: 2, 471
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+base3/fx/bolt_tesla/bolt_tesla_0003
+  rotate: false
+  xy: 468, 1002
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+base3/fx/bolt_tesla/bolt_tesla_0004
+  rotate: false
+  xy: 516, 488
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+base3/fx/bolt_tesla/bolt_tesla_0005
+  rotate: false
+  xy: 476, 1533
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+base3/fx/bolt_tesla/bolt_tesla_0006
+  rotate: false
+  xy: 982, 1019
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+base3/fx/bolt_tesla/bolt_tesla_0007
+  rotate: false
+  xy: 990, 1533
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+base3/fx/bolt_tesla/bolt_tesla_0008
+  rotate: false
+  xy: 1030, 505
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+base3/fx/bolt_tesla/bolt_tesla_0009
+  rotate: false
+  xy: 1496, 1019
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+base3/fx/bolt_tesla/bolt_tesla_0010
+  rotate: false
+  xy: 1504, 1533
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog1_squirt1
+  rotate: false
+  xy: 1834, 199
+  size: 211, 304
+  orig: 211, 304
+  offset: 0, 0
+  index: -1
+base3/wing_half_r
+  rotate: false
+  xy: 1040, 14
+  size: 419, 489
+  orig: 419, 489
+  offset: 0, 0
+  index: -1
+changeling/wing_l
+  rotate: true
+  xy: 2, 2
+  size: 467, 327
+  orig: 467, 327
+  offset: 0, 0
+  index: -1
+changeling/wing_r
+  rotate: true
+  xy: 331, 2
+  size: 467, 327
+  orig: 467, 327
+  offset: 0, 0
+  index: -1
+fluttershy/hair_back_bat
+  rotate: false
+  xy: 2, 1516
+  size: 472, 529
+  orig: 472, 529
+  offset: 0, 0
+  index: -1
+fluttershy/hair_top
+  rotate: false
+  xy: 660, 3
+  size: 378, 483
+  orig: 378, 483
+  offset: 0, 0
+  index: -1
+pinkie/hair_back
+  rotate: false
+  xy: 2, 985
+  size: 464, 529
+  orig: 464, 529
+  offset: 0, 0
+  index: -1
+sweetie_belle/tail
+  rotate: false
+  xy: 1461, 15
+  size: 371, 488
+  orig: 371, 488
+  offset: 0, 0
+  index: -1
+twilight/tail
+  rotate: false
+  xy: 1544, 505
+  size: 465, 512
+  orig: 465, 512
+  offset: 0, 0
+  index: -1
+
+pony_adult_female28.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base2/eye_white_base
+  rotate: true
+  xy: 1830, 1704
+  size: 335, 214
+  orig: 335, 214
+  offset: 0, 0
+  index: -1
+base2/item_beads
+  rotate: false
+  xy: 1833, 114
+  size: 180, 439
+  orig: 180, 439
+  offset: 0, 0
+  index: -1
+base2/item_dildo_dragon
+  rotate: true
+  xy: 871, 5
+  size: 158, 377
+  orig: 158, 377
+  offset: 0, 0
+  index: -1
+base2/item_dildo_gryphon
+  rotate: true
+  xy: 1250, 7
+  size: 142, 352
+  orig: 142, 352
+  offset: 0, 0
+  index: -1
+base2/item_dildo_lil
+  rotate: true
+  xy: 1814, 4
+  size: 108, 206
+  orig: 108, 206
+  offset: 0, 0
+  index: -1
+base2/item_sheath
+  rotate: true
+  xy: 1604, 6
+  size: 143, 208
+  orig: 143, 208
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_l_sock_base
+  rotate: false
+  xy: 331, 1173
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_l_sock_stripe0
+  rotate: false
+  xy: 297, 692
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_l_sock_stripe1
+  rotate: true
+  xy: 920, 1377
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_male_l_sock_base
+  rotate: true
+  xy: 920, 1175
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_male_l_sock_stripe0
+  rotate: true
+  xy: 1401, 1161
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_male_l_sock_stripe1
+  rotate: true
+  xy: 920, 973
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_male_r_sock_base
+  rotate: true
+  xy: 1401, 959
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_male_r_sock_stripe0
+  rotate: true
+  xy: 892, 771
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_male_r_sock_stripe1
+  rotate: true
+  xy: 1373, 757
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_r_sock_base
+  rotate: true
+  xy: 886, 569
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_r_sock_stripe0
+  rotate: true
+  xy: 871, 367
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/arm_r_sock_stripe1
+  rotate: true
+  xy: 1367, 555
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_l_sock_base
+  rotate: true
+  xy: 533, 1107
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_l_sock_stripe0
+  rotate: true
+  xy: 499, 619
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+base3/apparel/thigh3_r_sock_base
+  rotate: false
+  xy: 2, 2
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+base3/apparel/thigh3_r_sock_stripe0
+  rotate: true
+  xy: 221, 32
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+base3/arm_l
+  rotate: true
+  xy: 1352, 353
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/arm_male_l
+  rotate: true
+  xy: 871, 165
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/arm_male_r
+  rotate: true
+  xy: 1352, 151
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/fx/mess/squirt_floor_5
+  rotate: true
+  xy: 2, 266
+  size: 430, 281
+  orig: 430, 281
+  offset: 0, 0
+  index: -1
+base3/fx/mess/squirt_floor_6
+  rotate: false
+  xy: 1398, 1758
+  size: 430, 281
+  orig: 430, 281
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_horse3
+  rotate: true
+  xy: 922, 1768
+  size: 271, 474
+  orig: 271, 474
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog2_cum1
+  rotate: true
+  xy: 489, 354
+  size: 263, 380
+  orig: 263, 380
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog2_cum2
+  rotate: true
+  xy: 489, 89
+  size: 263, 380
+  orig: 263, 380
+  offset: 0, 0
+  index: -1
+base3/restraints/wrist_leash_chain
+  rotate: false
+  xy: 485, 10
+  size: 360, 77
+  orig: 360, 77
+  offset: 0, 0
+  index: -1
+base3/wings/wing_half_l_tip0
+  rotate: false
+  xy: 285, 251
+  size: 202, 439
+  orig: 202, 439
+  offset: 0, 0
+  index: -1
+base3/wings/wing_half_l_tip1
+  rotate: true
+  xy: 1394, 1604
+  size: 152, 412
+  orig: 152, 412
+  offset: 0, 0
+  index: -1
+base3/wings/wing_half_r_tip1
+  rotate: false
+  xy: 1882, 964
+  size: 152, 412
+  orig: 152, 412
+  offset: 0, 0
+  index: -1
+base3/wings/wing_out_l_tip1
+  rotate: false
+  xy: 922, 1579
+  size: 470, 187
+  orig: 470, 187
+  offset: 0, 0
+  index: -1
+base3/wings/wingbat_half_r
+  rotate: false
+  xy: 533, 1319
+  size: 385, 367
+  orig: 385, 367
+  offset: 0, 0
+  index: -1
+bigmac/yolk_front
+  rotate: true
+  xy: 1808, 1378
+  size: 324, 235
+  orig: 324, 235
+  offset: 0, 0
+  index: -1
+braeburn/hair
+  rotate: false
+  xy: 1401, 1363
+  size: 405, 239
+  orig: 405, 239
+  offset: 0, 0
+  index: -1
+celestia/hair_top
+  rotate: false
+  xy: 473, 1688
+  size: 447, 351
+  orig: 447, 351
+  offset: 0, 0
+  index: -1
+changeling/eye_white_l
+  rotate: true
+  xy: 1848, 555
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+changeling/eye_white_r
+  rotate: true
+  xy: 1854, 757
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+double_diamond/hair
+  rotate: false
+  xy: 499, 831
+  size: 391, 274
+  orig: 391, 274
+  offset: 0, 0
+  index: -1
+rarity/hair_top
+  rotate: false
+  xy: 2, 1654
+  size: 469, 385
+  orig: 469, 385
+  offset: 0, 0
+  index: -1
+sweetie_belle/hair_back
+  rotate: false
+  xy: 2, 698
+  size: 293, 478
+  orig: 293, 478
+  offset: 0, 0
+  index: -1
+sweetie_belle/hair_front
+  rotate: true
+  xy: 2, 1178
+  size: 474, 327
+  orig: 474, 327
+  offset: 0, 0
+  index: -1
+
+pony_adult_female29.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple_bloom/hair_top
+  rotate: true
+  xy: 1366, 426
+  size: 376, 227
+  orig: 376, 227
+  offset: 0, 0
+  index: -1
+apple_bloom/hair_top_back
+  rotate: true
+  xy: 1595, 433
+  size: 376, 227
+  orig: 376, 227
+  offset: 0, 0
+  index: -1
+base2/item_dildo_horse
+  rotate: true
+  xy: 1361, 243
+  size: 181, 369
+  orig: 181, 369
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_l_sock_stripe1
+  rotate: false
+  xy: 204, 218
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_male_l_sock_base
+  rotate: false
+  xy: 406, 699
+  size: 218, 385
+  orig: 218, 385
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_male_l_sock_stripe0
+  rotate: true
+  xy: 1080, 1828
+  size: 218, 385
+  orig: 218, 385
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_male_l_sock_stripe1
+  rotate: true
+  xy: 1467, 1828
+  size: 218, 385
+  orig: 218, 385
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_male_r_sock_base
+  rotate: false
+  xy: 891, 723
+  size: 218, 385
+  orig: 218, 385
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_male_r_sock_stripe0
+  rotate: false
+  xy: 416, 312
+  size: 218, 385
+  orig: 218, 385
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_male_r_sock_stripe1
+  rotate: false
+  xy: 891, 336
+  size: 218, 385
+  orig: 218, 385
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_r_sock_base
+  rotate: false
+  xy: 1366, 804
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_r_sock_stripe0
+  rotate: false
+  xy: 1833, 804
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+base3/arm_r
+  rotate: false
+  xy: 2, 1567
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+base3/brows/brows_down-in
+  rotate: false
+  xy: 1732, 240
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/calf3_male_l
+  rotate: false
+  xy: 1824, 417
+  size: 218, 385
+  orig: 218, 385
+  offset: 0, 0
+  index: -1
+base3/hand_l
+  rotate: true
+  xy: 1862, 1662
+  size: 384, 184
+  orig: 384, 184
+  offset: 0, 0
+  index: -1
+base3/hand_r
+  rotate: true
+  xy: 1862, 1276
+  size: 384, 184
+  orig: 384, 184
+  offset: 0, 0
+  index: -1
+base3/horn2
+  rotate: true
+  xy: 204, 136
+  size: 80, 198
+  orig: 80, 198
+  offset: 0, 0
+  index: -1
+base3/horn_long
+  rotate: true
+  xy: 636, 251
+  size: 80, 260
+  orig: 80, 260
+  offset: 0, 0
+  index: -1
+base3/items/auto/magic1
+  rotate: false
+  xy: 991, 249
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+base3/items/auto/magic2
+  rotate: false
+  xy: 307, 49
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+base3/items/item_plug_standard3
+  rotate: true
+  xy: 1111, 285
+  size: 144, 248
+  orig: 144, 248
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog2_cum3
+  rotate: false
+  xy: 608, 1477
+  size: 263, 380
+  orig: 263, 380
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog2_squirt0
+  rotate: false
+  xy: 608, 1095
+  size: 263, 380
+  orig: 263, 380
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog2_squirt1
+  rotate: false
+  xy: 626, 713
+  size: 263, 380
+  orig: 263, 380
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog2_squirt2
+  rotate: false
+  xy: 1077, 1446
+  size: 263, 380
+  orig: 263, 380
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog2_squirt3
+  rotate: false
+  xy: 1342, 1446
+  size: 263, 380
+  orig: 263, 380
+  offset: 0, 0
+  index: -1
+base3/runes/wip
+  rotate: false
+  xy: 898, 243
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+base3/upperarm_l
+  rotate: true
+  xy: 873, 1110
+  size: 306, 210
+  orig: 306, 210
+  offset: 0, 0
+  index: -1
+base3/wings/wing_half_r_tip0
+  rotate: false
+  xy: 873, 1418
+  size: 202, 439
+  orig: 202, 439
+  offset: 0, 0
+  index: -1
+base3/wings/wing_out_r_tip1
+  rotate: false
+  xy: 608, 1859
+  size: 470, 187
+  orig: 470, 187
+  offset: 0, 0
+  index: -1
+bat/apparel/arm_l_sock_base
+  rotate: false
+  xy: 2, 1086
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+bat/apparel/arm_l_sock_stripe0
+  rotate: false
+  xy: 204, 1567
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+bat/apparel/arm_l_sock_stripe1
+  rotate: false
+  xy: 2, 605
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+bat/apparel/arm_r_sock_base
+  rotate: false
+  xy: 204, 1086
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+bat/apparel/arm_r_sock_stripe0
+  rotate: false
+  xy: 406, 1567
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+bat/apparel/arm_r_sock_stripe1
+  rotate: false
+  xy: 2, 124
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+bat/arm_l
+  rotate: false
+  xy: 204, 605
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+bat/arm_r
+  rotate: false
+  xy: 406, 1086
+  size: 200, 479
+  orig: 200, 479
+  offset: 0, 0
+  index: -1
+bat/ear_r
+  rotate: true
+  xy: 2, 11
+  size: 111, 303
+  orig: 111, 303
+  offset: 0, 0
+  index: -1
+changeling/apparel/arm_l_sock_stripe0
+  rotate: false
+  xy: 1607, 1448
+  size: 253, 378
+  orig: 253, 378
+  offset: 0, 0
+  index: -1
+changeling/apparel/arm_l_sock_stripe1
+  rotate: true
+  xy: 1085, 1191
+  size: 253, 378
+  orig: 253, 378
+  offset: 0, 0
+  index: -1
+changeling/apparel/arm_r_sock_base
+  rotate: false
+  xy: 1111, 811
+  size: 253, 378
+  orig: 253, 378
+  offset: 0, 0
+  index: -1
+changeling/apparel/arm_r_sock_stripe0
+  rotate: false
+  xy: 636, 333
+  size: 253, 378
+  orig: 253, 378
+  offset: 0, 0
+  index: -1
+changeling/apparel/arm_r_sock_stripe1
+  rotate: false
+  xy: 1111, 431
+  size: 253, 378
+  orig: 253, 378
+  offset: 0, 0
+  index: -1
+changeling/apparel/calf_l_sock_base
+  rotate: true
+  xy: 416, 2
+  size: 236, 367
+  orig: 236, 367
+  offset: 0, 0
+  index: -1
+changeling/apparel/calf_l_sock_stripe0
+  rotate: true
+  xy: 785, 2
+  size: 236, 367
+  orig: 236, 367
+  offset: 0, 0
+  index: -1
+changeling/apparel/calf_l_sock_stripe1
+  rotate: true
+  xy: 1154, 2
+  size: 236, 367
+  orig: 236, 367
+  offset: 0, 0
+  index: -1
+changeling/apparel/calf_r_sock_base
+  rotate: true
+  xy: 1523, 2
+  size: 236, 367
+  orig: 236, 367
+  offset: 0, 0
+  index: -1
+changeling/arm_l
+  rotate: true
+  xy: 1465, 1191
+  size: 253, 378
+  orig: 253, 378
+  offset: 0, 0
+  index: -1
+changeling/arm_r
+  rotate: false
+  xy: 1578, 811
+  size: 253, 378
+  orig: 253, 378
+  offset: 0, 0
+  index: -1
+derpy/hair_back
+  rotate: true
+  xy: 1892, 32
+  size: 206, 151
+  orig: 206, 151
+  offset: 0, 0
+  index: -1
+teen/horn
+  rotate: true
+  xy: 1845, 1191
+  size: 83, 146
+  orig: 83, 146
+  offset: 0, 0
+  index: -1
+
+pony_adult_female210.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base2/upperarm_l
+  rotate: true
+  xy: 426, 114
+  size: 106, 173
+  orig: 106, 173
+  offset: 0, 0
+  index: -1
+base2/wing_in_l
+  rotate: true
+  xy: 862, 294
+  size: 173, 162
+  orig: 173, 162
+  offset: 0, 0
+  index: -1
+base3/apparel/calf3_r_sock_stripe1
+  rotate: false
+  xy: 2, 1274
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+base3/apparel/thigh3_l_sock_base
+  rotate: true
+  xy: 426, 442
+  size: 195, 289
+  orig: 195, 289
+  offset: 0, 0
+  index: -1
+base3/calf3_l
+  rotate: false
+  xy: 2, 887
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+teen/calf3_l
+  rotate: false
+  xy: 2, 887
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+base3/calf3_male_r
+  rotate: false
+  xy: 2, 1661
+  size: 218, 385
+  orig: 218, 385
+  offset: 0, 0
+  index: -1
+base3/calf3_r
+  rotate: false
+  xy: 2, 500
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+teen/calf3_r
+  rotate: false
+  xy: 2, 500
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+base3/calf4_l
+  rotate: false
+  xy: 2, 113
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+base3/calf4_r
+  rotate: false
+  xy: 214, 1274
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+base3/cheek2_l
+  rotate: true
+  xy: 1837, 568
+  size: 262, 200
+  orig: 262, 200
+  offset: 0, 0
+  index: -1
+base3/cheek2_r
+  rotate: false
+  xy: 1026, 2
+  size: 262, 200
+  orig: 262, 200
+  offset: 0, 0
+  index: -1
+base3/dick3
+  rotate: false
+  xy: 1290, 93
+  size: 171, 302
+  orig: 171, 302
+  offset: 0, 0
+  index: -1
+base3/fx/mess/squirt_butt_3
+  rotate: false
+  xy: 434, 1663
+  size: 164, 110
+  orig: 164, 110
+  offset: 0, 0
+  index: -1
+base3/hair_front
+  rotate: false
+  xy: 1854, 1238
+  size: 190, 118
+  orig: 190, 118
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_beads0
+  rotate: false
+  xy: 426, 263
+  size: 108, 177
+  orig: 108, 177
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_beads1
+  rotate: true
+  xy: 434, 1902
+  size: 144, 272
+  orig: 144, 272
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_beads2
+  rotate: true
+  xy: 724, 469
+  size: 180, 368
+  orig: 180, 368
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_dog0
+  rotate: false
+  xy: 1885, 1818
+  size: 158, 228
+  orig: 158, 228
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_horse2
+  rotate: true
+  xy: 724, 1017
+  size: 181, 369
+  orig: 181, 369
+  offset: 0, 0
+  index: -1
+base3/items/item_plug_standard2
+  rotate: true
+  xy: 536, 332
+  size: 108, 186
+  orig: 108, 186
+  offset: 0, 0
+  index: -1
+base3/items/item_test
+  rotate: true
+  xy: 1483, 1229
+  size: 181, 369
+  orig: 181, 369
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog0_cum0
+  rotate: false
+  xy: 1885, 1588
+  size: 158, 228
+  orig: 158, 228
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog0_cum1
+  rotate: false
+  xy: 1885, 1358
+  size: 158, 228
+  orig: 158, 228
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog1_squirt2
+  rotate: false
+  xy: 1835, 262
+  size: 211, 304
+  orig: 211, 304
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse1_cum1
+  rotate: true
+  xy: 426, 1515
+  size: 144, 295
+  orig: 144, 295
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse1_cum2
+  rotate: true
+  xy: 426, 1369
+  size: 144, 295
+  orig: 144, 295
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse1_cum3
+  rotate: true
+  xy: 426, 1223
+  size: 144, 295
+  orig: 144, 295
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse1_squirt0
+  rotate: true
+  xy: 426, 1077
+  size: 144, 295
+  orig: 144, 295
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse1_squirt1
+  rotate: true
+  xy: 426, 931
+  size: 144, 295
+  orig: 144, 295
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse1_squirt2
+  rotate: true
+  xy: 426, 785
+  size: 144, 295
+  orig: 144, 295
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse1_squirt3
+  rotate: true
+  xy: 426, 639
+  size: 144, 295
+  orig: 144, 295
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse2_cum0
+  rotate: true
+  xy: 1483, 1046
+  size: 181, 369
+  orig: 181, 369
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse2_cum1
+  rotate: true
+  xy: 1095, 1001
+  size: 181, 369
+  orig: 181, 369
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse2_cum2
+  rotate: true
+  xy: 724, 834
+  size: 181, 369
+  orig: 181, 369
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse2_cum3
+  rotate: true
+  xy: 1466, 863
+  size: 181, 369
+  orig: 181, 369
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse2_squirt0
+  rotate: true
+  xy: 1095, 818
+  size: 181, 369
+  orig: 181, 369
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse2_squirt1
+  rotate: true
+  xy: 724, 651
+  size: 181, 369
+  orig: 181, 369
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse2_squirt2
+  rotate: true
+  xy: 1466, 680
+  size: 181, 369
+  orig: 181, 369
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse2_squirt3
+  rotate: true
+  xy: 1095, 635
+  size: 181, 369
+  orig: 181, 369
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard2_cum0
+  rotate: true
+  xy: 536, 222
+  size: 108, 186
+  orig: 108, 186
+  offset: 0, 0
+  index: -1
+bat/apparel/calf3_l_sock_base
+  rotate: false
+  xy: 222, 1661
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+bat/apparel/calf3_l_sock_stripe0
+  rotate: false
+  xy: 214, 887
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+bat/apparel/calf3_l_sock_stripe1
+  rotate: false
+  xy: 214, 500
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+bat/apparel/calf3_r_sock_base
+  rotate: false
+  xy: 214, 113
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+bat/apparel/calf3_r_sock_stripe0
+  rotate: true
+  xy: 724, 1836
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+bat/apparel/calf3_r_sock_stripe1
+  rotate: true
+  xy: 1111, 1836
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+bat/calf3_l
+  rotate: true
+  xy: 1498, 1836
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+bat/calf3_r
+  rotate: true
+  xy: 724, 1624
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+bat/cheek2_l
+  rotate: false
+  xy: 1463, 2
+  size: 262, 200
+  orig: 262, 200
+  offset: 0, 0
+  index: -1
+bat/cheek2_r
+  rotate: false
+  xy: 1727, 2
+  size: 262, 200
+  orig: 262, 200
+  offset: 0, 0
+  index: -1
+celestia/hair_mid
+  rotate: false
+  xy: 724, 2
+  size: 300, 258
+  orig: 300, 258
+  offset: 0, 0
+  index: -1
+changeling/apparel/calf_r_sock_stripe0
+  rotate: true
+  xy: 1466, 442
+  size: 236, 367
+  orig: 236, 367
+  offset: 0, 0
+  index: -1
+changeling/apparel/calf_r_sock_stripe1
+  rotate: true
+  xy: 1094, 397
+  size: 236, 367
+  orig: 236, 367
+  offset: 0, 0
+  index: -1
+changeling/calf_l
+  rotate: true
+  xy: 1463, 204
+  size: 236, 367
+  orig: 236, 367
+  offset: 0, 0
+  index: -1
+changeling/cheek_l
+  rotate: true
+  xy: 724, 268
+  size: 199, 136
+  orig: 199, 136
+  offset: 0, 0
+  index: -1
+changeling/ear_r
+  rotate: true
+  xy: 434, 1775
+  size: 125, 268
+  orig: 125, 268
+  offset: 0, 0
+  index: -1
+changeling/midsection
+  rotate: false
+  xy: 1837, 832
+  size: 206, 202
+  orig: 206, 202
+  offset: 0, 0
+  index: -1
+changeling/pupil
+  rotate: true
+  xy: 1854, 1036
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+dash/hair_top
+  rotate: false
+  xy: 1111, 1184
+  size: 370, 226
+  orig: 370, 226
+  offset: 0, 0
+  index: -1
+teen/apparel/calf3_l_sock_base
+  rotate: true
+  xy: 1111, 1624
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+teen/apparel/calf3_l_sock_stripe0
+  rotate: true
+  xy: 1498, 1624
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+teen/apparel/calf3_l_sock_stripe1
+  rotate: true
+  xy: 724, 1412
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+teen/apparel/calf3_r_sock_base
+  rotate: true
+  xy: 1111, 1412
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+teen/apparel/calf3_r_sock_stripe0
+  rotate: true
+  xy: 1498, 1412
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+teen/apparel/calf3_r_sock_stripe1
+  rotate: true
+  xy: 724, 1200
+  size: 210, 385
+  orig: 210, 385
+  offset: 0, 0
+  index: -1
+teen/arm_l
+  rotate: true
+  xy: 2, 3
+  size: 108, 359
+  orig: 108, 359
+  offset: 0, 0
+  index: -1
+teen/arm_r
+  rotate: true
+  xy: 363, 3
+  size: 108, 359
+  orig: 108, 359
+  offset: 0, 0
+  index: -1
+teen/cheek2_l
+  rotate: false
+  xy: 1026, 259
+  size: 262, 136
+  orig: 262, 136
+  offset: 0, 0
+  index: -1
+
+pony_adult_female211.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base2/item_plug_canine
+  rotate: true
+  xy: 1485, 685
+  size: 143, 241
+  orig: 143, 241
+  offset: 0, 0
+  index: -1
+base2/wing_in_r
+  rotate: true
+  xy: 1580, 1249
+  size: 173, 162
+  orig: 173, 162
+  offset: 0, 0
+  index: -1
+base3/apparel/blindfold0
+  rotate: true
+  xy: 240, 1712
+  size: 332, 147
+  orig: 332, 147
+  offset: 0, 0
+  index: -1
+base3/apparel/blindfold1
+  rotate: true
+  xy: 192, 1001
+  size: 332, 147
+  orig: 332, 147
+  offset: 0, 0
+  index: -1
+base3/apparel/thigh3_l_sock_stripe0
+  rotate: true
+  xy: 1745, 1529
+  size: 195, 289
+  orig: 195, 289
+  offset: 0, 0
+  index: -1
+base3/apparel/thigh3_l_sock_stripe1
+  rotate: true
+  xy: 1745, 1332
+  size: 195, 289
+  orig: 195, 289
+  offset: 0, 0
+  index: -1
+base3/brows/brows_down-in2
+  rotate: true
+  xy: 341, 1068
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/brows/brows_down-in3
+  rotate: true
+  xy: 506, 1405
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/brows/brows_down-in4
+  rotate: true
+  xy: 572, 1735
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/brows/brows_out
+  rotate: true
+  xy: 240, 360
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/brows/brows_out2
+  rotate: true
+  xy: 254, 49
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/brows/brows_up
+  rotate: true
+  xy: 417, 360
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/brows/brows_up-in0
+  rotate: true
+  xy: 594, 361
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/brows/brows_up-in1
+  rotate: true
+  xy: 518, 1094
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/brows/brows_up-in2
+  rotate: true
+  xy: 683, 1424
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/brows/brows_up-in3
+  rotate: true
+  xy: 749, 1735
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/brows/brows_up2
+  rotate: true
+  xy: 431, 49
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/brows/brows_up3
+  rotate: true
+  xy: 423, 757
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/fx/blush0
+  rotate: true
+  xy: 192, 1335
+  size: 340, 140
+  orig: 340, 140
+  offset: 0, 0
+  index: -1
+base3/items/item_dildo_horse0
+  rotate: true
+  xy: 675, 673
+  size: 108, 221
+  orig: 108, 221
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog0_cum2
+  rotate: true
+  xy: 1811, 1886
+  size: 158, 228
+  orig: 158, 228
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog0_cum3
+  rotate: true
+  xy: 1811, 1726
+  size: 158, 228
+  orig: 158, 228
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog0_squirt0
+  rotate: false
+  xy: 1580, 1019
+  size: 158, 228
+  orig: 158, 228
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog0_squirt1
+  rotate: true
+  xy: 1336, 2
+  size: 158, 228
+  orig: 158, 228
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog1_squirt3
+  rotate: true
+  xy: 1712, 2
+  size: 211, 304
+  orig: 211, 304
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse0_cum0
+  rotate: true
+  xy: 1167, 692
+  size: 108, 221
+  orig: 108, 221
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_closed-down
+  rotate: true
+  xy: 600, 783
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_closed-squeeze2
+  rotate: true
+  xy: 695, 1113
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_closed-squeezeb
+  rotate: true
+  xy: 860, 1424
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_closed-up
+  rotate: true
+  xy: 926, 1735
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_closed-up3
+  rotate: true
+  xy: 777, 802
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_closed-up9
+  rotate: true
+  xy: 872, 1113
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-down-in_low
+  rotate: true
+  xy: 1037, 1424
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-down-in_up
+  rotate: true
+  xy: 1103, 1735
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-down-in_up2
+  rotate: true
+  xy: 608, 50
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-down-out_squint
+  rotate: true
+  xy: 771, 362
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-down-out_straight
+  rotate: true
+  xy: 954, 802
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-down2-out_squint2
+  rotate: true
+  xy: 1049, 1113
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-down2_squint2
+  rotate: true
+  xy: 1214, 1424
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-down_low
+  rotate: true
+  xy: 1280, 1735
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-down_squint
+  rotate: true
+  xy: 1131, 802
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-in
+  rotate: true
+  xy: 1226, 1113
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-straight-in_up2
+  rotate: true
+  xy: 1391, 1424
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-straight-in_up3
+  rotate: true
+  xy: 1457, 1735
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-up-flat_low
+  rotate: true
+  xy: 785, 51
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-up-flat_up
+  rotate: true
+  xy: 948, 366
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half-up-out_inner
+  rotate: true
+  xy: 962, 55
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half_up2
+  rotate: true
+  xy: 1125, 366
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_half_up3
+  rotate: true
+  xy: 1308, 802
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_lidded
+  rotate: true
+  xy: 1403, 1113
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_lidded_one
+  rotate: true
+  xy: 1568, 1424
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_open
+  rotate: true
+  xy: 1634, 1735
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_open-down-out_straight
+  rotate: false
+  xy: 1730, 746
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_open_low
+  rotate: false
+  xy: 1728, 569
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_open_up-one
+  rotate: false
+  xy: 1725, 215
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lashes/female0/lids3_open_up3
+  rotate: false
+  xy: 1725, 392
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/thigh3_l
+  rotate: true
+  xy: 1744, 1135
+  size: 195, 289
+  orig: 195, 289
+  offset: 0, 0
+  index: -1
+bat/thigh3_l
+  rotate: true
+  xy: 1744, 1135
+  size: 195, 289
+  orig: 195, 289
+  offset: 0, 0
+  index: -1
+base3/thigh3_r
+  rotate: false
+  xy: 1139, 2
+  size: 195, 289
+  orig: 195, 289
+  offset: 0, 0
+  index: -1
+bat/thigh3_r
+  rotate: false
+  xy: 1139, 2
+  size: 195, 289
+  orig: 195, 289
+  offset: 0, 0
+  index: -1
+teen/thigh3_r
+  rotate: false
+  xy: 1139, 2
+  size: 195, 289
+  orig: 195, 289
+  offset: 0, 0
+  index: -1
+base3/upperarm_r
+  rotate: false
+  xy: 1740, 923
+  size: 306, 210
+  orig: 306, 210
+  offset: 0, 0
+  index: -1
+base3/wings/wing_half_l_tip2
+  rotate: false
+  xy: 129, 8
+  size: 123, 267
+  orig: 123, 267
+  offset: 0, 0
+  index: -1
+base3/wings/wing_half_l_tip3
+  rotate: false
+  xy: 1336, 162
+  size: 145, 129
+  orig: 145, 129
+  offset: 0, 0
+  index: -1
+base3/wings/wing_half_l_top
+  rotate: true
+  xy: 1484, 468
+  size: 215, 239
+  orig: 215, 239
+  offset: 0, 0
+  index: -1
+base3/wings/wing_half_r_tip2
+  rotate: true
+  xy: 898, 677
+  size: 123, 267
+  orig: 123, 267
+  offset: 0, 0
+  index: -1
+base3/wings/wing_half_r_top
+  rotate: true
+  xy: 1484, 251
+  size: 215, 239
+  orig: 215, 239
+  offset: 0, 0
+  index: -1
+celestia/chest_front
+  rotate: false
+  xy: 1485, 830
+  size: 243, 187
+  orig: 243, 187
+  offset: 0, 0
+  index: -1
+changeling/calf_r
+  rotate: false
+  xy: 2, 1677
+  size: 236, 367
+  orig: 236, 367
+  offset: 0, 0
+  index: -1
+changeling/ear_r2
+  rotate: false
+  xy: 2, 7
+  size: 125, 268
+  orig: 125, 268
+  offset: 0, 0
+  index: -1
+changeling/hand_shackle_l
+  rotate: true
+  xy: 1302, 293
+  size: 156, 179
+  orig: 156, 179
+  offset: 0, 0
+  index: -1
+changeling/horn_chryssi
+  rotate: true
+  xy: 423, 672
+  size: 83, 250
+  orig: 83, 250
+  offset: 0, 0
+  index: -1
+changeling/wing_l2
+  rotate: true
+  xy: 2, 1319
+  size: 356, 188
+  orig: 356, 188
+  offset: 0, 0
+  index: -1
+changeling/wing_r2
+  rotate: true
+  xy: 2, 961
+  size: 356, 188
+  orig: 356, 188
+  offset: 0, 0
+  index: -1
+luna/crown
+  rotate: true
+  xy: 1302, 451
+  size: 239, 180
+  orig: 239, 180
+  offset: 0, 0
+  index: -1
+teen/calf4_l
+  rotate: false
+  xy: 389, 1716
+  size: 181, 328
+  orig: 181, 328
+  offset: 0, 0
+  index: -1
+teen/calf4_r
+  rotate: false
+  xy: 240, 671
+  size: 181, 328
+  orig: 181, 328
+  offset: 0, 0
+  index: -1
+teen/wing_l
+  rotate: true
+  xy: 2, 619
+  size: 340, 236
+  orig: 340, 236
+  offset: 0, 0
+  index: -1
+teen/wing_r
+  rotate: true
+  xy: 2, 277
+  size: 340, 236
+  orig: 340, 236
+  offset: 0, 0
+  index: -1
+twilight/hair_front
+  rotate: true
+  xy: 1566, 11
+  size: 238, 144
+  orig: 238, 144
+  offset: 0, 0
+  index: -1
+twilight/hair_mid
+  rotate: true
+  xy: 334, 1379
+  size: 331, 170
+  orig: 331, 170
+  offset: 0, 0
+  index: -1
+
+pony_adult_female212.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base2/fx/splash2_0
+  rotate: true
+  xy: 179, 1563
+  size: 174, 169
+  orig: 174, 169
+  offset: 0, 0
+  index: -1
+base2/fx/splash2_1
+  rotate: true
+  xy: 179, 1387
+  size: 174, 169
+  orig: 174, 169
+  offset: 0, 0
+  index: -1
+base2/fx/splash2_2
+  rotate: false
+  xy: 533, 823
+  size: 174, 169
+  orig: 174, 169
+  offset: 0, 0
+  index: -1
+base2/fx/splash2_3
+  rotate: false
+  xy: 709, 823
+  size: 174, 169
+  orig: 174, 169
+  offset: 0, 0
+  index: -1
+base2/fx/splash2_4
+  rotate: true
+  xy: 1163, 31
+  size: 174, 169
+  orig: 174, 169
+  offset: 0, 0
+  index: -1
+base2/fx/splash2_5
+  rotate: true
+  xy: 1823, 10
+  size: 174, 169
+  orig: 174, 169
+  offset: 0, 0
+  index: -1
+base2/splat3
+  rotate: false
+  xy: 1022, 355
+  size: 134, 100
+  orig: 134, 100
+  offset: 0, 0
+  index: -1
+base2/upperarm_r
+  rotate: false
+  xy: 1348, 520
+  size: 106, 173
+  orig: 106, 173
+  offset: 0, 0
+  index: -1
+base3/apparel/thigh3_r_sock_stripe1
+  rotate: true
+  xy: 1596, 1651
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+base3/bulge
+  rotate: false
+  xy: 1848, 1012
+  size: 195, 101
+  orig: 195, 101
+  offset: 0, 0
+  index: -1
+base3/eye_highlights
+  rotate: true
+  xy: 1026, 667
+  size: 103, 134
+  orig: 103, 134
+  offset: 0, 0
+  index: -1
+base3/fx/mess/squirt_butt_2
+  rotate: false
+  xy: 1794, 607
+  size: 220, 102
+  orig: 220, 102
+  offset: 0, 0
+  index: -1
+base3/iris
+  rotate: true
+  xy: 887, 581
+  size: 103, 134
+  orig: 103, 134
+  offset: 0, 0
+  index: -1
+base3/iris_bottom
+  rotate: true
+  xy: 1023, 562
+  size: 103, 134
+  orig: 103, 134
+  offset: 0, 0
+  index: -1
+base3/iris_r
+  rotate: true
+  xy: 1022, 457
+  size: 103, 134
+  orig: 103, 134
+  offset: 0, 0
+  index: -1
+base3/iris_top
+  rotate: false
+  xy: 1456, 488
+  size: 103, 134
+  orig: 103, 134
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog0_squirt2
+  rotate: true
+  xy: 617, 1356
+  size: 158, 228
+  orig: 158, 228
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_dog0_squirt3
+  rotate: true
+  xy: 617, 1196
+  size: 158, 228
+  orig: 158, 228
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse0_cum1
+  rotate: true
+  xy: 350, 1406
+  size: 108, 221
+  orig: 108, 221
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse0_cum2
+  rotate: false
+  xy: 1474, 1293
+  size: 108, 221
+  orig: 108, 221
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse0_cum3
+  rotate: false
+  xy: 1474, 1070
+  size: 108, 221
+  orig: 108, 221
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse0_squirt0
+  rotate: false
+  xy: 1470, 847
+  size: 108, 221
+  orig: 108, 221
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse0_squirt1
+  rotate: false
+  xy: 1461, 624
+  size: 108, 221
+  orig: 108, 221
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse0_squirt2
+  rotate: true
+  xy: 1190, 695
+  size: 108, 221
+  orig: 108, 221
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_dildo_horse0_squirt3
+  rotate: true
+  xy: 1571, 665
+  size: 108, 221
+  orig: 108, 221
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard2_cum1
+  rotate: true
+  xy: 1860, 1626
+  size: 108, 186
+  orig: 108, 186
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard2_cum2
+  rotate: true
+  xy: 1858, 1516
+  size: 108, 186
+  orig: 108, 186
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard2_cum3
+  rotate: true
+  xy: 1858, 1406
+  size: 108, 186
+  orig: 108, 186
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard2_squirt0
+  rotate: false
+  xy: 313, 2
+  size: 108, 186
+  orig: 108, 186
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard2_squirt1
+  rotate: true
+  xy: 1844, 711
+  size: 108, 186
+  orig: 108, 186
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard2_squirt2
+  rotate: true
+  xy: 1571, 555
+  size: 108, 186
+  orig: 108, 186
+  offset: 0, 0
+  index: -1
+base3/items/mess/item_plug_standard2_squirt3
+  rotate: true
+  xy: 1759, 497
+  size: 108, 186
+  orig: 108, 186
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_closed_ah
+  rotate: false
+  xy: 2, 1870
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_closed_angry
+  rotate: false
+  xy: 313, 1870
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_closed_base
+  rotate: false
+  xy: 624, 1870
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_half_ah
+  rotate: false
+  xy: 935, 1870
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_half_base
+  rotate: false
+  xy: 1246, 1870
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_half_ow
+  rotate: false
+  xy: 1557, 1870
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_lidded_ah
+  rotate: true
+  xy: 1868, 1736
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_lidded_ow
+  rotate: true
+  xy: 2, 1425
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_open_ah
+  rotate: true
+  xy: 2, 1114
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_open_base
+  rotate: true
+  xy: 2, 803
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_open_ow
+  rotate: true
+  xy: 2, 492
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids2_open_scared
+  rotate: true
+  xy: 2, 181
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_closed-down
+  rotate: false
+  xy: 2, 4
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_closed-squeeze2
+  rotate: false
+  xy: 352, 1693
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_closed-squeezeb
+  rotate: false
+  xy: 663, 1693
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_closed-up
+  rotate: false
+  xy: 974, 1693
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_closed-up3
+  rotate: false
+  xy: 1285, 1693
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_closed-up9
+  rotate: false
+  xy: 350, 1516
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-down-in_low
+  rotate: false
+  xy: 661, 1516
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-down-in_up
+  rotate: false
+  xy: 972, 1516
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-down-in_up2
+  rotate: false
+  xy: 1283, 1516
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-down-out_squint
+  rotate: true
+  xy: 179, 1076
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-down-out_straight
+  rotate: true
+  xy: 179, 765
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-down2-out_squint2
+  rotate: true
+  xy: 179, 454
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-down2_squint2
+  rotate: true
+  xy: 356, 1095
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-down_low
+  rotate: true
+  xy: 356, 784
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-down_squint
+  rotate: true
+  xy: 356, 473
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-in
+  rotate: false
+  xy: 852, 1339
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-straight-in_up2
+  rotate: false
+  xy: 1163, 1339
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-straight-in_up3
+  rotate: false
+  xy: 852, 1162
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-up-flat_low
+  rotate: false
+  xy: 1163, 1162
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-up-flat_up
+  rotate: false
+  xy: 533, 1019
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half-up-out_inner
+  rotate: true
+  xy: 533, 510
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half_up2
+  rotate: true
+  xy: 710, 510
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_half_up3
+  rotate: true
+  xy: 1158, 207
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_lidded
+  rotate: false
+  xy: 852, 3
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_lidded_one
+  rotate: true
+  xy: 1561, 244
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_open
+  rotate: true
+  xy: 1335, 6
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_open-down-out_straight
+  rotate: false
+  xy: 1512, 67
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_open_low
+  rotate: true
+  xy: 1823, 186
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/pupil
+  rotate: false
+  xy: 1348, 384
+  size: 103, 134
+  orig: 103, 134
+  offset: 0, 0
+  index: -1
+base3/restraints/leash_ring_base
+  rotate: false
+  xy: 836, 310
+  size: 184, 185
+  orig: 184, 185
+  offset: 0, 0
+  index: -1
+base3/restraints/leg_leash_line_r
+  rotate: false
+  xy: 1453, 317
+  size: 102, 169
+  orig: 102, 169
+  offset: 0, 0
+  index: -1
+base3/restraints/leg_shackle_l
+  rotate: true
+  xy: 2, 1739
+  size: 129, 173
+  orig: 129, 173
+  offset: 0, 0
+  index: -1
+base3/restraints/leg_shackle_r
+  rotate: true
+  xy: 177, 1739
+  size: 129, 173
+  orig: 129, 173
+  offset: 0, 0
+  index: -1
+base3/thigh4_l
+  rotate: true
+  xy: 561, 12
+  size: 195, 289
+  orig: 195, 289
+  offset: 0, 0
+  index: -1
+base3/wings/wing_half_r_tip3
+  rotate: false
+  xy: 1043, 772
+  size: 145, 129
+  orig: 145, 129
+  offset: 0, 0
+  index: -1
+changeling/apparel/thigh_l_sock_base
+  rotate: true
+  xy: 1594, 1432
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+changeling/apparel/thigh_l_sock_stripe0
+  rotate: false
+  xy: 179, 190
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+changeling/apparel/thigh_l_sock_stripe1
+  rotate: false
+  xy: 398, 209
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+changeling/apparel/thigh_r_sock_base
+  rotate: true
+  xy: 1584, 1213
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+changeling/apparel/thigh_r_sock_stripe0
+  rotate: true
+  xy: 1584, 994
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+changeling/apparel/thigh_r_sock_stripe1
+  rotate: false
+  xy: 617, 246
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+changeling/cheek_r
+  rotate: true
+  xy: 423, 8
+  size: 199, 136
+  orig: 199, 136
+  offset: 0, 0
+  index: -1
+changeling/hair_mid
+  rotate: true
+  xy: 887, 686
+  size: 135, 137
+  orig: 135, 137
+  offset: 0, 0
+  index: -1
+changeling/hand_shackle_r
+  rotate: true
+  xy: 844, 1004
+  size: 156, 179
+  orig: 156, 179
+  offset: 0, 0
+  index: -1
+changeling/thigh_l
+  rotate: true
+  xy: 1206, 943
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+changeling/thigh_r
+  rotate: true
+  xy: 1580, 775
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+luna/chest_front
+  rotate: false
+  xy: 1043, 903
+  size: 152, 99
+  orig: 152, 99
+  offset: 0, 0
+  index: -1
+sweetie_belle/hair_mid0
+  rotate: true
+  xy: 1162, 518
+  size: 175, 184
+  orig: 175, 184
+  offset: 0, 0
+  index: -1
+sweetie_belle/hair_mid1
+  rotate: false
+  xy: 1848, 821
+  size: 193, 189
+  orig: 193, 189
+  offset: 0, 0
+  index: -1
+teen/cheek2_r
+  rotate: false
+  xy: 1197, 805
+  size: 262, 136
+  orig: 262, 136
+  offset: 0, 0
+  index: -1
+teen/hand_shackle_l
+  rotate: false
+  xy: 885, 823
+  size: 156, 179
+  orig: 156, 179
+  offset: 0, 0
+  index: -1
+teen/hand_shackle_r
+  rotate: true
+  xy: 1025, 1004
+  size: 156, 179
+  orig: 156, 179
+  offset: 0, 0
+  index: -1
+teen/leg_shackle_l
+  rotate: false
+  xy: 1022, 180
+  size: 129, 173
+  orig: 129, 173
+  offset: 0, 0
+  index: -1
+teen/thigh3_l
+  rotate: false
+  xy: 1848, 1115
+  size: 195, 289
+  orig: 195, 289
+  offset: 0, 0
+  index: -1
+
+pony_adult_female213.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base3/lids/lids3_open_up-one
+  rotate: false
+  xy: 313, 2
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+base3/lids/lids3_open_up3
+  rotate: false
+  xy: 2, 2
+  size: 309, 175
+  orig: 309, 175
+  offset: 0, 0
+  index: -1
+teen/leg_shackle_r
+  rotate: false
+  xy: 624, 4
+  size: 129, 173
+  orig: 129, 173
+  offset: 0, 0
+  index: -1
